@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Andra"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Hantera dina möten"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Fel"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Försöka igen"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Hantera möteskalender"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Nytt möte"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Möteskalender"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " dröm"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " schemalagd"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Det finns inga schemalagda möten"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinisk syn"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Laddar klinisk historia..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Anamnes, kliniska anteckningar och odontogram av patienten"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demodata"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Senaste uppdatering: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Medicinsk historia"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Kliniska anteckningar"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Filer"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Parodontogram"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Kroniska sjukdomar"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Inga kroniska sjukdomar registrerade"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Aktuella mediciner"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Inga registrerade mediciner"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Allergier"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Inga kända allergier"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Tidigare tandbehandlingar"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Inga tidigare behandlingar registrerade"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Vanor och observationer"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Rökare"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "icke rökare"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Konsumera alkohol"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Inte konsumera alkohol"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Ingen medicinsk historia registrerad"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Skapa medicinsk historia"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " använda"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinik"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Ny lapp"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Det finns inga kliniska anteckningar registrerade"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Kliniska observationer"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arkiv"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Ladda upp fil"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Det finns inga bifogade kliniska filer"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Kliniskt foto"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografi"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF-dokument"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Andra"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Visa fil"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Filen är inte tillgänglig i demoläge"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Uppladdad av: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Onormala värden"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 mätningar per tand (normalt område: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Serveras"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Serveras "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Anteckningar"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Det finns inget parodontogram registrerat"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Skapa periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Schemalagt"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Bekräftad"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Avslutad"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Avbruten"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Bekräfta"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Avboka"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey Clinic"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX klinik"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara klinik"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Boka tid"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Återvända"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Zooma in"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Ta bort"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Min plats"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Söka efter..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Inga resultat hittades"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Visande "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " av"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " resultat"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Främre"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Sida "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " av "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Följande"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Dental Office Management System."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Villkor"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privatliv"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Hjälpa"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Sök efter patienter, möten..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Aviseringar"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Nytt möte planerat"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Tandstädning kl 10:00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Betalningspåminnelse"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González har en väntande betalning på $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Avbokat möte"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz avbröt sitt möte på fredagen"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Mitt konto"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfiguration"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Logga ut"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Karies"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Slutade"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Frånvarande"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "i behandling"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Övre bågen"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Nedre båge"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Tillgång"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "På tomgång"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Nästa möte:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Se Detaljer"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Boka tid"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% sedan förra månaden"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Nära"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Dagens citat"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Patienter serveras"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Daglig inkomst"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktiva behandlingar"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Instrumentbräda"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Välkommen till din kontrollpanel"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Det gick inte att ladda instrumentpanelsdata"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Sammanfattning av din tandklinik"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Ny patient"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Patient"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Inkomst vs utgifter"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Månatlig jämförelse av intäkter och kostnader"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Senaste citat"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Senaste schemalagda möten"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Veckobokningar"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Fördelning av möten under veckan"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Allmän sammanfattning"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Allmän klinikstatistik"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Totalt antal patienter"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Väntande skulder"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Kommande möten"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Månadsbalans"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Totala intäkter"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Totala utgifter"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balansera Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Väntande betalningar"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finansiera"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Hantera din kliniks ekonomi"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Ekonomisk sammanfattning av din klinik"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Registrera Betalning"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Senaste inkomst"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Senaste intäktsrörelserna"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Inga nya inkomster att visa"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Senaste utgifter"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Senaste utgiftsrörelserna"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Inga nya utgifter att visa"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Sök efter en tandläkare, specialitet..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Sök tandläkare på namn, specialitet eller klinik"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Se kontor på kartan"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Karta"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Dagordningen är Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Snabbt, enkelt – för dig och vem du vill."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Våra tandläkare"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Specialister på alla kliniker"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Inga resultat för \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Boka"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Se mer"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Använd toothx på ditt kontor"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Tillbaka till toppen"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Utvidga din praktik med Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Plattformen som kopplar samman tandläkare med patienter. Skapa din profil, registrera dina kontor och börja ta emot möten redan idag."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Skapa tandläkarprofil"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Gratis att starta · Inget kreditkort"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Sök efter patienter..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Patienter"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Hantera dina patienter"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Hantera dina patienters information"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Patientlista"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " patient"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " hittade"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Det finns inga registrerade patienter ännu"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Inga patienter hittades"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Huvudgatan #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Allmän tandvård"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Anpassa appen efter dina behov"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Allmän"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Underrättelse."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Säkerhet"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Han"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Allmänna inställningar"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Allmänna klinikinställningar"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinikens namn"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adress"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-post"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Spara ändringar"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profilinformation"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Uppdatera din personliga information"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Fullständigt namn"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Specialitet"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Uppdatera profil"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Aviseringsinställningar"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfigurera hur du vill ta emot aviseringar"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Aviseringar om möten"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Få påminnelser om kommande möten"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Aktivera"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Betalningsmeddelanden"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Få varningar om väntande betalningar"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "E-postmeddelanden"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Få aviseringar i din e-post"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Hantera ditt kontosäkerhet"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Aktuellt lösenord"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Nytt lösenord"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Bekräfta nytt lösenord"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Ändra lösenord"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Utseende"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Anpassa appens utseende"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Mörkt läge"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Växla mellan ljust och mörkt läge"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktivera"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Fontstorlek"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Justera textstorleken"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfigurera"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Pågår"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Fylld"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Avbruten"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Örhänge"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "i avvaktan på"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Behandlingar"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Hantera behandlingar"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Hantera tandbehandlingar"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Ny behandling"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Behandlingslista"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " behandling"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " registrerad"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Det finns inga registrerade behandlingar"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Namnlös"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Patient: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Otilldelad"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Se detaljer"
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Άλλοι"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Διαχειριστείτε τα ραντεβού σας"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Σφάλμα"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Δοκιμάζω πάλι"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Διαχείριση ημερολογίου συναντήσεων"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Νέο Ραντεβού"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Ημερολόγιο ραντεβού"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " όνειρο"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "μικρό"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " προγραμματισμένος"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Δεν υπάρχουν προγραμματισμένα ραντεβού"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Κλινική άποψη"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Φόρτωση κλινικού ιστορικού..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Ιατρικό ιστορικό, κλινικές σημειώσεις και οδοντογράφημα του ασθενούς"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Δεδομένα επίδειξης"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Τελευταία ενημέρωση: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Ιατρικό Ιστορικό"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Κλινικές Σημειώσεις"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Οδοντόγραμμα"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Αρχεία"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Περιοδοντόγραμμα"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Χρόνια Νοσήματα"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Δεν έχουν καταγραφεί χρόνια νοσήματα"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Τρέχοντα Φάρμακα"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Δεν υπάρχουν καταχωρημένα φάρμακα"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Αλλεργίες"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Δεν υπάρχουν γνωστές αλλεργίες"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Προηγούμενες οδοντιατρικές θεραπείες"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Δεν έχουν καταγραφεί προηγούμενες θεραπείες"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Συνήθειες και Παρατηρήσεις"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Καπνιστής"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "μη καπνιστής"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Καταναλώστε αλκοόλ"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Μην καταναλώνετε αλκοόλ"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Δεν έχει καταγραφεί ιατρικό ιστορικό"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Δημιουργία ιατρικού ιστορικού"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " χρήση"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " κλινική"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Νέα σημείωση"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Δεν έχουν καταγραφεί κλινικές σημειώσεις"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Κλινικές παρατηρήσεις"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " αρχείο"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Μεταφόρτωση αρχείου"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Δεν υπάρχουν συνημμένα κλινικά αρχεία"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Κλινική Φωτογραφία"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Ακτινογραφία"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "έγγραφο PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Αλλος"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Προβολή αρχείου"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Το αρχείο δεν είναι διαθέσιμο σε λειτουργία επίδειξης"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Ανέβηκε από: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Μη φυσιολογικές τιμές"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 μετρήσεις ανά δόντι (κανονικό εύρος: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Σερβίρεται"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "Μ1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "Μ2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "Μ3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "Μ4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "Μ5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "Μ6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Σερβίρεται "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Σημειώσεις"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Δεν έχει καταγραφεί περιοδοντόγραμμα"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Δημιουργία περιοδοντογράμματος"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Προγραμματισμένος"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Επιβεβαιωμένος"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Ολοκληρώθηκε το"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Ακυρώθηκε"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Επιβεβαιώνω"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Ματαίωση"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Κλινική Μοντερέι"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Κλινική CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Κλινική Γκουανταλαχάρα"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Προγραμματίστε ραντεβού"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Απόδοση"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Μεγέθυνση"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Αφαιρώ"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Η τοποθεσία μου"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Αναζητώ..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Δεν βρέθηκαν αποτελέσματα"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Επίδειξη "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " του"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " αποτελέσματα"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Προηγούμενος"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Σελίδα "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " του "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Εξής"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Σύστημα Διαχείρισης Οδοντιατρείου."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Οροι"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Μυστικότητα"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Βοήθεια"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Αναζήτηση ασθενών, ραντεβού..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ρε"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Ειδοποιήσεις"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Προγραμματίστηκε νέο ραντεβού"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Οδοντιατρικός καθαρισμός στις 10:00 π.μ"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Υπενθύμιση πληρωμής"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "Η María González έχει μια πληρωμή 500 $ σε εκκρεμότητα"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Ακυρώθηκε το ραντεβού"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Ο Carlos Ruiz ακύρωσε το ραντεβού του την Παρασκευή"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Ο λογαριασμός μου"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Προφίλ"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Διαμόρφωση"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Αποσύνδεση"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Σάνο"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Τερηδόνα"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Κλειστό"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Απών"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "στη θεραπεία"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Άνω Αψίδα"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Κάτω Αψίδα"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Κεφάλαιο"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Αεργος"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Επόμενο ραντεβού:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Δείτε Λεπτομέρειες"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Προγραμματισμός Ραντεβού"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% από τον προηγούμενο μήνα"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Κοντά"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Τα σημερινά αποσπάσματα"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Εξυπηρέτηση ασθενών"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Ημερήσιο εισόδημα"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Ενεργές Θεραπείες"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Ταμπλό"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Καλώς ορίσατε στον πίνακα ελέγχου σας"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Δεν ήταν δυνατή η φόρτωση των δεδομένων του πίνακα ελέγχου"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Περίληψη της οδοντιατρικής σας κλινικής"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Νέος ασθενής"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Ασθενής"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Έσοδα έναντι εξόδων"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Μηνιαία σύγκριση εσόδων και εξόδων"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Πρόσφατα αποσπάσματα"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Τελευταία προγραμματισμένα ραντεβού"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Εβδομαδιαία ραντεβού"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Κατανομή ραντεβού κατά τη διάρκεια της εβδομάδας"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Γενική Περίληψη"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Γενικά στατιστικά της κλινικής"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Σύνολο ασθενών"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Εκκρεμείς οφειλές"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Προσεχή ραντεβού"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Μηνιαίο Υπόλοιπο"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Συνολικά έσοδα"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Συνολικά Έξοδα"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Ισορροπία Νέτο"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Εκκρεμείς πληρωμές"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Οικονομικά"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Διαχειριστείτε τα οικονομικά της κλινικής σας"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Οικονομική περίληψη της κλινικής σας"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Εγγραφή πληρωμής"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Πρόσφατο εισόδημα"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Τελευταίες κινήσεις εσόδων"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Δεν υπάρχουν πρόσφατα έσοδα προς εμφάνιση"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Πρόσφατα Έξοδα"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Τελευταίες κινήσεις δαπανών"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Δεν υπάρχουν πρόσφατες δαπάνες προς εμφάνιση"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Αναζήτηση οδοντίατρου, ειδικότητας…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Αναζητήστε τον οδοντίατρο με το όνομα, την ειδικότητα ή την κλινική"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Δείτε τα γραφεία στο χάρτη"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Χάρτης"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Η ατζέντα είναι η Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Γρήγορα, εύκολα — για εσάς και όποιον θέλετε."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Οι οδοντίατροι μας"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Ειδικοί σε όλες τις κλινικές"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Δεν υπάρχουν αποτελέσματα για \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Απόθεμα"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Δείτε περισσότερα"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Χρησιμοποιήστε toothx στο γραφείο σας"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Επιστροφή στην κορυφή"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Αναπτύξτε την πρακτική σας με την Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Η πλατφόρμα που συνδέει τους οδοντιάτρους με τους ασθενείς. Δημιουργήστε το προφίλ σας, εγγραφείτε στα γραφεία σας και αρχίστε να λαμβάνετε ραντεβού σήμερα."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Δημιουργία προφίλ οδοντιάτρου"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Δωρεάν έναρξη · Χωρίς πιστωτική κάρτα"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Αναζήτηση ασθενών..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Ασθενείς"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Διαχειριστείτε τους ασθενείς σας"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Διαχειριστείτε τις πληροφορίες των ασθενών σας"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Κατάλογος ασθενών"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " ασθενής"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " θεμελιώ"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Δεν υπάρχουν ακόμη εγγεγραμμένοι ασθενείς"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Δεν βρέθηκαν ασθενείς"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Κεντρικός δρόμος #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Γενική Οδοντιατρική"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Προσαρμόστε την εφαρμογή σύμφωνα με τις ανάγκες σας"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Γενικός"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Κοινοποίηση."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Ασφάλεια"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Αυτός"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Γενικές Ρυθμίσεις"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Γενικές ρυθμίσεις κλινικής"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Όνομα κλινικής"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Διεύθυνση"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Τηλέφωνο"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-mail"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Αποθήκευση αλλαγών"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Πληροφορίες προφίλ"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Ενημερώστε τα προσωπικά σας στοιχεία"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Ονοματεπώνυμο"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Ειδικότητα"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Ενημέρωση προφίλ"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Προτιμήσεις ειδοποιήσεων"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Διαμορφώστε τον τρόπο με τον οποίο θέλετε να λαμβάνετε ειδοποιήσεις"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Ειδοποιήσεις ραντεβού"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Λάβετε υπενθυμίσεις για επερχόμενα ραντεβού"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Καθιστώ ικανό"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Ειδοποιήσεις πληρωμών"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Λάβετε ειδοποιήσεις σχετικά με πληρωμές σε εκκρεμότητα"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Ειδοποιήσεις μέσω email"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Λάβετε ειδοποιήσεις στο email σας"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Διαχειριστείτε την ασφάλεια του λογαριασμού σας"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Τρέχων κωδικός πρόσβασης"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Νέος κωδικός πρόσβασης"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Επιβεβαίωση νέου κωδικού πρόσβασης"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Αλλαγή κωδικού πρόσβασης"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Εμφάνιση"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Προσαρμόστε την εμφάνιση της εφαρμογής"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Σκοτεινή λειτουργία"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Εναλλαγή μεταξύ φωτεινής και σκοτεινής λειτουργίας"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Δραστηριοποιώ"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Μέγεθος γραμματοσειράς"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Προσαρμόστε το μέγεθος του κειμένου"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Διαμόρφωση"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Σε εξέλιξη"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Γέμισε"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Ακυρώθηκε"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Σκουλαρίκι"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "εκκρεμής"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Θεραπείες"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Διαχειριστείτε τις θεραπείες"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Διαχειριστείτε τις οδοντιατρικές θεραπείες"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Νέα Θεραπεία"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Κατάλογος θεραπείας"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " θεραπεία"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " εγγεγραμμένος"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Δεν υπάρχουν καταχωρημένες θεραπείες"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Ανώνυμος"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Ασθενής: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Χωρίς ανάθεση"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Δείτε λεπτομέρειες"
+  }
+}

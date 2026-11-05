@@ -8,6 +8,7 @@ import { Skeleton } from "@/app/components/ui/skeleton"
 import { StatsCard } from "@/app/components/stats-card"
 import { DollarSign, TrendingUp, TrendingDown, Wallet } from "lucide-react"
 import apiClient from "@/app/lib/api"
+import { useInterfaceTranslator } from '../../localization/client'
 
 interface FinancialSummary {
   total_income: number
@@ -17,6 +18,7 @@ interface FinancialSummary {
 }
 
 export default function FinancePage() {
+  const translate = useInterfaceTranslator()
   const [summary, setSummary] = useState<FinancialSummary | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -98,24 +100,24 @@ export default function FinancePage() {
 
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatsCard
-            title="Ingresos Totales"
+            title={translate("Ingresos Totales")}
             value={formatCurrency(summary?.total_income || 0)}
             icon={TrendingUp}
             trend={{ value: 12, isPositive: true }}
           />
           <StatsCard
-            title="Gastos Totales"
+            title={translate("Gastos Totales")}
             value={formatCurrency(summary?.total_expenses || 0)}
             icon={TrendingDown}
           />
           <StatsCard
-            title="Balance Neto"
+            title={translate("Balance Neto")}
             value={formatCurrency(summary?.net_balance || 0)}
             icon={Wallet}
             trend={{ value: 8, isPositive: true }}
           />
           <StatsCard
-            title="Pagos Pendientes"
+            title={translate("Pagos Pendientes")}
             value={formatCurrency(summary?.pending_payments || 0)}
             icon={DollarSign}
           />

@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "တခြားသူတွေ"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "သင်၏ချိန်းဆိုမှုများကို စီမံပါ။"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "အမှား"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ပြန်ကြိုးစားပါ။"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "ရက်ချိန်းပြက္ခဒိန်ကို စီမံပါ။"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "ချိန်းချက်အသစ်"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "ရက်ချိန်းပြက္ခဒိန်"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " အိပ်မက်"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "၎"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " စီစဉ်ထားသည်။"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "ချိန်းထားတာတွေ မရှိဘူး။"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "လက်တွေ့ကြည့်ရှုခြင်း။"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "ဆေးခန်းမှတ်တမ်းကို ဖွင့်နေသည်..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "ဆေးမှတ်တမ်း၊ ဆေးခန်းမှတ်စုများနှင့် လူနာ၏ odontogram"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ဒီမိုဒေတာ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "နောက်ဆုံးအပ်ဒိတ်- "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "ဆေးမှတ်တမ်း"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "လက်တွေ့မှတ်စုများ"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ဖို"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "နာတာရှည်ရောဂါများ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "နာတာရှည်ရောဂါများကို မှတ်တမ်းတင်ထားခြင်းမရှိပါ။"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "လက်ရှိဆေးဝါးများ"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "မှတ်ပုံတင်ထားသော ဆေးမရှိပါ။"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "ဓာတ်မတည့်ခြင်း။"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "ဓာတ်မတည့်ခြင်း မရှိပါ။"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "ယခင် သွားနှင့်ခံတွင်း ကုသမှုများ"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "ယခင်ကုသမှုများကို မှတ်တမ်းတင်ထားခြင်းမရှိပါ။"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "အလေ့အထများနှင့် လေ့လာတွေ့ရှိချက်များ"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "ဆေးလိပ်သောက်သူ"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ဆေးလိပ်မသောက်သူ"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "အရက်သောက်ပါ။"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "အရက်မသောက်ရ။"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "ဆေးမှတ်တမ်း မှတ်တမ်းတင်ထားခြင်းမရှိပါ။"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "ဆေးမှတ်တမ်းဖန်တီးပါ။"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " အသုံးပြု"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " ဆေးခန်း"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "မှတ်စုအသစ်"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "ဆေးခန်းမှတ်စုများ မရှိပါ။"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "လက်တွေ့လေ့လာတွေ့ရှိချက်များ"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " archive"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ဖိုင်ကို တင်ပါ။"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "ဆေးခန်းသုံးဖိုင်တွဲမရှိပါ။"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "လက်တွေ့ဓာတ်ပုံ"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "ဓာတ်မှန်ရိုက်ခြင်း။"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF စာရွက်စာတမ်း"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "တခြား"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ဖိုင်ကိုကြည့်ပါ။"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ဖိုင်ကို သရုပ်ပြမုဒ်တွင် မရရှိနိုင်ပါ။"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "အပ်လုဒ်လုပ်ထားသည်- "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "ပုံမှန်မဟုတ်သောတန်ဖိုးများ"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "သွားတစ်ချောင်းလျှင် တိုင်းတာမှု 6 ခု (ပုံမှန်အကွာအဝေး- 1-3 မီလီမီတာ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "ထမ်းဆောင်ခဲ့သည်။"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "ထမ်းဆောင်ခဲ့သည်။ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "မှတ်စုများ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "periodontogram မှတ်တမ်းတင်ထားခြင်းမရှိပါ။"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "periodontogram ဖန်တီးပါ။"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "စီစဉ်ထားသည်။"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "အတည်ပြုခဲ့သည်။"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "ပြီးသွားပြီ"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "ဖျက်သိမ်းလိုက်သည်။"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "အတည်ပြုပါ။"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "မလုပ်တော့"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey ဆေးခန်း"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX ဆေးခန်း"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara ဆေးခန်း"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "ချိန်းဆိုမှုအချိန်ဇယား"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "ပြန်လာ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ချဲ့ကြည့်ပါ။"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ဖယ်ရှားပါ။"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ငါ့တည်နေရာ"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "ကိုလိုက်ရှာနေသည်..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ရလဒ်များမတွေ့ပါ။"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "သတ်တယ်။ "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ၏"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ရလဒ်များ"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "ရှေ့"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "စာမျက်နှာ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ၏ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "လိုက်နေသည်။"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex သွားဘက်ဆိုင်ရာရုံးစီမံခန့်ခွဲမှုစနစ်။"
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "စည်းမျဥ်း"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "ကိုယ်ရေးကိုယ်တာ"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "အကူအညီများ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "လူနာရှာဖွေရန်၊ ချိန်းဆိုမှုများ ..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ဃ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "အသိပေးချက်များ"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "ချိန်းဆိုမှုအသစ်ကို စီစဉ်ထားသည်။"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - နံနက် ၁၀ နာရီတွင် သွားနှင့်ခံတွင်းသန့်ရှင်းရေး"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "ငွေပေးချေမှု သတိပေးချက်"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González တွင် ဆိုင်းငံ့ပေးချေမှု $500 ရှိသည်။"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "ချိန်းဆိုမှုကို ပယ်ဖျက်လိုက်သည်။"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz သည် ၎င်း၏သောကြာနေ့ချိန်းဆိုမှုကို ပယ်ဖျက်လိုက်သည်။"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "ကြှနျုပျအကောငျ့"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ကိုယ်ရေးအကျဉ်း"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "ဖွဲ့စည်းမှု"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "ဆိုင်းအောက်"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "သွားပိုးစားခြင်း။"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ပိတ်ထားသည်။"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "လာခဲ့ပါ။"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ကုသမှုတွင်"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "အထက်မုခ်"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "အောက် Arch"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "ပိုင်ဆိုင်မှု"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "ဘာမှမလုပ်ဘူး။"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "နောက်ရက်ချိန်း-"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "အသေးစိတ်ကို ကြည့်ပါ။"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "ရက်ချိန်းဇယား"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "ပြီးခဲ့သည့်လကတည်းက %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "ပိတ်လိုက်"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "ယနေ့ကိုးကားချက်များ"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "လူနာများကို ဆောင်ရွက်ပေးပါသည်။"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "နေ့စဉ်ဝင်ငွေ"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "တက်ကြွသောကုသမှုများ"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ဒိုင်ခွက်"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "သင်၏ထိန်းချုပ်မှုဘောင်မှကြိုဆိုပါသည်။"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ဒက်ရှ်ဘုတ်ဒေတာကို တင်၍မရပါ။"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "သင်၏ သွားဆေးခန်း၏ အကျဉ်းချုပ်"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "လူနာအသစ်"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "သည်းခံပါ။"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "ဝင်ငွေနှင့် ကုန်ကျစရိတ်များ"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "လစဉ် ၀င်ငွေနှင့် အသုံးစရိတ် နှိုင်းယှဉ်ခြင်း။"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "လတ်တလောကိုးကားချက်များ"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "နောက်ဆုံးစီစဉ်ထားသော ချိန်းဆိုမှုများ"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "အပတ်စဉ် ချိန်းဆိုမှုများ"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "ရက်သတ္တပတ်အတွင်း ရက်ချိန်းများ ဖြန့်ဝေခြင်း။"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "အထွေထွေအကျဉ်းချုပ်"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "အထွေထွေရောဂါကုဆေးခန်းစာရင်းဇယား"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "စုစုပေါင်းလူနာ"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "စောင့်ဆိုင်းနေသော အကြွေးများ"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "လာမည့် ချိန်းဆိုမှုများ"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "လစဉ် လက်ကျန်ငွေ"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "စုစုပေါင်းဝင်ငွေ"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "စုစုပေါင်းကုန်ကျစရိတ်"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "စောင့်ဆိုင်းနေသော ငွေပေးချေမှုများ"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ဘဏ္ဍာရေး"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "သင့်ဆေးခန်း၏ ငွေကြေးများကို စီမံခန့်ခွဲပါ။"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "သင်၏ဆေးခန်း၏ဘဏ္ဍာရေးအကျဉ်းချုပ်"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "ငွေပေးချေမှုကို မှတ်ပုံတင်ပါ။"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "လတ်တလော ၀င်ငွေ"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "နောက်ဆုံးရငွေလှုပ်ရှားမှုများ"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "လတ်တလောဝင်ငွေကို ပြသရန်မရှိပါ။"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "လတ်တလော အသုံးစရိတ်များ"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "နောက်ဆုံးအသုံးစရိတ်လှုပ်ရှားမှုများ"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "ပြသရန် လတ်တလောကုန်ကျစရိတ်မရှိပါ။"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "သွားဆရာဝန်၊ အထူးပြုရှာဖွေပါ..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "အမည်၊ အထူးပြု သို့မဟုတ် ဆေးခန်းဖြင့် သွားဆရာဝန်ကို ရှာပါ။"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "မြေပုံပေါ်တွင်ရုံးများကိုကြည့်ပါ။"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "မြေပုံ"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "အစီအစဉ်မှာ Cita Dental ဖြစ်သည်။"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "မြန်မြန်ဆန်ဆန် — သင်နှင့် သင်အလိုရှိသောသူတိုင်းအတွက်။"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ငါတို့လေးပဲ။"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "ဆေးခန်းများအားလုံးတွင် အထူးကုဆရာဝန်ကြီးများ၊"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "\"အတွက် ရလဒ်များ မရှိပါ"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "အရံ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "ပိုကြည့်"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "သင့်ရုံးခန်းတွင် သွားပွတ်တံကို အသုံးပြုပါ။"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "ထိပ်သို့ ပြန်သွားရန်"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex ဖြင့် သင်၏အလေ့အကျင့်ကို ကြီးထွားအောင်လုပ်ပါ။"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "လူနာများနှင့် သွားဆရာဝန်များကို ချိတ်ဆက်ပေးသည့် ပလက်ဖောင်း။ သင်၏ပရိုဖိုင်ကိုဖန်တီးပါ၊ သင့်ရုံးများကို စာရင်းသွင်းပြီး ယနေ့ပဲ ချိန်းဆိုမှုများကို စတင်လက်ခံလိုက်ပါ။"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "သွားဆရာဝန် ပရိုဖိုင်ကို ဖန်တီးပါ။"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "စတင်ရန် အခမဲ့ · အကြွေးဝယ်ကတ်မရှိပါ။"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "လူနာများကို ရှာဖွေပါ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "လူနာ"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "သင်၏လူနာများကိုစီမံပါ။"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "သင့်လူနာများ၏ အချက်အလက်ကို စီမံခန့်ခွဲပါ။"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "လူနာစာရင်း"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " လူနာ"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " တွေ့တယ်။"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "မှတ်ပုံတင်ထားတဲ့ လူနာတွေ မရှိသေးဘူး။"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "လူနာမတွေ့ပါ။"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ပင်မလမ်း အမှတ် ၁၂၃"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "အထွေထွေ သွားဘက်ဆိုင်ရာ"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "သင့်လိုအပ်ချက်အရ အက်ပ်ကို စိတ်ကြိုက်ပြင်ဆင်ပါ။"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "အထွေထွေ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "အသိပေးချက်။"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "လုံခြုံရေး"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "သူ"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "အထွေထွေဆက်တင်များ"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "အထွေထွေဆေးခန်းဆက်တင်များ"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ဆေးခန်းအမည်"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "လိပ်စာ"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "တယ်လီဖုန်း"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "အီးမေးလ်"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "အပြောင်းအလဲများကို သိမ်းဆည်းပါ။"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ကိုယ်ရေးအချက်အလက်"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "သင်၏ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို အပ်ဒိတ်လုပ်ပါ။"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "နာမည်အပြည့်အစုံ"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "အထူးပြု"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "ပရိုဖိုင်ကို အပ်ဒိတ်လုပ်ပါ။"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "အကြောင်းကြားချက်များ ဦးစားပေးများ"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "အကြောင်းကြားချက်များကို လက်ခံရယူလိုပုံကို စီစဉ်သတ်မှတ်ပါ။"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "ချိန်းဆိုမှု အသိပေးချက်များ"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "လာမည့်ရက်ချိန်းများအတွက် သတိပေးချက်များကို လက်ခံရယူပါ။"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "ဖွင့်ပါ။"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "ငွေပေးချေမှု အသိပေးချက်များ"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "ဆိုင်းငံ့ပေးချေမှုများအကြောင်း သတိပေးချက်များကို လက်ခံပါ။"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "အီးမေးလ်အကြောင်းကြားချက်များ"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "သင့်အီးမေးလ်တွင် အကြောင်းကြားချက်များကို လက်ခံရယူပါ။"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "သင့်အကောင့်လုံခြုံရေးကို စီမံပါ။"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "လက်ရှိ Password"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "စကားဝှက်အသစ်"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "စကားဝှက်အသစ်ကို အတည်ပြုပါ။"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "စကားဝှက်ကိုပြောင်းရန်"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "အသွင်အပြင်"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "အက်ပ်၏အသွင်အပြင်ကို စိတ်ကြိုက်ပြင်ဆင်ပါ။"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "အမှောင်မုဒ်"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "အလင်းနှင့်အမှောင်မုဒ်အကြားပြောင်းပါ။"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "အသက်သွင်းပါ။"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ဖောင့်အရွယ်အစား"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "စာသားအရွယ်အစားကို ချိန်ညှိပါ။"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "စီစဉ်ပေးသည်။"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "ဆောင်ရွက်ဆဲဖြစ်သည်"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "ပြည့်စုံတယ်။"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "ဖျက်သိမ်းလိုက်သည်။"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "နားကွင်း"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "ဆိုင်းငံ့ထားသည်။"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "ကုသမှုများ"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "ကုသမှုများကိုစီမံပါ။"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "သွားနှင့်ခံတွင်းကုသမှုများကို စီမံခန့်ခွဲပါ။"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "ကုသမှုအသစ်"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "ကုသမှုစာရင်း"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ကုသမှု"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " စာရင်းသွင်း"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "မှတ်ပုံတင်ထားသော ကုသမှုများ မရှိပါ။"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "အမည်မဖော်လိုသူ"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "လူနာ- "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "တာဝန်မပေးထား"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "အသေးစိတ်ကို ကြည့်ပါ။"
+  }
+}

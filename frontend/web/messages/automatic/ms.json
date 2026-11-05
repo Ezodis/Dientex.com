@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Lain-lain"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Urus janji temu anda"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "ralat"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Cuba semula"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Urus kalendar janji temu"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Pelantikan Baru"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Kalendar Temujanji"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " mimpi"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " dijadualkan"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Tiada janji temu yang dijadualkan"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Pandangan Klinikal"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Memuatkan sejarah klinikal..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Sejarah perubatan, nota klinikal dan odontogram pesakit"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Data demo"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Kemas kini terakhir: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Sejarah Perubatan"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Nota Klinikal"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Fail"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Penyakit Kronik"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Tiada penyakit kronik direkodkan"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Ubat-ubatan Semasa"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Tiada ubat berdaftar"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alahan"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Tiada alahan yang diketahui"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Rawatan Pergigian Terdahulu"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Tiada rawatan terdahulu direkodkan"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Tabiat dan Pemerhatian"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "perokok"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "bukan perokok"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Ambil alkohol"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Tidak mengambil alkohol"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Tiada sejarah perubatan direkodkan"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Buat sejarah perubatan"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " guna"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinik"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Nota baru"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Tiada catatan klinikal direkodkan"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Pemerhatian klinikal"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arkib"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Muat naik fail"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Tiada fail klinikal dilampirkan"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Foto Klinikal"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografi"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "dokumen PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Lain-lain"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Lihat fail"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Fail tidak tersedia dalam mod demo"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Dimuat naik oleh: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Nilai yang tidak normal"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 ukuran setiap gigi (julat normal: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Dihidangkan"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Dihidangkan "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Nota"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Tiada periodontogram direkodkan"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Buat periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Dijadualkan"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Disahkan"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Selesai"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Dibatalkan"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "sahkan"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Batal"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Klinik Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Klinik CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Klinik Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Jadual temu janji"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Kembali"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Zum masuk"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Alih keluar"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "lokasi saya"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "cari..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Tiada hasil ditemui"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Menunjukkan "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " daripada"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " keputusan"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "hadapan"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Halaman "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " daripada "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Mengikuti"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Sistem Pengurusan Pejabat Pergigian."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Syarat"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privasi"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Bantuan"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Cari pesakit, temu janji..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Pemberitahuan"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Janji temu baru dijadualkan"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Pembersihan pergigian pada 10:00 AM"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Peringatan pembayaran"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González mempunyai pembayaran yang belum selesai sebanyak $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Temujanji dibatalkan"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz membatalkan pelantikannya pada hari Jumaat"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Akaun Saya"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfigurasi"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Log Keluar"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Karies"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Tertutup"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "tidak hadir"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "dalam rawatan"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Gerbang Atas"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Gerbang Bawah"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Aset"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "terbiar"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Janji temu seterusnya:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Lihat Butiran"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Jadual Temujanji"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% sejak bulan lepas"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "tutup"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Petikan Hari Ini"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Pesakit Dilayan"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Pendapatan Harian"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Rawatan Aktif"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Papan pemuka"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Selamat datang ke panel kawalan anda"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Data papan pemuka tidak dapat dimuatkan"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Ringkasan klinik pergigian anda"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Pesakit Baru"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "sabar"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Pendapatan vs Perbelanjaan"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Perbandingan bulanan pendapatan dan perbelanjaan"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Petikan Terkini"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Janji temu berjadual terkini"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Janji Temu Mingguan"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Pengagihan temujanji sepanjang minggu"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Ringkasan Umum"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Statistik klinik am"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Jumlah Pesakit"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Hutang Tertunda"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Janji Temu Akan Datang"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Baki Bulanan"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Jumlah Hasil"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Jumlah Perbelanjaan"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Baki Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Pembayaran Menunggu"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Kewangan"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Urus kewangan klinik anda"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Ringkasan kewangan klinik anda"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Daftar Pembayaran"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Pendapatan Terkini"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Pergerakan pendapatan terkini"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Tiada pendapatan terkini untuk ditunjukkan"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Perbelanjaan Terkini"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Pergerakan perbelanjaan terkini"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Tiada perbelanjaan terkini untuk ditunjukkan"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Cari doktor gigi, pakar…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Cari doktor gigi mengikut nama, kepakaran atau klinik"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Lihat pejabat pada peta"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Peta"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Agendanya ialah Pergigian Cita"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Cepat, mudah — untuk anda dan sesiapa sahaja yang anda mahu."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "doktor gigi kami"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Pakar di semua klinik"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Tiada hasil untuk “"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Rizab"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Lihat lagi"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Gunakan toothx di pejabat anda"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Kembali ke atas"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Tingkatkan amalan anda dengan Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Platform yang menghubungkan doktor gigi dengan pesakit. Buat profil anda, daftarkan pejabat anda dan mula menerima janji temu hari ini."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Buat profil doktor gigi"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Percuma untuk bermula · Tiada kad kredit"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Cari pesakit..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Pesakit"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Urus pesakit anda"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Urus maklumat pesakit anda"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Senarai Pesakit"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " sabar"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " dijumpai"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Belum ada pesakit yang berdaftar"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Tiada pesakit ditemui"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Jalan Utama #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Pergigian Am"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Sesuaikan aplikasi mengikut keperluan anda"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Umum"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Pemberitahuan."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Keselamatan"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Dia"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Tetapan Umum"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Tetapan klinik am"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Nama Klinik"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Alamat"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-mel"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Simpan Perubahan"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Maklumat Profil"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Kemas kini maklumat peribadi anda"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Nama Penuh"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "keistimewaan"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Kemas kini Profil"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Keutamaan Pemberitahuan"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfigurasikan cara anda mahu menerima pemberitahuan"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Pemberitahuan Pelantikan"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Terima peringatan tentang janji temu yang akan datang"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Dayakan"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Pemberitahuan Pembayaran"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Terima makluman tentang pembayaran yang belum selesai"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Pemberitahuan E-mel"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Terima pemberitahuan dalam e-mel anda"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Urus keselamatan akaun anda"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Kata Laluan Semasa"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Kata Laluan Baharu"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Sahkan Kata Laluan Baharu"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Tukar Kata Laluan"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Penampilan"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Sesuaikan penampilan apl"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Mod Gelap"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Tukar antara mod terang dan gelap"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktifkan"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Saiz Font"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Laraskan saiz teks"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfigurasikan"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Sedang berlangsung"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "terisi"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Dibatalkan"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Subang"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "belum selesai"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Rawatan"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Menguruskan rawatan"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Menguruskan rawatan pergigian"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Rawatan Baru"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Senarai Rawatan"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " rawatan"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " berdaftar"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Tiada rawatan berdaftar"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Tidak bernama"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Pesakit: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Tidak ditugaskan"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Lihat butiran"
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "آحرون"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "إدارة مواعيدك"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "خطأ"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "أعد المحاولة"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "إدارة تقويم المواعيد"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "موعد جديد"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "تقويم المواعيد"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " حلم"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ق"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " المقرر"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "لا توجد مواعيد مجدولة"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "العرض السريري"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "جارٍ تحميل التاريخ الطبي..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "التاريخ الطبي والملاحظات السريرية ومخطط الأسنان للمريض"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "البيانات التجريبية"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "التحديث الأخير: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "التاريخ الطبي"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "ملاحظات سريرية"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "مخطط الأسنان"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ملفات"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "مخطط اللثة"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "الأمراض المزمنة"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "لم يتم تسجيل أي أمراض مزمنة"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "الأدوية الحالية"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "لا توجد أدوية مسجلة"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "الحساسية"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "لا توجد حساسية معروفة"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "علاجات الأسنان السابقة"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "لم يتم تسجيل أي علاجات سابقة"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "العادات والملاحظات"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "المدخن"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "غير مدخن"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "تناول الكحول"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "لا تستهلك الكحول"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "لم يتم تسجيل أي تاريخ طبي"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "إنشاء التاريخ الطبي"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " يستخدم"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " عيادة"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "ملاحظة جديدة"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "لا توجد ملاحظات سريرية مسجلة"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "الملاحظات السريرية"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " أرشيف"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "تحميل الملف"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "لا توجد ملفات سريرية مرفقة"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "الصورة السريرية"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "التصوير الشعاعي"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "وثيقة PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "آخر"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "عرض الملف"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "الملف غير متوفر في الوضع التجريبي"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "تم الرفع بواسطة: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "قيم غير طبيعية"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 قياسات لكل سن (النطاق الطبيعي: 1-3 ملم)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "خدم"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "م1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "م4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "م5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "م6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "خدم "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "ملحوظات"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "لم يتم تسجيل مخطط اللثة"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "إنشاء مخطط اللثة"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "المقرر"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "مؤكد"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "مكتمل"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "تم الإلغاء"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "يتأكد"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "يلغي"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "عيادة مونتيري"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "عيادة سي دي ام اكس"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "عيادة غوادالاخارا"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "تحديد موعد"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "يعود"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "تكبير"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "يزيل"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "موقعي"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "بحث..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "لم يتم العثور على نتائج"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "عرض "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ل"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " نتائج"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "الأمامي"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "صفحة "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ل "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "التالي"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 دينتكس. نظام إدارة مكاتب الأسنان."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "شروط"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "خصوصية"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "يساعد"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "البحث عن المرضى والمواعيد ..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "د"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "إشعارات"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "تم تحديد موعد جديد"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "خوان بيريز - تنظيف الأسنان الساعة 10:00 صباحًا"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "تذكير بالدفع"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "ماريا غونزاليس لديها دفعة معلقة قدرها 500 دولار"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "تم إلغاء الموعد"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "ألغى كارلوس رويز موعده يوم الجمعة"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "حسابي"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "حساب تعريفي"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "إعدادات"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "تسجيل الخروج"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 دينتكس"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "سانو"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "تسوس"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "مغلق"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "غائب"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "في العلاج"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "القوس العلوي"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "القوس السفلي"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "أصل"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "عاطل"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "الموعد التالي:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "انظر التفاصيل"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "تحديد موعد"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% منذ الشهر الماضي"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "يغلق"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "اقتباسات اليوم"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "خدم المرضى"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "الدخل اليومي"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "العلاجات الفعالة"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "لوحة القيادة"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "مرحباً بك في لوحة التحكم الخاصة بك"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "لا يمكن تحميل بيانات لوحة المعلومات"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "ملخص عيادة الأسنان الخاصة بك"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "مريض جديد"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "مريض"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "سيتا"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "الدخل مقابل النفقات"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "المقارنة الشهرية للدخل والنفقات"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "الاقتباسات الأخيرة"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "أحدث المواعيد المقررة"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "المواعيد الأسبوعية"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "توزيع المواعيد خلال الأسبوع"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "ملخص عام"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "إحصائيات العيادة العامة"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "إجمالي المرضى"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "الديون المعلقة"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "المواعيد القادمة"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "الرصيد الشهري"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "إجمالي الإيرادات"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "إجمالي النفقات"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "رصيد نيتو"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "المدفوعات المعلقة"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "تمويل"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "إدارة الشؤون المالية لعيادتك"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "الملخص المالي لعيادتك"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "تسجيل الدفع"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "الدخل الأخير"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "أحدث تحركات الإيرادات"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "لا يوجد دخل حديث للعرض"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "النفقات الأخيرة"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "أحدث حركات النفقات"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "لا توجد نفقات حديثة لإظهارها"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ابحث عن طبيب أسنان التخصص…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "بحث طبيب الأسنان بالاسم أو التخصص أو العيادة"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "انظر المكاتب على الخريطة"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "رسم خريطة"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "جدول الأعمال هو Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "سريع وسهل - لك ولمن تريد."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "أطباء الأسنان لدينا"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "متخصصون في جميع العيادات"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "لا توجد نتائج ل \"\""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "احتياطي"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "شاهد المزيد"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "استخدم توثكس في مكتبك"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "العودة إلى الأعلى"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "قم بتنمية ممارستك مع Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "المنصة التي تربط أطباء الأسنان بالمرضى. أنشئ ملفك الشخصي وسجل مكاتبك وابدأ في تلقي المواعيد اليوم."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "إنشاء ملف تعريف طبيب الأسنان"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "حرية البدء · لا توجد بطاقة ائتمان"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "بحث عن المرضى..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "الاصدار"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "مرضى"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "إدارة مرضاك"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "إدارة معلومات مرضاك"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "قائمة المرضى"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " مريض"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " وجد"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "لا يوجد مرضى مسجلين حتى الآن"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "لم يتم العثور على مرضى"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "الشارع الرئيسي رقم 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "طب الأسنان العام"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "تخصيص التطبيق وفقا لاحتياجاتك"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "عام"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "إشعار."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "حماية"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "هو"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "الإعدادات العامة"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "إعدادات العيادة العامة"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "اسم العيادة"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "عنوان"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "هاتف"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "بريد إلكتروني"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "حفظ التغييرات"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "معلومات الملف الشخصي"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "قم بتحديث معلوماتك الشخصية"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "الاسم الكامل"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "التخصص"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "تحديث الملف الشخصي"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "تفضيلات الإخطارات"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "قم بتكوين الطريقة التي تريد بها تلقي الإشعارات"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "إشعارات التعيين"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "تلقي تذكيرات بالمواعيد القادمة"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "يُمكَِن"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "إشعارات الدفع"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "تلقي تنبيهات حول المدفوعات المعلقة"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "إشعارات البريد الإلكتروني"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "تلقي الإخطارات في البريد الإلكتروني الخاص بك"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "إدارة أمان حسابك"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "كلمة المرور الحالية"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "كلمة المرور الجديدة"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "تأكيد كلمة المرور الجديدة"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "تغيير كلمة المرور"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "مظهر"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "تخصيص مظهر التطبيق"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "الوضع المظلم"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "التبديل بين الوضع الفاتح والداكن"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "فعل"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "حجم الخط"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "ضبط حجم النص"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "تكوين"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "في تَقَدم"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "مملوء"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "تم الإلغاء"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "حلق"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "قيد الانتظار"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "العلاجات"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "إدارة العلاجات"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "إدارة علاجات الأسنان"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "علاج جديد"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "قائمة العلاج"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " علاج"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " مسجل"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "لا توجد علاجات مسجلة"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "لم يذكر اسمه"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "مريض: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "غير معين"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "انظر التفاصيل"
+  }
+}

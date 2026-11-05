@@ -8,8 +8,10 @@ import { Label } from "@/app/components/ui/label"
 import { Separator } from "@/app/components/ui/separator"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/app/components/ui/tabs"
 import { Settings as SettingsIcon, User, Bell, Shield, Palette } from "lucide-react"
+import { useInterfaceTranslator } from '../../localization/client'
 
 export default function SettingsPage() {
+  const translate = useInterfaceTranslator()
   return (
     <MainLayout>
       <div className="space-y-4 md:space-y-6">
@@ -59,7 +61,7 @@ export default function SettingsPage() {
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="clinic-address">Dirección</Label>
-                  <Input id="clinic-address" placeholder="Calle Principal #123" />
+                  <Input id="clinic-address" placeholder={translate("Calle Principal #123")} />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="clinic-phone">Teléfono</Label>
@@ -97,7 +99,7 @@ export default function SettingsPage() {
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="specialty">Especialidad</Label>
-                  <Input id="specialty" placeholder="Odontología General" />
+                  <Input id="specialty" placeholder={translate("Odontología General")} />
                 </div>
                 <Button>Actualizar Perfil</Button>
               </CardContent>

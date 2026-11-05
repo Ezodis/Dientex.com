@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "אחרים"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "נהל את הפגישות שלך"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "שְׁגִיאָה"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "נסה שוב"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "ניהול לוח פגישות"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "מינוי חדש"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "לוח פגישות"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " חֲלוֹם"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ס"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " מתוזמן"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "אין פגישות קבועות"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "תצוגה קלינית"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "טוען היסטוריה קלינית..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "היסטוריה רפואית, הערות קליניות ואודנטוגרמה של המטופל"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "נתוני הדגמה"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "עדכון אחרון: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "היסטוריה רפואית"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "הערות קליניות"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "אודנטוגרם"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "קבצים"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "פריודונטוגרמה"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "מחלות כרוניות"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "לא נרשמו מחלות כרוניות"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "תרופות נוכחיות"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "אין תרופות רשומות"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "אלרגיות"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "אין אלרגיות ידועות"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "טיפולי שיניים קודמים"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "לא נרשמו טיפולים קודמים"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "הרגלים ותצפיות"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "מְעַשֵׁן"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "לא מעשן"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "לצרוך אלכוהול"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "אסור לצרוך אלכוהול"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "לא נרשמה היסטוריה רפואית"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "צור היסטוריה רפואית"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " לְהִשְׁתַמֵשׁ"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " קלִינִיקָה"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "פתק חדש"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "לא נרשמו הערות קליניות"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "תצפיות קליניות"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ארכיון"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "העלה קובץ"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "אין קבצים קליניים מצורפים"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "צילום קליני"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "רדיוגרפיה"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "מסמך PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "אַחֵר"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "צפה בקובץ"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "הקובץ אינו זמין במצב הדגמה"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "הועלה על ידי: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "ערכים לא תקינים"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 מדידות לכל שן (טווח נורמלי: 1-3 מ\"מ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "מוגש"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "מוגש "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "הערות"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "לא נרשמה פריודונטוגרם"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "צור פריודונטוגרם"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "מתוזמן"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "מְאוּשָׁר"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "הושלם"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "בּוּטלָה"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "לְאַשֵׁר"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "לְבַטֵל"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "מרפאת מונטריי"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "מרפאת CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "מרפאת גוודלחרה"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "קבע פגישה"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "לַחֲזוֹר"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "לְהִתְמַקֵד"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "לְהַסִיר"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "המיקום שלי"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "לְחַפֵּשׂ..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "לא נמצאו תוצאות"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "הַצָגָה "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " שֶׁל"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " תוצאות"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "קִדמִי"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "עַמוּד "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " שֶׁל "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "הַבָּא"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. מערכת ניהול משרד שיניים."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "תנאים"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "פְּרָטִיוּת"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "סִיוּעַ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "חיפוש מטופלים, פגישות..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ד"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "התראות"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "נקבע פגישה חדשה"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - ניקוי שיניים בשעה 10:00 בבוקר"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "תזכורת לתשלום"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "למריה גונזלס יש תשלום ממתין של $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "פגישה בוטלה"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "קרלוס רואיס ביטל את המינוי שלו ביום שישי"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "החשבון שלי"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "פּרוֹפִיל"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "תְצוּרָה"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "צא"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "סאנו"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "עַשֶׁשׁת"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "תריס"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "נֶעדָר"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "בטיפול"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "קשת עליונה"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "קשת תחתונה"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "נֶכֶס"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "לְהִתְבַּטֵל"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "הפגישה הבאה:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "ראה פרטים"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "קבע פגישה"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% מאז החודש שעבר"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "לִסְגוֹר"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "הציטוטים של היום"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "מטופלים שירתו"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "הכנסה יומית"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "טיפולים פעילים"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "לוּחַ מַחווָנִים"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "ברוך הבא ללוח הבקרה שלך"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "לא ניתן היה לטעון את נתוני לוח המחוונים"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "סיכום מרפאת השיניים שלך"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "מטופל חדש"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "חוֹלֶה"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "הכנסה מול הוצאות"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "השוואה חודשית של הכנסות והוצאות"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "ציטוטים אחרונים"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "פגישות אחרונות שנקבעו"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "פגישות שבועיות"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "חלוקת פגישות במהלך השבוע"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "סיכום כללי"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "סטטיסטיקה כללית של המרפאה"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "סך המטופלים"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "חובות תלויים"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "פגישות בקרוב"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "מאזן חודשי"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "סך ההכנסות"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "סך ההוצאות"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "מאזן נטו"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "תשלומים ממתינים"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "לְמַמֵן"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "נהל את הכספים של המרפאה שלך"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "סיכום פיננסי של המרפאה שלך"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "הרשמה תשלום"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "הכנסה אחרונה"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "תנועות ההכנסות האחרונות"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "אין הכנסה אחרונה להראות"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "הוצאות אחרונות"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "תנועות הוצאות אחרונות"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "אין הוצאות אחרונות להראות"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "חפש רופא שיניים, מומחיות..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "חפש רופא שיניים לפי שם, התמחות או מרפאה"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "ראה משרדים במפה"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "מַפָּה"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "סדר היום הוא Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "מהיר, קל - לך ולמי שתרצה."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "רופאי השיניים שלנו"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "מומחים בכל המרפאות"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "אין תוצאות עבור \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "לְהַזמִין"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "ראה עוד"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "השתמש ב-toothx במשרד שלך"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "חזרה למעלה"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "הגדל את התרגול שלך עם דינטקס"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "הפלטפורמה המחברת בין רופאי שיניים למטופלים. צור את הפרופיל שלך, רשם את המשרדים שלך והתחיל לקבל פגישות עוד היום."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "צור פרופיל רופא שיניים"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "חינם להתחיל · ללא כרטיס אשראי"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "חיפוש חולים..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "חולים"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "נהל את המטופלים שלך"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "נהל את המידע של המטופלים שלך"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "רשימת חולים"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " חוֹלֶה"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " נמצא"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "עדיין לא נרשמו מטופלים"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "לא נמצאו חולים"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "רחוב ראשי מס' 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "רפואת שיניים כללית"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "התאם אישית את האפליקציה לפי הצרכים שלך"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "כְּלָלִי"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "הוֹדָעָה."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "בִּטָחוֹן"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "הוּא"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "הגדרות כלליות"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "הגדרות כלליות במרפאה"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "שם המרפאה"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "כְּתוֹבֶת"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "טֵלֵפוֹן"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "אֶלֶקטרוֹנִי"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "שמור שינויים"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "מידע על פרופיל"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "עדכן את המידע האישי שלך"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "שם מלא"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "הִתמַחוּת"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "עדכן פרופיל"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "העדפות התראות"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "הגדר כיצד אתה רוצה לקבל התראות"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "הודעות על פגישה"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "קבל תזכורות על פגישות קרובות"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "לְאַפשֵׁר"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "הודעות תשלום"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "קבל התראות על תשלומים ממתינים"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "הודעות אימייל"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "קבל התראות באימייל שלך"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "נהל את אבטחת החשבון שלך"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "סיסמה נוכחית"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "סיסמה חדשה"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "אשר סיסמה חדשה"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "שנה סיסמה"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "הוֹפָעָה"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "התאם אישית את מראה האפליקציה"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "מצב כהה"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "מעבר בין מצב בהיר לחושך"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "לְהַפְעִיל"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "גודל גופן"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "התאם את גודל הטקסט"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "הגדר"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "בתהליך"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "מְמוּלָא"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "בּוּטלָה"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "עָגִיל"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "תָלוּי וְעוֹמֵד"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "טיפולים"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "ניהול טיפולים"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "ניהול טיפולי שיניים"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "טיפול חדש"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "רשימת טיפולים"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " יַחַס"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " רָשׁוּם"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "אין טיפולים רשומים"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "ללא שם"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "חוֹלֶה: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "לא הוקצה"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "ראה פרטים"
+  }
+}

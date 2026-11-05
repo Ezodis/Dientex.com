@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Aðrir"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Stjórna stefnumótum þínum"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Villa"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Reyndu aftur"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Stjórna stefnumótadagatali"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Ný skipun"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Stefnumótadagatal"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " draumur"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " áætlað"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Það eru engir tímasettir tímar"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klínísk sýn"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Hleður klínískri sögu..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Sjúkrasaga, klínískar athugasemdir og snertimynd sjúklings"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Kynningargögn"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Síðasta uppfærsla: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Læknasaga"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Klínískar athugasemdir"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Sneiðmynd"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Skrár"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Tannholdsmynd"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Langvinnir sjúkdómar"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Engir langvinnir sjúkdómar skráðir"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Núverandi lyf"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Engin skráð lyf"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Ofnæmi"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Ekkert þekkt ofnæmi"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Fyrri tannlækningar"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Engar fyrri meðferðir skráðar"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Venjur og athuganir"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Reykingarmaður"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "reyklaus"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Neyta áfengis"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Nei neyta áfengis"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Engin sjúkrasaga skráð"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Búðu til sjúkrasögu"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " nota"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " heilsugæslustöð"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Ný aths"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Engar klínískar athugasemdir eru skráðar"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Klínískar athuganir"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " skjalasafn"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Hladdu upp skrá"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Engar klínískar skrár fylgja með"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klínísk mynd"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Röntgenmyndataka"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF skjal"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Annað"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Skoða skrá"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Skrá ekki tiltæk í kynningarham"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Hlaðið upp af: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Óeðlileg gildi"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 mælingar á hverja tönn (venjulegt bil: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Borið fram"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Borið fram "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Skýringar"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Engin tannholdsmynd er skráð"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Búðu til tannholdsfræði"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Á dagskrá"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Staðfest"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Lokið"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Hætt við"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Staðfesta"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Hætta við"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey Clinic"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX heilsugæslustöð"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara heilsugæslustöðin"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Skipuleggðu tíma"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Til baka"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Aðdráttur"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Fjarlægja"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Staðsetningin mín"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Leitaðu að..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Engar niðurstöður fundust"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Sýnir "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " af"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " niðurstöður"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Fremri"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Bls "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " af "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Á eftir"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Stjórnunarkerfi tannlæknastofu."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Skilmálar"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Persónuvernd"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Aðstoð"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Leita að sjúklingum, tímapantanir..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Tilkynningar"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Nýr fundur ákveðinn"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Tannhreinsun klukkan 10:00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Greiðsluáminning"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González er með greiðslu upp á $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Aflýstur tíma"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz hætti við stefnumót sitt á föstudaginn"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Reikningurinn minn"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Prófíll"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Stillingar"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Skráðu þig út"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Tannáta"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Lokað"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Fjarverandi"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "í meðferð"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Efri Arch"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Neðri bogi"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Eign"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Aðgerðarlaus"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Næsti fundur:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Sjá nánari upplýsingar"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Skipuleggðu stefnumót"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% frá síðasta mánuði"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Loka"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Tilvitnanir dagsins"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Sjúklingar þjónað"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Daglegar tekjur"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Virkar meðferðir"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Mælaborð"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Velkomin á stjórnborðið þitt"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Ekki var hægt að hlaða mælaborðsgögnum"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Yfirlit yfir tannlæknastofuna þína"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Nýr sjúklingur"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Sjúklingur"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Tekjur vs gjöld"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Mánaðarlegur samanburður á tekjum og gjöldum"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Nýlegar tilvitnanir"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Nýjustu tímasettu stefnumótin"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Vikuleg stefnumót"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Dreifing tímasetningar í vikunni"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Almennt yfirlit"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Almenn tölfræði heilsugæslustöðvar"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Samtals sjúklingar"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Biðandi skuldir"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Komandi stefnumót"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Mánaðarlegt jafnvægi"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Heildartekjur"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Heildarkostnaður"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Jafnvægi Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Greiðslur í bið"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Fjármál"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Stjórnaðu fjármálum heilsugæslustöðvarinnar þinnar"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Fjárhagslegt yfirlit yfir heilsugæslustöðina þína"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Skrá Greiðsla"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Nýlegar tekjur"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Nýjustu tekjuhreyfingar"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Engar nýlegar tekjur til að sýna"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Nýleg útgjöld"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Nýjustu kostnaðarhreyfingar"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Engin nýleg útgjöld til að sýna"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Leitaðu að tannlækni, sérfræði..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Leitaðu að tannlækni eftir nafni, sérgrein eða heilsugæslustöð"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Sjá skrifstofur á kortinu"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Kort"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Dagskráin er Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Fljótlegt, auðvelt - fyrir þig og hvern sem þú vilt."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Tannlæknarnir okkar"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Sérfræðingar á öllum heilsugæslustöðvum"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Engar niðurstöður fyrir “"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Áskilið"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Sjá meira"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Notaðu toothx á skrifstofunni þinni"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Aftur efst"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Stækkaðu æfingarnar þínar með Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Vettvangurinn sem tengir tannlækna við sjúklinga. Búðu til prófílinn þinn, skráðu skrifstofur þínar og byrjaðu að fá tíma í dag."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Búðu til prófíl tannlæknis"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Ókeypis að byrja · Ekkert kreditkort"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Leitaðu að sjúklingum..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Sjúklingar"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Stjórnaðu sjúklingum þínum"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Stjórnaðu upplýsingum sjúklinga þinna"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Sjúklingalisti"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " þolinmóður"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " fannst"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Engir sjúklingar eru skráðir ennþá"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Engir sjúklingar fundust"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Aðalstræti #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Almennar tannlækningar"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Sérsníddu appið í samræmi við þarfir þínar"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Almennt"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Tilkynning."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Öryggi"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Hann"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Almennar stillingar"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Almennar heilsugæslustöðvar"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Nafn heilsugæslustöðvar"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Heimilisfang"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Sími"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Tölvupóstur"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Vista breytingar"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Upplýsingar um prófíl"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Uppfærðu persónulegar upplýsingar þínar"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Fullt nafn"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Sérgrein"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Uppfæra prófíl"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Tilkynningarstillingar"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Stilltu hvernig þú vilt fá tilkynningar"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Tilkynningar um stefnumót"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Fáðu áminningar um komandi stefnumót"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Virkja"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Greiðslutilkynningar"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Fáðu tilkynningar um greiðslur í bið"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Tilkynningar í tölvupósti"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Fáðu tilkynningar í tölvupóstinum þínum"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Stjórnaðu öryggi reikningsins þíns"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Núverandi lykilorð"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Nýtt lykilorð"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Staðfestu nýtt lykilorð"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Breyta lykilorði"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Útlit"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Sérsníddu útlit appsins"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Dark Mode"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Skiptu á milli ljóss og dökkrar stillingar"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Virkjaðu"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Leturstærð"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Stilltu textastærðina"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Stilla"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Í vinnslu"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Fyllt"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Hætt við"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Eyrnalokkar"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "í bið"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Meðferðir"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Stjórna meðferðum"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Stjórna tannlækningum"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Ný meðferð"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Meðferðarlisti"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " meðferð"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " skráð"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Það eru engar skráðar meðferðir"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Ónefndur"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Sjúklingur: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Óúthlutað"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Sjá nánar"
+  }
+}

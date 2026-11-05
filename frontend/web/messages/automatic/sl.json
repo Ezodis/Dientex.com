@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "drugi"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Upravljajte svoje sestanke"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Napaka"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Poskusite znova"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Upravljajte koledar sestankov"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Novo imenovanje"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Koledar terminov"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " sanje"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " načrtovano"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Ni načrtovanih terminov"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinični pogled"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Nalaganje klinične anamneze ..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Anamneza, klinične opombe in odontogram bolnika"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo podatki"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Zadnja posodobitev: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Zgodovina bolezni"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Klinične opombe"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Datoteke"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Kronične bolezni"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Kronične bolezni niso zabeležene"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Trenutna zdravila"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Brez registriranih zdravil"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alergije"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Ni znanih alergij"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Prejšnje zdravljenje zob"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Ni zabeleženih predhodnih zdravljenj"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Navade in opažanja"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "kadilec"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "nekadilec"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Uživanje alkohola"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Ne uživajte alkohola"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Zdravstvena zgodovina ni zabeležena"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Ustvarite zdravstveno zgodovino"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " uporaba"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinika"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Nova opomba"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Zabeleženih ni nobenih kliničnih opazk"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Klinična opazovanja"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arhiv"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Naloži datoteko"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Ni priloženih kliničnih datotek"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klinična fotografija"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografija"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF dokument"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "drugo"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Ogled datoteke"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Datoteka ni na voljo v demo načinu"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Naložil: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Nenormalne vrednosti"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 meritev na zob (normalno območje: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Postrežen"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Postrežen "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Opombe"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Parodontogram ni zabeležen"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Izdelajte parodontografijo"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Načrtovano"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Potrjeno"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Dokončano"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Preklicano"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Potrdi"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Prekliči"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Klinika Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Klinika CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Klinika Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Načrtujte sestanek"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Vrnitev"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Povečaj"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Odstrani"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Moja lokacija"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Išči ..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Ni rezultatov"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Prikazovanje "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " od"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " rezultate"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Prednji"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Stran "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " od "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Sledim"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Sistem za upravljanje zobozdravstvene ordinacije."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Pogoji"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Zasebnost"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Pomoč"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Iskanje pacientov, terminov..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Obvestila"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Načrtovan nov termin"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Čiščenje zob ob 10.00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Opomnik za plačilo"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González ima čakajoče plačilo v višini 500 USD"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Odpovedan termin"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz je odpovedal svoj petkov termin"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Moj račun"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfiguracija"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Odjava"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "karies"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Zaprta"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "odsoten"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "pri zdravljenju"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Zgornji lok"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Spodnji lok"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Sredstvo"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "nedejaven"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Naslednji termin:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Glej Podrobnosti"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Načrtujte termin"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% od prejšnjega meseca"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Zapri"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Današnji citati"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Vstreženi bolniki"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Dnevni dohodek"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktivna zdravljenja"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Nadzorna plošča"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Dobrodošli na vaši nadzorni plošči"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Podatkov nadzorne plošče ni bilo mogoče naložiti"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Povzetek vaše zobne ambulante"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Nov bolnik"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Pacient"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Prihodki v primerjavi s stroški"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Mesečna primerjava prihodkov in odhodkov"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Nedavni citati"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Zadnji načrtovani termini"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Tedenski termini"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Razporeditev terminov med tednom"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Splošni povzetek"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Splošna statistika klinike"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Skupno število bolnikov"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Čakajoči dolgovi"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Prihajajoči sestanki"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Mesečno stanje"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Skupni prihodek"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Skupni stroški"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Ravnovesje Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Plačila v teku"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finance"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Upravljajte finance svoje klinike"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Finančni povzetek vaše klinike"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Registracija Plačilo"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Nedavni dohodek"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Zadnja gibanja prihodkov"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Ni nedavnih prihodkov za prikaz"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Nedavni stroški"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Najnovejša gibanja stroškov"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Ni nedavnih stroškov za prikaz"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Iskanje zobozdravnika, specializacija…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Poiščite zobozdravnika po imenu, specialnosti ali kliniki"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Oglejte si pisarne na zemljevidu"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Zemljevid"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Dnevni red je Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Hitro, enostavno — za vas in kogarkoli želite."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Naši zobozdravniki"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Specialisti v vseh klinikah"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Ni rezultatov za »"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Rezerva"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Glej več"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Uporabite toothx v svoji pisarni"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Nazaj na vrh"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Razširite svojo prakso z Dientexom"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Platforma, ki povezuje zobozdravnike s pacienti. Ustvarite svoj profil, registrirajte svoje ordinacije in začnite prejemati termine že danes."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Ustvari profil zobozdravnika"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Brezplačen začetek · Brez kreditne kartice"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Iskanje bolnikov ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Bolniki"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Upravljajte svoje bolnike"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Upravljajte podatke o svojih pacientih"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Seznam bolnikov"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " bolnik"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " našel"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Prijavljenih pacientov še ni"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Noben bolnik ni bil najden"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Glavna ulica št. 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Splošno zobozdravstvo"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Aplikacijo prilagodite svojim potrebam"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Splošno"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Obvestilo."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Varnost"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "On"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Splošne nastavitve"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Splošne nastavitve klinike"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Ime klinike"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Naslov"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-pošta"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Shrani spremembe"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Informacije o profilu"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Posodobite svoje osebne podatke"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Polno ime"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Posebnost"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Posodobi profil"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Nastavitve obvestil"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfigurirajte, kako želite prejemati obvestila"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Obvestila o terminih"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Prejemajte opomnike o prihajajočih sestankih"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Omogoči"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Obvestila o plačilih"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Prejemajte opozorila o čakajočih plačilih"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "E-poštna obvestila"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Prejemajte obvestila na svojo e-pošto"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Upravljajte varnost svojega računa"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Trenutno geslo"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Novo geslo"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Potrdite novo geslo"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Spremeni geslo"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Videz"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Prilagodite videz aplikacije"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Temni način"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Preklapljanje med svetlim in temnim načinom"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktiviraj"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Velikost pisave"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Prilagodite velikost besedila"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfiguriraj"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "V teku"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Napolnjena"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Preklicano"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Uhan"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "v teku"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Zdravljenja"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Upravljajte zdravljenja"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Upravljajte zdravljenje zob"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Novo zdravljenje"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Seznam zdravljenja"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " zdravljenje"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " registriran"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Registriranih zdravil ni"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Neimenovano"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Bolnik: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Nedodeljen"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Glej podrobnosti"
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Outros"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Xestiona as túas citas"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Erro"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Volve tentar"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Xestionar o calendario de citas"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Nova cita"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Calendario de citas"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " soño"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " programado"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Non hai citas programadas"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Visión clínica"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Cargando historial clínico..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Historia clínica, notas clínicas e odontograma do paciente"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Datos de demostración"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Última actualización: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Historia médica"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Notas clínicas"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontograma"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Arquivos"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Enfermidades Crónicas"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Non se rexistraron enfermidades crónicas"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Medicamentos actuais"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Non hai medicamentos rexistrados"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alerxias"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Non se coñecen alerxias"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Tratamentos odontológicos anteriores"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Non se rexistraron tratamentos previos"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Hábitos e observacións"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Fumador"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "non fumador"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Consume alcohol"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Non consumir alcohol"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Non hai historia clínica rexistrada"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Crear historia clínica"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " usar"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " clínica"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Nova nota"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Non hai anotacións clínicas rexistradas"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Observacións clínicas"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arquivo"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Cargar ficheiro"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Non hai ficheiros clínicos adxuntos"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Foto clínica"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografía"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "Documento PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Outros"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Ver ficheiro"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "O ficheiro non está dispoñible no modo de demostración"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Cargado por: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Valores anormais"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 medidas por dente (rango normal: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Servido"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Servido "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Notas"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Non hai ningún periodontograma rexistrado"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Crear periodontograma"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Programado"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Confirmado"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Completado"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Cancelado"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Confirmar"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Cancelar"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Clínica Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Clínica CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Clínica Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Agendar cita"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Volver"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Achega o zoom"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Eliminar"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "A miña localización"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Busca..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Non se atoparon resultados"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Amosando "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " de"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " resultados"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Anterior"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Páx "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " de "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Seguindo"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Sistema de xestión de consultorio dental."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Termos"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privacidade"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Axuda"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Busca pacientes, citas..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Notificacións"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Nova cita programada"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Limpeza dental ás 10:00 h"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Recordatorio de pago"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González ten un pago pendente de $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Cita cancelada"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz cancelou a súa cita do venres"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "A miña conta"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Perfil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Configuración"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Pechar sesión"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Caries"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Obturado"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Ausente"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "en tratamento"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Arco Superior"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Arco Inferior"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Activo"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Inactivo"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Próxima cita:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Ver Detalles"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Agendar cita"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% desde o mes pasado"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Pechar"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Presupostos de hoxe"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Pacientes atendidos"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Ingresos diarios"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Tratamentos activos"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Panel de control"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Benvido ao teu panel de control"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Non se puideron cargar os datos do panel"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Resumo da túa clínica dental"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Novo Paciente"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Paciente"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Ingresos vs Gastos"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Comparación mensual de ingresos e gastos"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Citas recentes"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Últimas citas programadas"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Citas semanais"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Distribución de citas durante a semana"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Resumo xeral"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Estatísticas xerais da clínica"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Total de pacientes"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Débedas pendentes"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Próximas citas"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Saldo Mensual"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Ingresos totais"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Gastos totais"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Pagos pendentes"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finanzas"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Xestiona as finanzas da túa clínica"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Resumo financeiro da súa clínica"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Pago de rexistro"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Ingresos recentes"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Últimos movementos de ingresos"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Non hai ingresos recentes para mostrar"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Gastos recentes"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Últimos movementos de gastos"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Non hai gastos recentes que mostrar"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Busca dentista, especialidade..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Busca dentista por nome, especialidade ou clínica"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Ver oficinas no mapa"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Mapa"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "A axenda é Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Rápido, sinxelo, para ti e para quen queiras."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Os nosos dentistas"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Especialistas en todas as clínicas"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Non hai resultados para \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Reserva"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Ver máis"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Use toothx na súa oficina"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Volver arriba"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Fai crecer a túa práctica con Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "A plataforma que conecta os dentistas cos pacientes. Crea o teu perfil, rexistra as túas oficinas e comeza a recibir citas hoxe."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Crear perfil de dentista"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Gratuíto para comezar · Sen tarxeta de crédito"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Busca pacientes..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Pacientes"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Xestiona os teus pacientes"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Xestiona a información dos teus pacientes"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Lista de pacientes"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " paciente"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " atopado"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Aínda non hai pacientes rexistrados"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Non se atoparon pacientes"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Rúa Principal #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Odontoloxía Xeral"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Personaliza a aplicación segundo as túas necesidades"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Xeral"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Notificación."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Seguridade"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "El"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Configuración xeral"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Configuración xeral da clínica"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Nome da clínica"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Enderezo"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Teléfono"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Correo electrónico"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Gardar cambios"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Información do perfil"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Actualiza a túa información persoal"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Nome completo"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Especialidade"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Actualizar o perfil"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Preferencias de notificacións"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Configura como queres recibir notificacións"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Notificacións de citas"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Recibe recordatorios das próximas citas"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Activar"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Notificacións de pagamento"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Recibe alertas sobre pagos pendentes"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Notificacións por correo electrónico"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Recibe notificacións no teu correo electrónico"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Xestiona a seguridade da túa conta"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Contrasinal actual"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Contrasinal novo"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Confirme o novo contrasinal"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Cambiar contrasinal"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Aparición"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Personaliza o aspecto da aplicación"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Modo escuro"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Cambia entre o modo claro e escuro"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Activar"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Tamaño da fonte"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Axusta o tamaño do texto"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Configurar"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "En proceso"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Cheo"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Cancelado"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Pendente"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "pendente"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Tratamentos"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Xestionar tratamentos"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Xestionar tratamentos dentais"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Novo tratamento"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Lista de tratamento"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " tratamento"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " rexistrado"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Non hai tratamentos rexistrados"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Sen nome"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Paciente: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Sen asignar"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Ver detalles"
+  }
+}

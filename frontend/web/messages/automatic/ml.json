@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "മറ്റുള്ളവ"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "നിങ്ങളുടെ അപ്പോയിൻ്റ്മെൻ്റുകൾ നിയന്ത്രിക്കുക"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "പിശക്"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "വീണ്ടും ശ്രമിക്കുക"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "അപ്പോയിൻ്റ്മെൻ്റ് കലണ്ടർ നിയന്ത്രിക്കുക"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "പുതിയ നിയമനം"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "അപ്പോയിൻ്റ്മെൻ്റ് കലണ്ടർ"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " സ്വപ്നം"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "എസ്"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " ഷെഡ്യൂൾ ചെയ്തു"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "ഷെഡ്യൂൾ ചെയ്ത നിയമനങ്ങളൊന്നുമില്ല"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "ക്ലിനിക്കൽ കാഴ്ച"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "ക്ലിനിക്കൽ ഹിസ്റ്ററി ലോഡ് ചെയ്യുന്നു..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "രോഗിയുടെ മെഡിക്കൽ ചരിത്രം, ക്ലിനിക്കൽ കുറിപ്പുകൾ, ഓഡോണ്ടോഗ്രാം"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ഡെമോ ഡാറ്റ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "അവസാന അപ്ഡേറ്റ്: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "മെഡിക്കൽ ചരിത്രം"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "ക്ലിനിക്കൽ കുറിപ്പുകൾ"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ഒഡോൻ്റോഗ്രാം"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ഫയലുകൾ"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "പെരിയോഡോണ്ടോഗ്രാം"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "വിട്ടുമാറാത്ത രോഗങ്ങൾ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "വിട്ടുമാറാത്ത രോഗങ്ങളൊന്നും രേഖപ്പെടുത്തിയിട്ടില്ല"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "നിലവിലുള്ള മരുന്നുകൾ"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "രജിസ്റ്റർ ചെയ്ത മരുന്നുകളില്ല"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "അലർജികൾ"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "അറിയപ്പെടുന്ന അലർജിയൊന്നുമില്ല"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "മുമ്പത്തെ ഡെൻ്റൽ ചികിത്സകൾ"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "മുൻകാല ചികിത്സകളൊന്നും രേഖപ്പെടുത്തിയിട്ടില്ല"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "ശീലങ്ങളും നിരീക്ഷണങ്ങളും"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "പുകവലിക്കാരൻ"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "പുകവലിക്കാത്ത"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "മദ്യം കഴിക്കുക"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "മദ്യം കഴിക്കരുത്"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "മെഡിക്കൽ ചരിത്രമൊന്നും രേഖപ്പെടുത്തിയിട്ടില്ല"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "മെഡിക്കൽ ചരിത്രം സൃഷ്ടിക്കുക"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ഉപയോഗിക്കുക"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " ക്ലിനിക്ക്"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "പുതിയ നോട്ട്"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "ക്ലിനിക്കൽ കുറിപ്പുകളൊന്നും രേഖപ്പെടുത്തിയിട്ടില്ല"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "ക്ലിനിക്കൽ നിരീക്ഷണങ്ങൾ"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ആർക്കൈവ്"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ഫയൽ അപ്‌ലോഡ് ചെയ്യുക"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "ക്ലിനിക്കൽ ഫയലുകളൊന്നും ഘടിപ്പിച്ചിട്ടില്ല"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "ക്ലിനിക്കൽ ഫോട്ടോ"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "റേഡിയോഗ്രാഫി"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF പ്രമാണം"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "മറ്റുള്ളവ"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ഫയൽ കാണുക"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ഡെമോ മോഡിൽ ഫയൽ ലഭ്യമല്ല"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "അപ്‌ലോഡ് ചെയ്തത്: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "അസാധാരണ മൂല്യങ്ങൾ"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "ഒരു പല്ലിന് 6 അളവുകൾ (സാധാരണ പരിധി: 1-3 മിമി)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "സേവിച്ചു"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "സേവിച്ചു "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "കുറിപ്പുകൾ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "പീരിയോൺടോഗ്രാം ഒന്നും രേഖപ്പെടുത്തിയിട്ടില്ല"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "പീരിയോൺടോഗ്രാം സൃഷ്ടിക്കുക"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "ഷെഡ്യൂൾ ചെയ്തു"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "സ്ഥിരീകരിച്ചു"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "പൂർത്തിയാക്കി"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "റദ്ദാക്കി"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "സ്ഥിരീകരിക്കുക"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "റദ്ദാക്കുക"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "മോണ്ടെറി ക്ലിനിക്"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX ക്ലിനിക്ക്"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "ഗ്വാഡലജാര ക്ലിനിക്ക്"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "അപ്പോയിൻ്റ്മെൻ്റ് ഷെഡ്യൂൾ ചെയ്യുക"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "മടങ്ങുക"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "സൂം ഇൻ ചെയ്യുക"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "നീക്കം ചെയ്യുക"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "എൻ്റെ സ്ഥാനം"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "ഇതിനായി തിരയുന്നു..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ഫലങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "കാണിക്കുന്നു "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ൻ്റെ"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ഫലങ്ങൾ"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "മുൻഭാഗം"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "പേജ് "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ൻ്റെ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "പിന്തുടരുന്നു"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. ഡെൻ്റൽ ഓഫീസ് മാനേജ്മെൻ്റ് സിസ്റ്റം."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "നിബന്ധനകൾ"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "സ്വകാര്യത"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "സഹായം"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "രോഗികൾക്കായി തിരയുക, കൂടിക്കാഴ്‌ചകൾ..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ഡി"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "അറിയിപ്പുകൾ"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "പുതിയ അപ്പോയിൻ്റ്മെൻ്റ് ഷെഡ്യൂൾ ചെയ്തു"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "ജുവാൻ പെരെസ് - 10:00 AM-ന് ഡെൻ്റൽ ക്ലീനിംഗ്"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "പേയ്‌മെൻ്റ് ഓർമ്മപ്പെടുത്തൽ"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "മരിയ ഗോൺസാലസിന് $500 പേയ്‌മെൻ്റ് തീർപ്പാക്കാനുണ്ട്"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "അപ്പോയിൻ്റ്മെൻ്റ് റദ്ദാക്കി"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "കാർലോസ് റൂയിസ് തൻ്റെ വെള്ളിയാഴ്ച അപ്പോയിൻ്റ്മെൻ്റ് റദ്ദാക്കി"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "എന്റെ അക്കൗണ്ട്"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "പ്രൊഫൈൽ"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "കോൺഫിഗറേഷൻ"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "സൈൻ ഔട്ട്"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "സനോ"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "കായീസ്"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ഷട്ടർ ചെയ്തു"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "ഹാജരാകുന്നില്ല"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ചികിത്സയിൽ"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "അപ്പർ ആർച്ച്"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ലോവർ ആർച്ച്"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "അസറ്റ്"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "നിഷ്ക്രിയ"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "അടുത്ത അപ്പോയിൻ്റ്മെൻ്റ്:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "വിശദാംശങ്ങൾ കാണുക"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "ഷെഡ്യൂൾ അപ്പോയിൻ്റ്മെൻ്റ്"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "കഴിഞ്ഞ മാസം മുതൽ %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "അടയ്ക്കുക"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "ഇന്നത്തെ ഉദ്ധരണികൾ"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "രോഗികളെ സേവിച്ചു"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "പ്രതിദിന വരുമാനം"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "സജീവമായ ചികിത്സകൾ"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ഡാഷ്ബോർഡ്"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "നിങ്ങളുടെ നിയന്ത്രണ പാനലിലേക്ക് സ്വാഗതം"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ഡാഷ്‌ബോർഡ് ഡാറ്റ ലോഡുചെയ്യാനായില്ല"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "നിങ്ങളുടെ ഡെൻ്റൽ ക്ലിനിക്കിൻ്റെ സംഗ്രഹം"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "പുതിയ രോഗി"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "രോഗി"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "സിറ്റ"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "വരുമാനവും ചെലവുകളും"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "വരുമാനത്തിൻ്റെയും ചെലവുകളുടെയും പ്രതിമാസ താരതമ്യം"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "സമീപകാല ഉദ്ധരണികൾ"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "ഏറ്റവും പുതിയ ഷെഡ്യൂൾ ചെയ്ത അപ്പോയിൻ്റ്മെൻ്റുകൾ"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "പ്രതിവാര അപ്പോയിൻ്റ്മെൻ്റുകൾ"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "ആഴ്ചയിലെ നിയമനങ്ങളുടെ വിതരണം"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "പൊതു സംഗ്രഹം"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "പൊതു ക്ലിനിക്ക് സ്ഥിതിവിവരക്കണക്കുകൾ"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "മൊത്തം രോഗികൾ"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "കെട്ടിക്കിടക്കുന്ന കടങ്ങൾ"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "വരാനിരിക്കുന്ന നിയമനങ്ങൾ"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "പ്രതിമാസ ബാലൻസ്"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "മൊത്തം വരുമാനം"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "മൊത്തം ചെലവുകൾ"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ബാലൻസ് നെറ്റോ"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "തീർപ്പാക്കാത്ത പേയ്‌മെൻ്റുകൾ"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ധനകാര്യം"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "നിങ്ങളുടെ ക്ലിനിക്കിൻ്റെ സാമ്പത്തികം നിയന്ത്രിക്കുക"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "നിങ്ങളുടെ ക്ലിനിക്കിൻ്റെ സാമ്പത്തിക സംഗ്രഹം"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "പേയ്‌മെൻ്റ് രജിസ്റ്റർ ചെയ്യുക"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "സമീപകാല വരുമാനം"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "ഏറ്റവും പുതിയ വരുമാന നീക്കങ്ങൾ"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "കാണിക്കാൻ സമീപകാല വരുമാനമൊന്നുമില്ല"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "സമീപകാല ചെലവുകൾ"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "ഏറ്റവും പുതിയ ചെലവ് നീക്കങ്ങൾ"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "കാണിക്കാൻ സമീപകാല ചെലവുകളൊന്നുമില്ല"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ഒരു ദന്തരോഗവിദഗ്ദ്ധനെ തിരയുക, സ്പെഷ്യാലിറ്റി..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "പേര്, സ്പെഷ്യാലിറ്റി അല്ലെങ്കിൽ ക്ലിനിക്ക് പ്രകാരം ദന്തരോഗവിദഗ്ദ്ധനെ തിരയുക"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "മാപ്പിൽ ഓഫീസുകൾ കാണുക"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "മാപ്പ്"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Cita Dental ആണ് അജണ്ട"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "വേഗത്തിലും എളുപ്പത്തിലും - നിങ്ങൾക്കും നിങ്ങൾ ആഗ്രഹിക്കുന്നവർക്കും."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ഞങ്ങളുടെ ദന്തഡോക്ടർമാർ"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "എല്ലാ ക്ലിനിക്കുകളിലും സ്പെഷ്യലിസ്റ്റുകൾ"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "\" എന്നതിന് ഫലങ്ങളൊന്നുമില്ല"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "കരുതൽ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "കൂടുതൽ കാണുക"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "നിങ്ങളുടെ ഓഫീസിൽ toothx ഉപയോഗിക്കുക"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "മുകളിലേക്ക് മടങ്ങുക"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex ഉപയോഗിച്ച് നിങ്ങളുടെ പരിശീലനം വളർത്തുക"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "ദന്തഡോക്ടർമാരെ രോഗികളുമായി ബന്ധിപ്പിക്കുന്ന പ്ലാറ്റ്ഫോം. നിങ്ങളുടെ പ്രൊഫൈൽ സൃഷ്‌ടിക്കുക, നിങ്ങളുടെ ഓഫീസുകൾ രജിസ്റ്റർ ചെയ്യുക, അപ്പോയിൻ്റ്‌മെൻ്റുകൾ ഇന്നുതന്നെ സ്വീകരിക്കാൻ ആരംഭിക്കുക."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "ദന്തരോഗവിദഗ്ദ്ധൻ്റെ പ്രൊഫൈൽ സൃഷ്ടിക്കുക"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "ആരംഭിക്കാൻ സൗജന്യം · ക്രെഡിറ്റ് കാർഡ് ഇല്ല"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "രോഗികളെ തിരയുക..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "വെർ"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "രോഗികൾ"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "നിങ്ങളുടെ രോഗികളെ നിയന്ത്രിക്കുക"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "നിങ്ങളുടെ രോഗികളുടെ വിവരങ്ങൾ കൈകാര്യം ചെയ്യുക"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "രോഗികളുടെ പട്ടിക"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " രോഗി"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " കണ്ടെത്തി"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ഇതുവരെ രോഗികൾ ആരും രജിസ്റ്റർ ചെയ്തിട്ടില്ല"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "രോഗികളെ കണ്ടെത്തിയില്ല"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "മെയിൻ സ്ട്രീറ്റ് #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ജനറൽ ഡെൻ്റിസ്ട്രി"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "നിങ്ങളുടെ ആവശ്യങ്ങൾക്കനുസരിച്ച് ആപ്പ് ഇച്ഛാനുസൃതമാക്കുക"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "ജനറൽ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "അറിയിപ്പ്."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "സുരക്ഷ"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "അവൻ"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "പൊതുവായ ക്രമീകരണങ്ങൾ"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "പൊതു ക്ലിനിക്ക് ക്രമീകരണങ്ങൾ"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ക്ലിനിക്കിൻ്റെ പേര്"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "വിലാസം"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "ടെലിഫോൺ"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ഇമെയിൽ"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "മാറ്റങ്ങൾ സംരക്ഷിക്കുക"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "പ്രൊഫൈൽ വിവരങ്ങൾ"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "നിങ്ങളുടെ സ്വകാര്യ വിവരങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "പൂർണ്ണമായ പേര്"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "സ്പെഷ്യാലിറ്റി"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "പ്രൊഫൈൽ അപ്ഡേറ്റ് ചെയ്യുക"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "അറിയിപ്പുകൾ മുൻഗണനകൾ"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "നിങ്ങൾക്ക് അറിയിപ്പുകൾ എങ്ങനെ ലഭിക്കണമെന്ന് കോൺഫിഗർ ചെയ്യുക"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "അപ്പോയിൻ്റ്മെൻ്റ് അറിയിപ്പുകൾ"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "വരാനിരിക്കുന്ന അപ്പോയിൻ്റ്മെൻ്റുകളുടെ ഓർമ്മപ്പെടുത്തലുകൾ സ്വീകരിക്കുക"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "പേയ്മെൻ്റ് അറിയിപ്പുകൾ"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "തീർപ്പാക്കാത്ത പേയ്‌മെൻ്റുകളെക്കുറിച്ചുള്ള അലേർട്ടുകൾ സ്വീകരിക്കുക"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ഇമെയിൽ അറിയിപ്പുകൾ"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "നിങ്ങളുടെ ഇമെയിലിൽ അറിയിപ്പുകൾ സ്വീകരിക്കുക"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "നിങ്ങളുടെ അക്കൗണ്ട് സുരക്ഷ നിയന്ത്രിക്കുക"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "നിലവിലെ പാസ്വേഡ്"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "പുതിയ പാസ്വേഡ്"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "പുതിയ പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "പാസ്വേഡ് മാറ്റുക"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "രൂപഭാവം"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "ആപ്പിൻ്റെ രൂപം ഇഷ്ടാനുസൃതമാക്കുക"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "ഡാർക്ക് മോഡ്"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ലൈറ്റ്, ഡാർക്ക് മോഡുകൾക്കിടയിൽ മാറുക"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "സജീവമാക്കുക"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ഫോണ്ട് വലിപ്പം"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "ടെക്സ്റ്റ് വലുപ്പം ക്രമീകരിക്കുക"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "കോൺഫിഗർ ചെയ്യുക"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "പുരോഗതിയിൽ"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "നിറഞ്ഞു"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "റദ്ദാക്കി"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "കമ്മലുകൾ"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "കെട്ടിക്കിടക്കുന്നു"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "ചികിത്സകൾ"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "ചികിത്സകൾ കൈകാര്യം ചെയ്യുക"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "ഡെൻ്റൽ ചികിത്സകൾ കൈകാര്യം ചെയ്യുക"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "പുതിയ ചികിത്സ"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "ചികിത്സ ലിസ്റ്റ്"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ചികിത്സ"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " രജിസ്റ്റർ ചെയ്തു"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "രജിസ്റ്റർ ചെയ്ത ചികിത്സകളൊന്നുമില്ല"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "പേരില്ല"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "രോഗി: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "അസൈൻ ചെയ്തിട്ടില്ല"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "വിശദാംശങ്ങൾ കാണുക"
+  }
+}

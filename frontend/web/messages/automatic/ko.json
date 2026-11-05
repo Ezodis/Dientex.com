@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "기타"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "약속 관리"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "오류"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "다시 해 보다"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "약속 캘린더 관리"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "신임"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "약속 달력"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " 꿈"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "에스"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " 예정된"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "예정된 약속이 없습니다"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "임상적 관점"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "임상 기록 로드 중..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "환자의 병력, 임상 기록 및 치아도"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "데모 데이터"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "마지막 업데이트: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "병력"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "임상 노트"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "치아도그램"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "파일"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "치주조직도"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "만성질환"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "만성질환은 기록되지 않았습니다."
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "현재 약물"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "등록된 의약품이 없습니다."
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "알레르기"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "알려진 알레르기 없음"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "이전 치과 치료"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "이전 치료 기록이 없습니다."
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "습관과 관찰"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "흡연자"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "비흡연자"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "알코올 섭취"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "알코올 섭취 금지"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "기록된 병력이 없습니다."
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "병력 만들기"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " 사용"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " 진료소"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "새 메모"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "기록된 임상기록이 없습니다."
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "임상 관찰"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " 보관소"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "파일 업로드"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "첨부된 임상파일이 없습니다."
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "임상 사진"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "방사선 촬영"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF 문서"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "다른"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "파일 보기"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "데모 모드에서는 파일을 사용할 수 없습니다."
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "업로드한 사람: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "비정상적인 값"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "치아당 6회 측정(정상 범위: 1~3mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "제공됨"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "제공됨 "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "메모"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "기록된 치주도가 없습니다."
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "치주도 생성"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "예정됨"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "확인됨"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "완전한"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "취소"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "확인하다"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "취소"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "몬테레이 클리닉"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX 클리닉"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "과달라하라 클리닉"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "약속 예약"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "반품"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "확대"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "제거하다"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "내 위치"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "찾아보세요..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "검색결과가 없습니다"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "전시 "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ~의"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " 결과"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "전의"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "페이지 "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ~의 "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "수행원"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 디엔텍스. 치과 사무실 관리 시스템."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "자귀"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "은둔"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "지원"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "환자, 약속 검색..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "디"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "알림"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "새로운 약속이 예정되어 있음"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - 오전 10시에 치과 청소"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "결제 알림"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González는 $500의 지불을 보류 중입니다."
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "취소된 약속"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "카를로스 루이즈는 금요일 약속을 취소했다"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "내 계정"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "윤곽"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "구성"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "로그아웃"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 디엔텍스"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "사노"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "카리에스"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "폐쇄됨"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "결석한"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "치료 중"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "어퍼 아치"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "하부 아치"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "유산"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "게으른"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "다음 약속:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "세부정보 보기"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "일정 예약"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "지난달 이후 %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "닫다"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "오늘의 명언"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "환자에게 서비스 제공"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "일일 수입"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "적극적인 치료"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "계기반"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "제어판에 오신 것을 환영합니다"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "대시보드 데이터를 로드할 수 없습니다."
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "치과 개요"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "새로운 환자"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "인내심 있는"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "시타"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "수입 대 지출"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "월간 수입과 지출 비교"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "최근 인용문"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "최근 예정된 약속"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "주간 약속"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "주중 약속 배포"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "일반 요약"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "일반 진료소 통계"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "총 환자 수"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "보류 중인 부채"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "다가오는 약속"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "월간 잔액"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "총 수익"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "총 비용"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "밸런스 네토"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "보류 중인 결제"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "재원"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "진료소의 재정을 관리하세요"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "귀하의 진료소 재정 요약"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "결제 등록"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "최근 소득"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "최신 수익 동향"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "표시할 최근 수입이 없습니다."
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "최근 지출"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "최신 비용 동향"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "표시할 최근 지출이 없습니다."
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "치과의사, 전문분야 검색…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "이름, 전문분야, 진료과별로 치과의사 검색"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "지도에서 사무실 보기"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "지도"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "주제는 Cita Dental입니다"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "빠르고 쉽게 — 귀하와 귀하가 원하는 누구에게나 가능합니다."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "우리 치과의사"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "모든 클리닉의 전문가"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "“에 대한 검색결과가 없습니다."
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "예약하다"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "자세히 보기"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "사무실에서 Toothx를 사용하세요"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "맨 위로 돌아가기"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex와 함께 귀하의 업무를 성장시키세요"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "치과의사와 환자를 연결하는 플랫폼입니다. 오늘부터 프로필을 작성하고 사무실을 등록하고 약속을 받아보세요."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "치과 의사 프로필 만들기"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "무료로 시작할 수 있습니다. 신용카드가 필요하지 않습니다."
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "환자 검색..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "버전"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "환자"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "환자 관리"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "환자의 정보를 관리하세요"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "환자 목록"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " 인내심 있는"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " 설립하다"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "아직 등록된 환자가 없습니다."
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "환자가 발견되지 않았습니다."
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "메인 스트리트 #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "일반치과"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "필요에 따라 앱을 맞춤설정하세요."
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "일반적인"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "공고."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "보안"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "그"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "일반 설정"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "일반 진료소 설정"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "진료소명"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "주소"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "전화"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "이메일"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "변경 사항 저장"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "프로필 정보"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "개인 정보 업데이트"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "성명"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "전문"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "프로필 업데이트"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "알림 환경설정"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "알림 수신 방법 구성"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "약속 알림"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "다가오는 약속에 대한 알림 받기"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "할 수 있게 하다"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "결제 알림"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "보류 중인 결제에 대한 알림 받기"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "이메일 알림"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "이메일로 알림 받기"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "계정 보안을 관리하세요"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "현재 비밀번호"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "새 비밀번호"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "새 비밀번호 확인"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "비밀번호 변경"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "모습"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "앱 모양 맞춤설정"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "다크 모드"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "밝은 모드와 어두운 모드 간 전환"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "활성화"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "글꼴 크기"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "텍스트 크기 조정"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "구성"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "진행 중"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "채우는"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "취소"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "귀걸이"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "보류 중"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "트리트먼트"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "치료 관리"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "치과 치료 관리"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "새로운 치료법"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "치료 목록"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " 치료"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " 등기"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "등록된 치료법이 없습니다."
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "이름 없음"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "인내심 있는: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "할당되지 않음"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "세부정보 보기"
+  }
+}

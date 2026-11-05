@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "ផ្សេងៗ"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "គ្រប់គ្រងការណាត់ជួបរបស់អ្នក។"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "កំហុស"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ព្យាយាមម្តងទៀត"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "គ្រប់គ្រងប្រតិទិនណាត់ជួប"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "ការតែងតាំងថ្មី។"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "ប្រតិទិនណាត់ជួប"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " សុបិន្ត"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ស"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " បានកំណត់ពេល"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "មិនមានការណាត់ជួបតាមកាលវិភាគទេ។"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "ទិដ្ឋភាពគ្លីនិក"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "កំពុងផ្ទុកប្រវត្តិគ្លីនិក..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "ប្រវត្តិវេជ្ជសាស្រ្ត កំណត់ចំណាំគ្លីនិក និង odontogram របស់អ្នកជំងឺ"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ទិន្នន័យសាកល្បង"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "បច្ចុប្បន្នភាពចុងក្រោយ៖ "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "ប្រវត្តិវេជ្ជសាស្ត្រ"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "កំណត់សម្គាល់គ្លីនិក"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ឯកសារ"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "ជំងឺរ៉ាំរ៉ៃ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "គ្មានជំងឺរ៉ាំរ៉ៃត្រូវបានកត់ត្រាទេ។"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "ឱសថបច្ចុប្បន្ន"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "មិនមានថ្នាំដែលបានចុះបញ្ជីទេ។"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "អាឡែស៊ី"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "គ្មានអាឡែស៊ីដែលគេស្គាល់ទេ។"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "ការព្យាបាលធ្មេញពីមុន"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "គ្មានការព្យាបាលពីមុនត្រូវបានកត់ត្រាទេ។"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "ទម្លាប់ និងការសង្កេត"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "អ្នកជក់បារី"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "អ្នកមិនជក់បារី"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "ទទួលទានគ្រឿងស្រវឹង"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "ហាមប្រើគ្រឿងស្រវឹង"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "មិនមានប្រវត្តិវេជ្ជសាស្ត្រត្រូវបានកត់ត្រាទេ។"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "បង្កើតប្រវត្តិវេជ្ជសាស្ត្រ"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ប្រើ"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " គ្លីនិក"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "កំណត់ចំណាំថ្មី។"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "មិនមានកំណត់ត្រាព្យាបាលត្រូវបានកត់ត្រាទេ។"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "ការសង្កេតគ្លីនិក"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " បណ្ណសារ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ផ្ទុកឡើងឯកសារ"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "មិនមានឯកសារគ្លីនិកភ្ជាប់មកជាមួយទេ។"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "រូបថតគ្លីនិក"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "ការថតកាំរស្មី"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "ឯកសារ PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "ផ្សេងៗ"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "មើលឯកសារ"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ឯកសារមិនមាននៅក្នុងរបៀបសាកល្បងទេ។"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "បង្ហោះដោយ៖ "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "តម្លៃមិនធម្មតា"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 ការវាស់វែងក្នុងមួយធ្មេញ (ជួរធម្មតា: 1-3 មម)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "បម្រើ"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "ម១"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "ម២"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "ម៣"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "ម៤"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "ម៥"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "ម៦"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "បម្រើ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "កំណត់ចំណាំ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "គ្មាន​ការ​កត់ត្រា​តាម​រយៈ​ការ​ថត​រូប​ប្រចាំ​ថ្ងៃ​ទេ។"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "បង្កើត​រូប​រាង​តាម​កាល​កំណត់"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "បានកំណត់ពេល"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "បញ្ជាក់"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "បានបញ្ចប់"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "បានលុបចោល"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "បញ្ជាក់"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "បោះបង់"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "គ្លីនិក Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "គ្លីនិក CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "គ្លីនិក Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "កំណត់ពេលណាត់ជួប"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "ត្រឡប់មកវិញ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ពង្រីក"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ដកចេញ"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ទីតាំងរបស់ខ្ញុំ"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "រកមើល..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "រកមិនឃើញលទ្ធផលទេ។"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "បង្ហាញ "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " នៃ"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " លទ្ធផល"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "ខាងមុខ"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "ទំព័រ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " នៃ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "កំពុងតាម"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex ។ ប្រព័ន្ធគ្រប់គ្រងការិយាល័យធ្មេញ។"
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "លក្ខខណ្ឌ"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "ឯកជនភាព"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "ជំនួយ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "ស្វែងរកអ្នកជំងឺ ការណាត់ជួប..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ឃ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "ការជូនដំណឹង"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "ការណាត់ជួបថ្មី។"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - សម្អាតធ្មេញនៅម៉ោង 10:00 ព្រឹក"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "ការរំលឹកការទូទាត់"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González មានការទូទាត់ដែលមិនទាន់សម្រេចចំនួន 500 ដុល្លារ"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "បានលុបចោលការណាត់ជួប"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz បានលុបចោលការណាត់ជួបរបស់គាត់កាលពីថ្ងៃសុក្រ"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "គណនីរបស់ខ្ញុំ"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ប្រវត្តិរូប"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "ការកំណត់រចនាសម្ព័ន្ធ"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "ចេញ"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "សាណូ"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Caries"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "បានបិទ"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "អវត្តមាន"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ក្នុងការព្យាបាល"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ក្លោងទ្វារខាងលើ"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ធ្នូក្រោម"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "ទ្រព្យសកម្ម"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "ទំនេរ"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "ការណាត់ជួបបន្ទាប់៖"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "សូមមើលព័ត៌មានលម្អិត"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "កាលវិភាគណាត់ជួប"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% ចាប់តាំងពីខែមុន។"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "បិទ"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "សម្រង់ថ្ងៃនេះ"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "អ្នកជំងឺបានបម្រើ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "ប្រាក់ចំណូលប្រចាំថ្ងៃ"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "ការព្យាបាលសកម្ម"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ផ្ទាំងគ្រប់គ្រង"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "សូមស្វាគមន៍មកកាន់ផ្ទាំងបញ្ជារបស់អ្នក។"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ទិន្នន័យផ្ទាំងគ្រប់គ្រងមិនអាចផ្ទុកបានទេ។"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "សេចក្តីសង្ខេបនៃគ្លីនិកធ្មេញរបស់អ្នក។"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "អ្នកជំងឺថ្មី។"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "អ្នកជំងឺ"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "ស៊ីតា"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "ចំណូលធៀបនឹងការចំណាយ"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "ការប្រៀបធៀបចំណូល និងចំណាយប្រចាំខែ"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "សម្រង់ថ្មីៗ"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "ការណាត់ជួបតាមកាលវិភាគចុងក្រោយ"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "ការណាត់ជួបប្រចាំសប្តាហ៍"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "ការចែកចាយការណាត់ជួបក្នុងសប្តាហ៍"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "សេចក្តីសង្ខេបទូទៅ"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "ស្ថិតិគ្លីនិកទូទៅ"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "អ្នកជំងឺសរុប"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "បំណុលដែលមិនទាន់សម្រេច"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "ការណាត់ជួបនាពេលខាងមុខ"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "សមតុល្យប្រចាំខែ"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "ប្រាក់ចំណូលសរុប"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "ការចំណាយសរុប"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "តុល្យភាព Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "ការបង់ប្រាក់ដែលមិនទាន់សម្រេច"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ហិរញ្ញវត្ថុ"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "គ្រប់គ្រងហិរញ្ញវត្ថុរបស់គ្លីនិករបស់អ្នក។"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "សេចក្តីសង្ខេបហិរញ្ញវត្ថុនៃគ្លីនិករបស់អ្នក។"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "ចុះឈ្មោះការទូទាត់"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "ចំណូលថ្មីៗ"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "ចលនាចំណូលចុងក្រោយ"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "មិនមានប្រាក់ចំណូលថ្មីៗដើម្បីបង្ហាញទេ។"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ការចំណាយថ្មីៗ"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "ចលនាចំណាយចុងក្រោយ"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "មិនមានការចំណាយថ្មីៗដើម្បីបង្ហាញទេ។"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ស្វែងរកទន្តបណ្ឌិតឯកទេស…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "ស្វែងរកទន្តបណ្ឌិតតាមឈ្មោះ ឯកទេស ឬគ្លីនិក"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "មើលការិយាល័យនៅលើផែនទី"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "ផែនទី"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "របៀបវារៈគឺ Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "រហ័ស ងាយស្រួល — សម្រាប់អ្នក និងអ្នកណាដែលអ្នកចង់បាន។"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ទន្តបណ្ឌិតរបស់យើង។"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "អ្នកឯកទេសគ្រប់គ្លីនិក"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "គ្មានលទ្ធផលសម្រាប់ \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "កក់ទុក"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "មើលច្រើនទៀត"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "ប្រើថ្នាំដុសធ្មេញនៅក្នុងការិយាល័យរបស់អ្នក។"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "ត្រឡប់ទៅកំពូល"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "បង្កើនការអនុវត្តរបស់អ្នកជាមួយ Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "វេទិកាដែលភ្ជាប់ទន្តបណ្ឌិតជាមួយអ្នកជំងឺ។ បង្កើតប្រវត្តិរូបរបស់អ្នក ចុះឈ្មោះការិយាល័យរបស់អ្នក ហើយចាប់ផ្តើមទទួលការណាត់ជួបនៅថ្ងៃនេះ។"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "បង្កើតកម្រងព័ត៌មានពេទ្យធ្មេញ"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "ចាប់ផ្តើមដោយឥតគិតថ្លៃ · គ្មានកាតឥណទាន"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "ស្វែងរកអ្នកជំងឺ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "អ្នកជំងឺ"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "គ្រប់គ្រងអ្នកជំងឺរបស់អ្នក។"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "គ្រប់គ្រងព័ត៌មានអ្នកជំងឺរបស់អ្នក។"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "បញ្ជីអ្នកជំងឺ"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " អ្នកជំងឺ"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " បានរកឃើញ"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "មិនទាន់មានអ្នកជំងឺចុះឈ្មោះនៅឡើយទេ"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "រកមិនឃើញអ្នកជំងឺទេ។"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ផ្លូវធំ #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ទន្តសាស្ត្រទូទៅ"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "ប្ដូរកម្មវិធីតាមតម្រូវការរបស់អ្នក។"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "ទូទៅ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "សេចក្តីជូនដំណឹង។"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "សន្តិសុខ"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "គាត់"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "ការកំណត់ទូទៅ"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "ការកំណត់គ្លីនិកទូទៅ"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ឈ្មោះគ្លីនិក"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "អាស័យដ្ឋាន"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "ទូរស័ព្ទ"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "អ៊ីមែល"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "រក្សាទុកការផ្លាស់ប្តូរ"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ព័ត៌មានប្រវត្តិរូប"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "ធ្វើបច្ចុប្បន្នភាពព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នក។"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "ឈ្មោះពេញ"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "ឯកទេស"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិរូប"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "ចំណូលចិត្តការជូនដំណឹង"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "កំណត់រចនាសម្ព័ន្ធរបៀបដែលអ្នកចង់ទទួលការជូនដំណឹង"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "ការជូនដំណឹងអំពីការណាត់ជួប"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "ទទួលបានការរំលឹកអំពីការណាត់ជួបនាពេលខាងមុខ"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "បើក"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "ការជូនដំណឹងអំពីការទូទាត់"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "ទទួលបានការជូនដំណឹងអំពីការបង់ប្រាក់ដែលមិនទាន់សម្រេច"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ការជូនដំណឹងតាមអ៊ីមែល"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "ទទួលការជូនដំណឹងនៅក្នុងអ៊ីមែលរបស់អ្នក។"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "គ្រប់គ្រងសុវត្ថិភាពគណនីរបស់អ្នក។"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "ពាក្យសម្ងាត់បច្ចុប្បន្ន"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "ពាក្យសម្ងាត់ថ្មី។"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "បញ្ជាក់ពាក្យសម្ងាត់ថ្មី។"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "ផ្លាស់ប្តូរពាក្យសម្ងាត់"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "រូបរាង"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "ប្ដូររូបរាងរបស់កម្មវិធីតាមបំណង"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "របៀបងងឹត"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ប្តូររវាងរបៀបពន្លឺ និងងងឹត"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "ធ្វើឱ្យសកម្ម"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ទំហំពុម្ពអក្សរ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "លៃតម្រូវទំហំអត្ថបទ"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "កំណត់រចនាសម្ព័ន្ធ"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "កំពុងដំណើរការ"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "ពេញ"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "បានលុបចោល"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "ក្រវិល"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "កំពុងរង់ចាំ"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "ការព្យាបាល"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "គ្រប់គ្រងការព្យាបាល"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "គ្រប់គ្រងការព្យាបាលធ្មេញ"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "ការព្យាបាលថ្មី។"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "បញ្ជីការព្យាបាល"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ការព្យាបាល"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " បានចុះឈ្មោះ"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "មិនមានការព្យាបាលដែលបានចុះឈ្មោះទេ។"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "គ្មានឈ្មោះ"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "អ្នកជំងឺ៖ "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "មិនបានចាត់តាំង"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "មើលព័ត៌មានលម្អិត"
+  }
+}

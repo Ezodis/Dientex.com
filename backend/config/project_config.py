@@ -1,0 +1,873 @@
+"""Dependency-free discovery and literal project options for shared dev tools.
+
+Reading literals avoids executing integrations in project.py during bootstrap.
+Run: python config/project_config.py <project-root> <option>
+"""
+import ast
+import argparse
+from contextlib import contextmanager, nullcontext
+import fnmatch
+import json
+import os
+import re
+import secrets
+import runpy
+import subprocess
+import sys
+import xml.etree.ElementTree as ET
+from pathlib import Path, PurePosixPath
+from urllib.request import Request, urlopen
+from urllib.parse import urlsplit
+
+MOBILE_SKIP = {'shared', 'node_modules', 'scripts', 'packages', 'builds'}
+
+
+def repair_database_sequences(connection):
+    """Advance restored PostgreSQL counters for this project's models only."""
+    if connection.vendor != 'postgresql':
+        return 0
+    from django.apps import apps
+    from django.db import transaction
+    from django.db.migrations.recorder import MigrationRecorder
+
+    tables = {model._meta.db_table for model in apps.get_models(include_auto_created=True)
+              if model._meta.managed and not model._meta.proxy}
+    tables.add(MigrationRecorder.Migration._meta.db_table)
+    repaired = 0
+    with transaction.atomic(using=connection.alias), connection.cursor() as cursor:
+        existing = set(connection.introspection.table_names(cursor))
+        for table in sorted(tables & existing):
+            sequences = connection.introspection.get_sequences(cursor, table)
+            if not sequences:
+                continue
+            quoted_table = connection.ops.quote_name(table)
+            # Block inserts while comparing each counter to its existing rows.
+            cursor.execute(f'LOCK TABLE {quoted_table} IN SHARE ROW EXCLUSIVE MODE')
+            for sequence in sequences:
+                column = sequence.get('column')
+                if not column:
+                    continue
+                cursor.execute('SELECT pg_get_serial_sequence(%s, %s)', [table, column])
+                sequence_name = cursor.fetchone()[0]
+                if not sequence_name:
+                    continue
+                # PostgreSQL returns an already quoted, schema-qualified name.
+                cursor.execute(f'SELECT last_value, is_called FROM {sequence_name}')
+                last_value, is_called = cursor.fetchone()
+                cursor.execute(f'SELECT MAX({connection.ops.quote_name(column)}) FROM {quoted_table}')
+                maximum = cursor.fetchone()[0]
+                if maximum is not None and (maximum > last_value or (maximum == last_value and not is_called)):
+                    cursor.execute('SELECT setval(%s::regclass, %s, true)', [sequence_name, maximum])
+                    repaired += 1
+    return repaired
+
+
+def migrate_database():
+    """Serialize startup migrations and repair restored counters before inserts."""
+    import django
+    from django.core.management import call_command
+    from django.db import connection
+    django.setup()
+    with connection.cursor() as cursor:
+        if connection.vendor == 'postgresql':
+            cursor.execute("SELECT pg_advisory_lock(hashtext(current_database()), hashtext(current_schema() || ':django-startup'))")
+        try:
+            subprocess.check_call(['/backend/backup/backup.sh', 'auto-restore'])
+            print(f'Repaired {repair_database_sequences(connection)} restored database sequences.', flush=True)
+            call_command('migrate', interactive=False, fake_initial=True)
+            repair_database_sequences(connection)
+        finally:
+            if connection.vendor == 'postgresql':
+                cursor.execute("SELECT pg_advisory_unlock(hashtext(current_database()), hashtext(current_schema() || ':django-startup'))")
+
+# Shared architecture boundaries. New files inside shared directories are
+# discovered automatically; application source and project.py stay project-owned.
+SHARED_PATHS = (
+    'AGENTS.md', 'dev.sh', 'dev.ps1', 'dev.yml', '.gitattributes', '.dockerignore', '.vercelignore',
+    'backend/config/*', 'backend/mailroom/*', 'backend/manage.py', 'backend/backup/*.sh', 'backend/backup/.gitignore',
+    'backend/requirements/base.txt', 'backend/requirements/development.txt',
+    'backend/requirements/deployment.txt',
+    'frontend/web/Dockerfile', 'frontend/web/.dockerignore',
+    'frontend/web/next.config.shared.ts', 'frontend/web/vercel.json',
+    'frontend/web/localization/*', 'frontend/web/app/ui-localization/route.ts',
+    'frontend/web/package.json', 'frontend/web/eslint.config.mjs',
+    '.github/workflows/dependency-checks.yml',
+    '.github/workflows/template-sync.yml', '.github/workflows/dependency-automerge.yml',
+    '.github/workflows/vercel-deploy.yml',
+    'frontend/mobile/Dockerfile', 'frontend/mobile/.dockerignore',
+    'frontend/mobile/.npmrc', 'frontend/mobile/mobile.sh',
+    'frontend/mobile/metro.config.base.js',
+)
+RETIRED_SHARED_PATHS = (
+    '.github/dependabot.yml',
+    '.github/workflows/production-backup.yml',
+    'backend/config/.env.example',
+    'backend/config/test_template_config.py',
+    '.sh/dev_qr_server.py',
+)
+PROJECT_MARKER = '# Project-specific integrations'
+WEB_CORE_DEPENDENCIES = ('next', 'react', 'react-dom')
+WEB_CORE_DEV_DEPENDENCIES = (
+    'eslint', 'eslint-config-next', 'typescript', '@types/node',
+    '@types/react', '@types/react-dom', 'tailwindcss', '@tailwindcss/postcss',
+)
+
+
+def merge_web_package(template, project):
+    """Sync only framework/tool versions; preserve app packages and commands."""
+    remote = json.loads(template)
+    local = json.loads(project) if project is not None else remote.copy()
+    for section, names in [('dependencies', WEB_CORE_DEPENDENCIES),
+                           ('devDependencies', WEB_CORE_DEV_DEPENDENCIES)]:
+        target = local.setdefault(section, {})
+        for name in names:
+            if name in remote.get(section, {}):
+                incoming = remote[section][name]
+                current = target.get(name, '')
+                def version(value):
+                    match = re.fullmatch(r'[~^]?(\d+(?:\.\d+){0,2})', value)
+                    return tuple(int(part) for part in match.group(1).split('.')) if match else None
+                older, newer = version(current), version(incoming)
+                if older is None or newer is None or newer >= older:
+                    target[name] = incoming
+    scripts = local.setdefault('scripts', {})
+    for name in ('dev', 'build', 'lint', 'typecheck'):
+        if name in remote.get('scripts', {}):
+            scripts[name] = remote['scripts'][name]
+    if scripts.get('export') == 'next export':
+        del scripts['export']
+    local.setdefault('engines', {}).update(remote.get('engines', {}))
+    return (json.dumps(local, indent=2, ensure_ascii=False) + '\n').encode()
+
+
+def native_dev_commands(root):
+    commands = project_option(root, 'DEV_WINDOWS_COMMANDS', [])
+    registered = project_option(root, 'DEV_COMMANDS', {})
+    if not isinstance(commands, list) or any(
+        not isinstance(command, str) or not command or '\n' in command or '\r' in command
+        or command not in registered for command in commands
+    ):
+        raise ValueError('DEV_WINDOWS_COMMANDS must be a literal list of registered DEV_COMMANDS names')
+    return commands
+
+
+def project_option(root, name, default=None):
+    source = Path(root) / 'backend' / 'project.py'
+    if not source.is_file():
+        return default
+    tree = ast.parse(source.read_text(encoding='utf-8-sig'), filename=str(source))
+    for node in tree.body:
+        if isinstance(node, ast.Assign):
+            if any(isinstance(t, ast.Name) and t.id == name for t in node.targets):
+                try:
+                    return ast.literal_eval(node.value)
+                except ValueError as exc:
+                    raise ValueError(f'{name} in {source} must be a literal value') from exc
+    return default
+
+
+def find_apps(base_dir, exclude_dirs=None):
+    excluded = set(exclude_dirs or ()) | {'config', '__pycache__'}
+    return sorted(
+        p.name for p in Path(base_dir).iterdir()
+        if p.is_dir() and p.name not in excluded and (p / '__init__.py').is_file()
+    )
+
+
+def mobile_apps(root):
+    mobile_dir = Path(root) / 'frontend' / 'mobile'
+    if not mobile_dir.is_dir():
+        return []
+    names = sorted((
+        p.name for p in mobile_dir.iterdir()
+        if p.is_dir() and p.name not in MOBILE_SKIP and (p / 'package.json').is_file()
+    ), key=lambda name: (name.casefold(), name))
+    order = project_option(root, 'MOBILE_APP_ORDER', [])
+    return list(dict.fromkeys([name for name in order if name in names] + names))
+
+
+def sync_paths(root):
+    root = Path(root)
+    # Explicitly shared reusable Django apps participate in template sync.
+    # Business apps and explicit project protection remain project-owned.
+    paths = [f'backend/{name}/' for name in find_apps(root / 'backend')
+             if f'backend/{name}/*' not in SHARED_PATHS]
+    paths += [f'frontend/mobile/{name}/' for name in mobile_apps(root)]
+    paths += [config['path'].rstrip('/') + '/'
+              for config in project_option(root, 'WATCHOS_APPS', {}).values()]
+    paths += project_option(root, 'SYNC_PROJECT_PATHS', [])
+    return list(dict.fromkeys(paths))
+
+
+def environment_keys(root):
+    """Discover active inputs in this checkout without importing project code."""
+    root = Path(root)
+    found = set(project_option(root, 'ENV_DEFAULTS', {}))
+    skip = {'.git', '.venv', 'venv', 'node_modules', '.next', '.expo',
+            '__pycache__', 'staticfiles', 'migrations', 'build', 'dist', 'media'}
+    internal = {'DJANGO_SETTINGS_MODULE', 'PYTHONPATH', 'NODE_ENV', 'CI',
+                'HOME', 'PATH', 'USER', 'PORT', 'PYTHONDONTWRITEBYTECODE',
+                'PYTHONUNBUFFERED', 'PIP_NO_CACHE_DIR'}
+    for directory in (root / 'backend', root / 'frontend'):
+        for parent, directories, files in os.walk(directory):
+            directories[:] = [name for name in directories if name not in skip]
+            for name in files:
+                path = Path(parent) / name
+                if name.startswith(('test', '.')) or 'tests' in path.parts:
+                    continue
+                if path.name in {'project_config.py', 'watchos.py'}:
+                    continue  # tooling options are optional, not application inputs
+                if path.suffix == '.py':
+                    tree = ast.parse(path.read_text(encoding='utf-8-sig'), filename=str(path))
+                    for node in ast.walk(tree):
+                        if isinstance(node, ast.Call) and node.args:
+                            function = ast.unparse(node.func)
+                            if function in {'os.getenv', 'os.environ.get', 'env_value', 'env_int', 'env_bool'}:
+                                key = node.args[0]
+                                if isinstance(key, ast.Constant) and isinstance(key.value, str):
+                                    found.add(key.value)
+                        elif isinstance(node, ast.Subscript) and ast.unparse(node.value) == 'os.environ':
+                            if isinstance(node.slice, ast.Constant) and isinstance(node.slice.value, str):
+                                found.add(node.slice.value)
+                elif path.suffix == '.sh':
+                    source = '\n'.join(line for line in path.read_text(encoding='utf-8-sig').splitlines()
+                                       if not line.lstrip().startswith('#'))
+                    found.update(re.findall(r'\$(?:\{)?([A-Z][A-Z0-9_]*)', source))
+                    found.update(re.findall(r'''os\.getenv\(['"]([A-Z][A-Z0-9_]*)['"]''', source))
+                elif path.suffix in {'.js', '.jsx', '.ts', '.tsx', '.mjs', '.cjs'}:
+                    source = path.read_text(encoding='utf-8-sig')
+                    # Keep strings intact while discarding JS comments (URLs contain //).
+                    tokens = re.compile(r'''"(?:\\.|[^"\\])*"|'(?:\\.|[^'\\])*'|`(?:\\.|[^`\\])*`|//[^\n]*|/\*[\s\S]*?\*/''')
+                    source = tokens.sub(lambda match: '' if match.group().startswith(('//', '/*')) else match.group(), source)
+                    found.update(re.findall(r'process\.env\.([A-Z][A-Z0-9_]*)', source))
+                    found.update(re.findall(r'''process\.env\[['"]([A-Z][A-Z0-9_]*)['"]\]''', source))
+    # Project service extensions may have inputs referenced only by Compose.
+    services = project_option(root, 'COMPOSE_SERVICES', '')
+    services = '\n'.join(line for line in services.splitlines() if not line.lstrip().startswith('#'))
+    found.update(re.findall(r'\$\{([A-Z][A-Z0-9_]*)', services))
+    return found - internal
+
+
+def compose_services(root):
+    """Render literal project services, tolerating explicitly optional drives."""
+    root = Path(root).resolve()
+    content = project_option(root, 'COMPOSE_SERVICES', '')
+    values = environment_values(root, include_environment=False)
+    for key, default in project_option(root, 'OPTIONAL_BIND_MOUNTS', {}).items():
+        if not re.fullmatch(r'[A-Z][A-Z0-9_]*', key):
+            raise ValueError('Optional mount names must be environment keys')
+        fallback = (root / default).resolve()
+        if not fallback.is_relative_to(root):
+            raise ValueError('Optional mount fallbacks must stay inside this checkout')
+        source = Path(values.get(key) or fallback)
+        if not source.is_absolute():
+            source = root / source
+        try:
+            available = source.is_dir()
+        except OSError:
+            available = False
+        if not available:
+            fallback.mkdir(parents=True, exist_ok=True)
+            content = re.sub(r'\$\{' + re.escape(key) + r'(?::-[^}]*)?\}',
+                             lambda _: str(fallback), content)
+            print(f'Optional folder {key} is unavailable; using its local fallback mount.', file=sys.stderr)
+    if not any(line.strip() and not line.lstrip().startswith('#') for line in content.splitlines()):
+        return ''
+    return content if any(line == 'services:' for line in content.splitlines()) else 'services:\n' + content
+
+
+def bootstrap_environment(root):
+    """Create a minimal local environment; existing values are never copied."""
+    root = Path(root)
+    target = root / '.env'
+    if target.exists():
+        return
+    defaults = {'DJANGO_SECRET_KEY': secrets.token_urlsafe(48), 'DJANGO_DEBUG': 'True',
+                'DOMAIN': 'localhost', 'DB_HOST': 'db', 'DB_PORT': '5432',
+                'DB_NAME': 'postgres', 'DB_USER': 'postgres', 'DB_PASSWORD': 'postgres'}
+    # Projects explicitly declare optional integrations/defaults here, as literals.
+    defaults.update(project_option(root, 'ENV_DEFAULTS', {}))
+    if mobile_apps(root):
+        defaults.setdefault('EXPO_PUBLIC_API_URL', 'http://localhost:8000')
+    keys = environment_keys(root)
+    lines = ['# Local environment. Do not commit secrets.',
+             '# Optional settings use code defaults; project defaults live in backend/project.py.']
+    for key, value in defaults.items():
+        if key not in keys:
+            continue
+        if not re.fullmatch(r'[A-Z][A-Z0-9_]*', key) or '\n' in str(value) or '\r' in str(value):
+            raise ValueError('ENV_DEFAULTS must contain dotenv names and single-line values')
+        lines.append(f'{key}={value}')
+    target.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+
+
+def resource_namespace(root):
+    default = re.sub(r'[^a-z0-9]', '', Path(root).name.lower())
+    value = project_option(root, 'DEV_RESOURCE_NAMESPACE', default)
+    if not isinstance(value, str) or not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,62}', value):
+        raise ValueError('DEV_RESOURCE_NAMESPACE must be a valid Compose namespace')
+    return value
+
+
+def environment_values(root, include_environment=False):
+    """Read simple dotenv assignments as data, preserving embedded '=' signs."""
+    # Host tools read the selected checkout. Inherited project credentials and
+    # public build variables must not leak from a previously launched project.
+    values = dict(os.environ) if include_environment else {}
+    source = Path(root) / '.env'
+    if source.is_file():
+        for line in source.read_text(encoding='utf-8-sig').splitlines():
+            match = re.match(r'^\s*(?:export\s+)?([A-Za-z_][A-Za-z0-9_]*)\s*=(.*)$', line)
+            if not match:
+                continue
+            name, value = match.groups()
+            value = value.strip()
+            if len(value) >= 2 and value[0] in ('"', "'") and value[-1] == value[0]:
+                value = value[1:-1]
+            else:
+                value = re.sub(r'\s+#.*$', '', value).rstrip()
+            values[name] = value
+    return values
+
+
+def development_hostname(root):
+    """Return the checkout's canonical dev.<domain> without importing its apps.
+
+    DEV_DOMAIN is the project's registered base domain, not a URL. A root .env
+    override wins over project.py's literal default. Non-domain folder names
+    get a computer-only localhost address without needing a DNS account.
+    Inherited environment and compact Compose namespaces never define routing.
+    """
+    value = environment_values(root).get('DEV_DOMAIN') or project_option(root, 'DEV_DOMAIN')
+    if value is not None and value != '':
+        return development_hostname_for_domain(value)
+    folder = Path(root).name
+    try:
+        return development_hostname_for_domain(folder)
+    except ValueError:
+        # A clean template checkout needs no registered domain or DNS account.
+        # localhost is computer-only; LAN setup still requires an owned domain.
+        try:
+            folder = folder.lower().encode('idna').decode('ascii')
+        except UnicodeError:
+            folder = folder.lower()
+        slug = re.sub(r'[^a-z0-9-]+', '-', folder).strip('-')[:63].rstrip('-')
+        if not slug:
+            raise ValueError('Choose a project folder with letters or digits, or set DEV_DOMAIN')
+        return f'dev.{slug}.localhost'
+
+
+def development_tls_mode(root, warn=False):
+    """Resolve TLS policy from this checkout without importing project code."""
+    mode = environment_values(root).get('DEV_TLS_MODE', 'local').strip().lower()
+    if mode not in ('local', 'public'):
+        raise ValueError('DEV_TLS_MODE must be local or public.')
+    fallback = project_option(root, 'DEV_TLS_ALLOW_LOCAL_FALLBACK', False)
+    if not isinstance(fallback, bool):
+        raise ValueError('DEV_TLS_ALLOW_LOCAL_FALLBACK must be a literal boolean.')
+    if mode == 'public' and fallback:
+        from .development_dns import host_token_file
+        if not host_token_file().is_file():
+            if warn:
+                print('Trusted LAN HTTPS is not set up on this computer (no Cloudflare token); '
+                      'using the project-configured computer-only HTTPS fallback. '
+                      'Run lan setup to enable LAN access.', file=sys.stderr)
+            return 'local'
+    return mode
+
+
+def development_hostname_for_domain(value):
+    """Validate a bare project domain and return its canonical dev hostname."""
+    if not isinstance(value, str) or value != value.strip():
+        raise ValueError('DEV_DOMAIN must be a bare registered domain without whitespace')
+    try:
+        domain = value.lower().encode('idna').decode('ascii')
+    except UnicodeError as error:
+        raise ValueError('DEV_DOMAIN must be a valid DNS domain') from error
+    labels = domain.split('.')
+    if (len(labels) < 2 or len('dev.' + domain) > 253
+            or any(not re.fullmatch(r'[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?', label)
+                   for label in labels)
+            or not re.fullmatch(r'(?:[a-z]{2,63}|xn--[a-z0-9-]+)', labels[-1])
+            or labels[-1] in {'local', 'localhost', 'test', 'invalid', 'example', 'internal', 'arpa'}):
+        raise ValueError('Set DEV_DOMAIN to a registered domain in root .env or backend/project.py; '
+                         'URLs, ports, IP addresses and local-only names are not supported')
+    return f'dev.{domain}'
+
+
+def project_environment(root):
+    """Keep host tooling paths, replacing application inputs with this .env."""
+    keys = environment_keys(root) - {'DEV_SOURCE_DIR', 'DEV_CHECKOUT_DIR'}
+    values = {key: value for key, value in os.environ.items()
+              if key not in keys and not key.startswith(('EXPO_PUBLIC_', 'NEXT_PUBLIC_'))}
+    values.update(environment_values(root))
+    return values
+
+
+def exposure_check_command(root):
+    values = environment_values(root)
+    url = urlsplit(values.get('CLOUDFLARE_TUNNEL_URL', ''))
+    if values.get('CLOUDFLARE_TUNNEL_TOKEN') and (url.scheme != 'https' or not url.hostname or url.username or url.password
+            or url.path not in ('', '/') or url.query or url.fragment
+            or url.hostname.endswith(('.trycloudflare.com', '.localhost', '.local', '.internal'))
+            or url.hostname in ('localhost', '127.0.0.1', '::1')):
+        raise ValueError('Set a fixed CLOUDFLARE_TUNNEL_URL=https://your-hostname in the root .env')
+    command = project_option(root, 'PUBLIC_EXPOSURE_CHECK_COMMAND', [])
+    if not isinstance(command, list) or not command or any(
+            not isinstance(argument, str) or not argument or '\n' in argument for argument in command):
+        raise ValueError('Declare a literal PUBLIC_EXPOSURE_CHECK_COMMAND list in backend/project.py')
+    return command
+
+
+def mobile_build_environment(root, profile):
+    values = environment_values(root)
+    public = {key: value for key, value in values.items() if key.startswith('EXPO_PUBLIC_')}
+    suffix = f'_{profile.upper()}'
+    for key, value in list(public.items()):
+        if key.endswith(suffix) and value:
+            public[key[:-len(suffix)]] = value
+    public['EXPO_PUBLIC_ENV'] = profile
+    if profile == 'production' and not values.get('EXPO_PUBLIC_API_URL_PRODUCTION'):
+        raise ValueError('Set EXPO_PUBLIC_API_URL_PRODUCTION for production mobile builds; the URL is never guessed from the folder name')
+    return public
+
+
+def android_metadata(root, android_dir):
+    """Apply only metadata explicitly configured by this project."""
+    metadata = project_option(root, 'MOBILE_ANDROID_METADATA', {})
+    manifest = Path(android_dir) / 'app/src/main/AndroidManifest.xml'
+    if not metadata or not manifest.is_file():
+        return
+    values = environment_values(root)
+    namespace = 'http://schemas.android.com/apk/res/android'
+    ET.register_namespace('android', namespace)
+    tree = ET.parse(manifest, parser=ET.XMLParser(target=ET.TreeBuilder(insert_comments=True)))
+    application = tree.getroot().find('application')
+    if application is None:
+        return
+    changed = False
+    for name, env_key in metadata.items():
+        value = values.get(env_key)
+        if not value:
+            continue
+        element = next((item for item in application.findall('meta-data')
+                        if item.get(f'{{{namespace}}}name') == name), None)
+        if element is None:
+            element = ET.SubElement(application, 'meta-data', {f'{{{namespace}}}name': name})
+        element.set(f'{{{namespace}}}value', value)
+        changed = True
+    if changed:
+        tree.write(manifest, encoding='utf-8', xml_declaration=True)
+
+
+def is_shared(path, protected=()):
+    parts = PurePosixPath(path).parts
+    if not parts or PurePosixPath(path).is_absolute() or '..' in parts:
+        return False
+    if any(part in {'__pycache__', 'staticfiles', 'node_modules', '.git'} for part in parts):
+        return False
+    if any(part.startswith('.env') for part in parts) or path in RETIRED_SHARED_PATHS:
+        return False
+    if any(path.startswith(prefix) if prefix.endswith('/') else path == prefix for prefix in protected):
+        return False
+    return any(fnmatch.fnmatchcase(path, pattern) for pattern in SHARED_PATHS)
+
+
+def shared_inventory(root):
+    output = subprocess.check_output(
+        ['git', '-C', str(root), 'ls-files', '--cached', '--others', '--exclude-standard', '-z']
+    ).decode('utf-8')
+    return sorted({path for path in output.split('\0') if path and is_shared(path)
+                   and (Path(root) / path).is_file()})
+
+
+def tracked_shared_paths(root, deleted=False):
+    command = ['git', '-C', str(root), 'ls-files', '-z']
+    if deleted:
+        command.append('--deleted')
+    return {path for path in subprocess.check_output(command).decode('utf-8').split('\0')
+            if path and is_shared(path)}
+
+
+def merge_requirements(template, project):
+    """Update core requirements while retaining this project's integrations."""
+    if project is None:
+        return template
+    remote = template.decode('utf-8-sig').replace('\r\n', '\n')
+    local = project.decode('utf-8-sig').replace('\r\n', '\n')
+    remote_top = remote.split(PROJECT_MARKER, 1)[0].rstrip()
+    # Never roll back a project patch that arrived before the template update.
+    pinned = re.compile(r'^([A-Za-z0-9_.-]+)==(\d+(?:\.\d+)*)$')
+    local_pins = {}
+    for line in local.split(PROJECT_MARKER, 1)[0].splitlines():
+        match = pinned.fullmatch(line.strip())
+        if match:
+            local_pins[match.group(1).lower()] = (tuple(map(int, match.group(2).split('.'))), line)
+    lines = []
+    for line in remote_top.splitlines():
+        match = pinned.fullmatch(line.strip())
+        previous = local_pins.get(match.group(1).lower()) if match else None
+        if previous and previous[0] > tuple(map(int, match.group(2).split('.'))):
+            line = previous[1]
+        lines.append(line)
+    remote_top = '\n'.join(lines)
+    if PROJECT_MARKER in local:
+        local_tail = local.split(PROJECT_MARKER, 1)[1]
+        return (remote_top + '\n\n' + PROJECT_MARKER + local_tail).rstrip().encode() + b'\n'
+    # First migration: keep dependencies absent from the template core.
+    def key(line):
+        line = line.strip()
+        if not line or line.startswith('#'):
+            return None
+        match = re.match(r'([A-Za-z0-9_.-]+)', line)
+        return re.sub(r'[-_.]+', '-', match.group(1)).lower() if match else line
+    core = {key(line) for line in remote_top.splitlines()} - {None}
+    extras = [line for line in local.splitlines() if key(line) and key(line) not in core]
+    return (remote_top + '\n\n' + PROJECT_MARKER + '\n' + '\n'.join(extras)).rstrip().encode() + b'\n'
+
+
+def check_project_isolation(root, project, hosts):
+    """Reject container namespaces or hostnames already owned by another checkout."""
+    # Other checkouts can recreate containers between listing and inspection.
+    # Retry a changed inventory, but fail closed for genuine inspection errors.
+    identifiers = subprocess.check_output(['podman', 'ps', '-aq'], text=True).split()
+    for attempt in range(3):
+        if not identifiers:
+            return
+        try:
+            containers = json.loads(subprocess.check_output(
+                ['podman', 'inspect', *identifiers], text=True, stderr=subprocess.PIPE))
+            break
+        except subprocess.CalledProcessError:
+            current = subprocess.check_output(['podman', 'ps', '-aq'], text=True).split()
+            if set(current) == set(identifiers) or attempt == 2:
+                raise
+            identifiers = current
+    root = Path(root).resolve()
+    # Windows launches run from a native WSL mirror of the same checkout.
+    # Containers created before mirroring still carry the source directory.
+    checkout_directories = {root}
+    for key in ('DEV_SOURCE_DIR', 'DEV_CHECKOUT_DIR'):
+        source_directory = os.environ.get(key)
+        if source_directory:
+            checkout_directories.add(Path(source_directory).resolve())
+    for container in containers:
+        labels = container.get('Config', {}).get('Labels') or {}
+        owner = labels.get('com.docker.compose.project') or labels.get('io.podman.compose.project')
+        directory = labels.get('com.docker.compose.project.working_dir')
+        if owner == project:
+            if directory and Path(directory).resolve() not in checkout_directories:
+                raise ValueError(f'Project namespace {project!r} already belongs to {directory}. Use a distinct project folder name.')
+            continue
+        for key, rule in labels.items():
+            if key.startswith('traefik.http.routers.') and key.endswith('.rule'):
+                for expression in re.findall(r'Host\(([^)]*)\)', rule):
+                    claimed = re.findall(r'[`"]([^`"]+)[`"]', expression)
+                    overlap = set(claimed) & set(hosts)
+                    if overlap:
+                        raise ValueError(f'Hostname {sorted(overlap)[0]!r} is already routed by {owner or container.get("Name", "another container")}. Use a distinct project folder name.')
+
+
+def configured_repo(root):
+    repo = environment_values(root).get('SYNC_TEMPLATE_REPO') or project_option(root, 'SYNC_TEMPLATE_REPO', '')
+    if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repo):
+        raise ValueError('Set SYNC_TEMPLATE_REPO=owner/repository in project.py or the root .env')
+    return repo
+
+
+def local_template(root, repo, explicit=None):
+    if explicit:
+        candidate = Path(explicit).expanduser().resolve()
+        if not (candidate / '.git').exists():
+            raise ValueError(f'Template directory is not a Git checkout: {candidate}')
+        return candidate
+    for candidate in (Path(root).parent / repo.split('/')[1], Path.home() / repo.split('/')[1]):
+        if not (candidate / '.git').exists():
+            continue
+        try:
+            origin = subprocess.check_output(['git', '-C', str(candidate), 'remote', 'get-url', 'origin'], text=True).strip()
+        except subprocess.CalledProcessError:
+            continue
+        if origin.removesuffix('.git').endswith('/' + repo) or origin.removesuffix('.git').endswith(':' + repo):
+            return candidate.resolve()
+    return None
+
+
+def remote_template(repo):
+    headers = {'User-Agent': 'template-sync', 'Accept': 'application/vnd.github+json'}
+    token = os.getenv('GITHUB_TOKEN') or os.getenv('GH_TOKEN')
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
+    def read(url):
+        with urlopen(Request(url, headers=headers), timeout=30) as response:
+            return response.read()
+    commit = json.loads(read(f'https://api.github.com/repos/{repo}/commits/HEAD'))['sha']
+    tree = json.loads(read(f'https://api.github.com/repos/{repo}/git/trees/{commit}?recursive=1'))
+    if tree.get('truncated'):
+        raise ValueError('Template tree is truncated; use sync --dir with a local checkout')
+    paths = [item['path'] for item in tree['tree'] if item['type'] == 'blob' and is_shared(item['path'])]
+    # Pin all file reads to the same commit to prevent mixed revisions.
+    def file_bytes(path):
+        from urllib.parse import quote
+        return read(f'https://raw.githubusercontent.com/{repo}/{commit}/{quote(path)}')
+    return paths, file_bytes, f'{repo}@{commit[:8]}'
+
+
+def run_sync(root, arguments):
+    parser = argparse.ArgumentParser(prog='dev.sh sync')
+    parser.add_argument('direction', nargs='?', choices=('pull', 'push'), default='pull')
+    parser.add_argument('--dir', help='Use a particular local template checkout')
+    parser.add_argument('--dry-run', action='store_true')
+    parser.add_argument('--yes', '-y', action='store_true')
+    args = parser.parse_args(arguments)
+    root = Path(root).resolve()
+    if not (root / '.git').exists():
+        source = Path(os.environ.get('DEV_SOURCE_DIR', str(root))).resolve()
+        if not (source / '.git').exists():
+            raise ValueError('Run template sync from the Git source checkout, rather than its runtime mirror.')
+        print(f'Syncing source checkout {source}; the runtime mirror follows its files.')
+        root = source
+    repo = configured_repo(root)
+    clone = local_template(root, repo, args.dir)
+    destination = clone if args.direction == 'push' else root
+    if destination is None:
+        raise ValueError('Template checkout not found; clone it beside this project or use sync push --dir')
+    with nullcontext() if args.dry_run else sync_checkout_lock(destination):
+        return apply_sync(root, args, clone, repo)
+
+
+@contextmanager
+def sync_checkout_lock(root):
+    """Serialize template sync writers without blocking unrelated app edits."""
+    git_path = subprocess.check_output(['git', '-C', str(root), 'rev-parse', '--git-path',
+                                        'template-sync.lock'], text=True).strip()
+    path = Path(git_path)
+    if not path.is_absolute():
+        path = root / path
+    with path.open('a+b') as lock:
+        lock.write(b'0') if path.stat().st_size == 0 else None
+        lock.flush()
+        lock.seek(0)
+        try:
+            if os.name == 'nt':
+                import msvcrt
+                msvcrt.locking(lock.fileno(), msvcrt.LK_NBLCK, 1)
+            else:
+                import fcntl
+                fcntl.flock(lock.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except OSError as exc:
+            raise ValueError(f'Another template sync is updating {root}; retry after it finishes.') from exc
+        try:
+            yield
+        finally:
+            lock.seek(0)
+            if os.name == 'nt':
+                msvcrt.locking(lock.fileno(), msvcrt.LK_UNLCK, 1)
+            else:
+                fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
+
+
+def same_shared_content(left, right):
+    """Git checkouts can use CRLF locally and LF in Actions or the template."""
+    return left == right or (left is not None and right is not None
+                            and left.replace(b'\r\n', b'\n') == right.replace(b'\r\n', b'\n'))
+
+
+def apply_sync(root, args, clone, repo):
+    protected = sync_paths(root)
+    if args.direction == 'push':
+        if clone is None:
+            raise ValueError('Template checkout not found; clone it beside this project or use sync push --dir')
+        if clone == root:
+            print('This is the template checkout; its shared changes are already here.')
+            return 0
+        destination = clone
+        paths = shared_inventory(root)
+        read = lambda path: (root / path).read_bytes()
+        label = str(root)
+        # Protect project-owned paths in both repositories in either direction.
+        protected += sync_paths(clone)
+    else:
+        destination = root
+        if clone == root:
+            print('This is the template checkout; no self-sync is needed.')
+            return 0
+        if clone:
+            paths = shared_inventory(clone)
+            read = lambda path: (clone / path).read_bytes()
+            label = str(clone)
+            protected += sync_paths(clone)
+        else:
+            paths, read, label = remote_template(repo)
+    print(f'Sync {args.direction}: {label} -> {destination}')
+    actions = []
+    snapshots = {}
+    for path in sorted(paths):
+        if not is_shared(path, protected):
+            continue
+        target = destination / path
+        content = read(path)
+        previous = target.read_bytes() if target.is_file() else None
+        snapshots[path] = previous
+        if path.startswith('backend/requirements/') and path.endswith('.txt'):
+            # On push, only the source core transfers; the template's extras stay local.
+            content = merge_requirements(content, previous)
+        if path == 'frontend/web/package.json':
+            content = merge_web_package(content, previous)
+        if not same_shared_content(content, previous):
+            actions.append((path, content))
+            print(f'  {"update" if previous is not None else "add"}: {path}')
+    retired = set(RETIRED_SHARED_PATHS)
+    if args.direction == 'push':
+        retired |= tracked_shared_paths(root, deleted=True)
+    else:
+        # Remove obsolete tracked architecture files, preserving new local files
+        # that have not yet been offered back to the template.
+        retired |= tracked_shared_paths(destination) - set(paths)
+    relocations = project_option(destination, 'SYNC_RELOCATIONS', {})
+    for previous, replacement in relocations.items():
+        for item in (previous, replacement):
+            parts = PurePosixPath(item).parts
+            if (not parts or PurePosixPath(item).is_absolute() or '..' in parts
+                    or any(part.startswith('.env') for part in parts)
+                    or not (destination / item).resolve().is_relative_to(destination.resolve())):
+                raise ValueError('Sync relocation paths must stay inside the checkout and exclude environment files')
+    retired |= set(relocations)
+    for path in sorted(retired):
+        if any(path.startswith(prefix) if prefix.endswith('/') else path == prefix for prefix in protected):
+            continue
+        if (destination / path).is_file():
+            replacement = relocations.get(path)
+            if replacement:
+                existing = destination / replacement
+                if existing.is_file() and not same_shared_content(existing.read_bytes(), (destination / path).read_bytes()):
+                    raise ValueError(f'Relocation destination differs: {replacement}; preserve/reconcile it before syncing')
+                if not existing.is_file():
+                    actions.append((replacement, (destination / path).read_bytes()))
+                    snapshots[replacement] = None
+                    print(f'  move: {path} -> {replacement}')
+            actions.append((path, None))
+            snapshots[path] = (destination / path).read_bytes()
+            print(f'  remove retired: {path}')
+    if not actions:
+        print('Shared architecture is already up to date.')
+        return 0
+    if args.dry_run:
+        print(f'Dry run: {len(actions)} changes; no files written.')
+        return 0
+    # App work never blocks shared updates. Shared work must be published back
+    # to the template first so syncing cannot silently erase concurrent edits.
+    changed = subprocess.check_output(['git', '-C', str(destination), 'diff', 'HEAD',
+                                      '--name-only'], text=True).splitlines()
+    changed += subprocess.check_output(['git', '-C', str(destination), 'ls-files',
+                                       '--others', '--exclude-standard'], text=True).splitlines()
+    conflicts = sorted(set(changed) & {path for path, _ in actions})
+    if conflicts:
+        raise ValueError('Shared files have unpublished local edits: ' + ', '.join(conflicts)
+                         + '. Commit/review these edits and sync push before pulling; no files were changed.')
+    if not args.yes and input(f'Apply {len(actions)} shared changes? [y/N] ').strip().lower() not in {'y', 'yes'}:
+        print('No changes applied.')
+        return 0
+    for path, _ in actions:
+        previous = snapshots[path]
+        target = destination / path
+        current = target.read_bytes() if target.is_file() else None
+        if current != previous:
+            raise ValueError(f'{path} changed during sync review; retry. No files were changed.')
+    for path, content in actions:
+        target = (destination / path).resolve()
+        if not target.is_relative_to(destination):
+            raise ValueError(f'Sync path escapes the checkout: {path}')
+        if content is None:
+            target.unlink()
+            # Retired helpers may have been untracked. Prune only empty parent
+            # directories so their former folder also disappears from checkouts.
+            parent = target.parent
+            while parent != destination:
+                try:
+                    parent.rmdir()
+                except OSError:
+                    break
+                parent = parent.parent
+        else:
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(content)
+            if path.endswith('.sh'):
+                target.chmod(target.stat().st_mode | 0o111)
+    print(f'Applied {len(actions)} shared changes.')
+    if args.direction == 'push':
+        print(f'Review and commit the template changes in {destination}, then git push to publish them.')
+    return 0
+
+
+if __name__ == '__main__':
+    root, option = sys.argv[1:3]
+    if option == 'mobile-apps':
+        print('\n'.join(mobile_apps(root)))
+    elif option == 'resource-namespace':
+        print(resource_namespace(root))
+    elif option == 'dev-host':
+        try:
+            print(development_hostname(root))
+        except (ValueError, OSError) as error:
+            print(f'Development hostname unavailable: {error}', file=sys.stderr)
+            raise SystemExit(1)
+    elif option == 'sync-paths':
+        print('\n'.join(sync_paths(root)))
+    elif option == 'exposure-check-command':
+        try:
+            print('\n'.join(exposure_check_command(root)))
+        except ValueError as error:
+            print(f'Exposure refused: {error}', file=sys.stderr)
+            raise SystemExit(1)
+    elif option == 'has-exposure-check':
+        raise SystemExit(0 if project_option(root, 'PUBLIC_EXPOSURE_CHECK_COMMAND', []) else 1)
+    elif option == 'exposure-prepare-command':
+        command = project_option(root, 'PUBLIC_EXPOSURE_PREPARE_COMMAND', [])
+        if not isinstance(command, list) or any(not isinstance(arg, str) or not arg or '\n' in arg for arg in command):
+            raise SystemExit('PUBLIC_EXPOSURE_PREPARE_COMMAND must be a literal argument list')
+        print('\n'.join(command))
+    elif option == 'sync-repo':
+        print(configured_repo(root))
+    elif option == 'check-isolation':
+        try:
+            check_project_isolation(root, sys.argv[3], sys.argv[4:])
+        except (ValueError, OSError, subprocess.CalledProcessError) as error:
+            print(f'Project isolation check failed: {error}', file=sys.stderr)
+            raise SystemExit(1)
+    elif option == 'has-dev-command':
+        raise SystemExit(0 if sys.argv[3] in project_option(root, 'DEV_COMMANDS', {}) else 1)
+    elif option == 'has-native-dev-command':
+        raise SystemExit(0 if sys.argv[3] in native_dev_commands(root) else 1)
+    elif option == 'run-dev-command':
+        command = project_option(root, 'DEV_COMMANDS', {}).get(sys.argv[3])
+        if not command:
+            raise SystemExit(f'Unknown project command: {sys.argv[3]}')
+        environment = project_environment(root)
+        os.environ.clear()
+        os.environ.update(environment)
+        sys.path.insert(0, str(Path(root).resolve() / 'backend'))
+        namespace = runpy.run_path(str(Path(root).resolve() / 'backend/project.py'))
+        handler = namespace.get(command)
+        if not callable(handler):
+            raise SystemExit(f'Project command handler is not callable: {command}')
+        result = handler(*sys.argv[4:])
+        raise SystemExit(result if isinstance(result, int) else 0)
+    elif option == 'sync':
+        try:
+            raise SystemExit(run_sync(root, sys.argv[3:]))
+        except (ValueError, OSError, subprocess.CalledProcessError) as error:
+            print(f'Sync failed: {error}', file=sys.stderr)
+            raise SystemExit(1)
+    elif option == 'android-metadata':
+        android_metadata(root, sys.argv[3])
+    elif option == 'mobile-api-url':
+        print(mobile_build_environment(root, sys.argv[3]).get('EXPO_PUBLIC_API_URL') or sys.argv[4])
+    elif option == 'run-build':
+        env = project_environment(root)
+        env.update(mobile_build_environment(root, sys.argv[3]))
+        raise SystemExit(subprocess.call(sys.argv[4:], env=env))
+    elif option == 'bootstrap-env':
+        bootstrap_environment(root)
+    else:
+        raise SystemExit(f'Unknown project option: {option}')

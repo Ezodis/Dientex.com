@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Abanye"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Phatha ama-aphoyintimenti akho"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Iphutha"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Zama futhi"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Phatha ikhalenda ye-aphoyintimenti"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Ukuqokwa Okusha"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Ikhalenda Lokuqokwa"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " iphupho"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " kuhleliwe"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Awekho ama-aphoyintimenti ahleliwe"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Ukubuka Komtholampilo"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Ilayisha umlando womtholampilo..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Umlando wezokwelapha, amanothi omtholampilo kanye ne-odontogram yesiguli"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Idatha yedemo"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Isibuyekezo sokugcina: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Umlando Wezokwelapha"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Amanothi Omtholampilo"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "I-Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Amafayela"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "I-Periodontogram"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Izifo Ezingamahlalakhona"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Azikho izifo ezingelapheki ezirekhodiwe"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Imithi Yamanje"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Ayikho imithi ebhalisiwe"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "I-Allergies"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Akukho ukungezwani komzimba okwaziwayo"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Ukwelashwa Kwamazinyo Kwangaphambilini"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Azikho izindlela zokwelapha ezirekhodiwe"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Imikhuba Nokubhekwa"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Obhemayo"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ongabhemi"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Phuza utshwala"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Cha phuza utshwala"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Awukho umlando wezokwelapha orekhodiwe"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Dala umlando wezokwelapha"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " sebenzisa"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " umtholampilo"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Inothi elisha"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Awekho amanothi omtholampilo aqoshiwe"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Ukubhekwa komtholampilo"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ingobo yomlando"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Layisha ifayela"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Awekho amafayela omtholampilo anamathiselwe"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Isithombe Somtholampilo"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "I-Radiography"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "Idokhumenti ye-PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Okunye"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Buka ifayela"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Ifayela alitholakali kumodi yedemo"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Kulayishwe ngu: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Amanani angavamile"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 izilinganiso ngezinyo ngalinye (ububanzi obuvamile: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Iphakiwe"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Iphakiwe "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Amanothi"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Ayikho i-periodontogram erekhodiwe"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Dala i-periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Okuhleliwe"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Kuqinisekisiwe"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Kuqediwe"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Kukhanseliwe"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Qinisekisa"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Khansela"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Umtholampilo waseMonterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "I-CDMX Clinic"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Umtholampilo waseGuadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Hlela i-aphoyintimenti"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Buyela"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Sondeza isithombe"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Susa"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Indawo yami"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Funa i..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Ayikho imiphumela etholiwe"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Iyabonisa "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " kwe"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " imiphumela"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Ngaphambili"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Ikhasi "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " kwe "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Ukulandela"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Uhlelo Lokuphathwa Kwehhovisi Lamazinyo."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Imigomo"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Ubumfihlo"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Usizo"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Sesha iziguli, ama-aphoyintimenti..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Izaziso"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "I-aphoyintimenti entsha ihleliwe"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "U-Juan Pérez - Ukuhlanza amazinyo ngo-10:00 AM"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Isikhumbuzi senkokhelo"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "U-María González unenkokhelo elindile engu-$500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "I-aphoyintimenti ekhanseliwe"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "UCarlos Ruiz ukhansele ukuqokwa kwakhe ngoLwesihlanu"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "I-akhawunti yami"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Iphrofayela"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Ukucushwa"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Phuma ngemvume"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Ama-Caries"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Ivaliwe"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Akekho"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ekwelapheni"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Upper Arch"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "I-Lower Arch"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Ifa"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Ayisebenzi"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "I-aphoyintimenti elandelayo:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Bona Imininingwane"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Ukuqokwa Kweshejuli"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% kusukela ngenyanga edlule"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Vala"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Izingcaphuno Zanamuhla"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Iziguli Zihlinzekiwe"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Imali Engenayo Yansuku zonke"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Ukwelashwa Okusebenzayo"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Ideshibhodi"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Siyakwamukela kuphaneli yakho yokulawula"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Idatha yedeshibhodi ayikwazanga ukulayishwa"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Isifinyezo somtholampilo wakho wamazinyo"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Isiguli Esisha"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Isiguli"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Imali engenayo vs Izindleko"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Ukuqhathaniswa kwanyanga zonke kwemali engenayo nezindleko"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Izingcaphuno zakamuva"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Ama-aphoyintimenti akamuva ahleliwe"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Ukuqokwa Kwamaviki Onke"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Ukusatshalaliswa kwama-aphoyintimenti phakathi nesonto"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Isifinyezo Esijwayelekile"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Izibalo zasemtholampilo ezijwayelekile"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Ingqikithi Yeziguli"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Izikweletu Ezisalindile"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Ukuqokwa Okuzayo"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Ibhalansi yanyanga zonke"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Isamba Semali Engenayo"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Izindleko Ziphelele"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Izinkokhelo ezilindile"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Ezezimali"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Phatha izimali zomtholampilo wakho"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Isifinyezo sezimali somtholampilo wakho"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Bhalisa Inkokhelo"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Imali Engenayo Yakamuva"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Umnyakazo wakamuva wemali engenayo"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Ayikho imali yakamuva engaboniswa"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Izindleko Zakamuva"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Ukunyakaza kwezindleko zakamuva"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Azikho izindleko zakamuva ezizoboniswa"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Sesha udokotela wamazinyo, okukhethekile..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Sesha udokotela wamazinyo ngegama, okukhethekile noma umtholampilo"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Bona amahhovisi kumephu"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Imephu"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "I-ajenda yi-Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Ngokushesha, kulula - kuwe nanoma ubani omfunayo."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Odokotela bethu bamazinyo"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Ongoti kuyo yonke imitholampilo"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Ayikho imiphumela ye-“"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Gcina"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Buka Okuningi"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Sebenzisa i-toothx ehhovisi lakho"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Buyela phezulu"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Khulisa ukuzijwayeza kwakho nge-Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Inkundla exhumanisa odokotela bamazinyo neziguli. Dala iphrofayela yakho, bhalisa amahhovisi akho bese uqala ukuthola ama-aphoyintimenti namuhla."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Dala iphrofayela kadokotela wamazinyo"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Kumahhala ukuqala · Alikho ikhadi lesikweletu"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Sesha iziguli..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Iziguli"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Phatha iziguli zakho"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Phatha imininingwane yeziguli zakho"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Uhlu Lweziguli"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " isiguli"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " kutholiwe"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Azikho iziguli ezibhalisiwe okwamanje"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Azikho iziguli ezitholakele"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Umgwaqo Omkhulu #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Udokotela Wamazinyo Okuvamile"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Enza ngendlela oyifisayo uhlelo lokusebenza ngokwezidingo zakho"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Okujwayelekile"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Isaziso."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Ezokuphepha"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Yena"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Izilungiselelo Ezijwayelekile"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Izilungiselelo zomtholampilo ezijwayelekile"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Igama Lomtholampilo"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Ikheli"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Ucingo"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "I-imeyili"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Londoloza Izinguquko"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Ulwazi Lwephrofayela"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Buyekeza ulwazi lwakho lomuntu siqu"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Igama eligcwele"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Okukhethekile"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Buyekeza Iphrofayela"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Izintandokazi Zezaziso"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Lungiselela indlela ofuna ukuthola ngayo izaziso"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Izaziso Zesikhathi Esimisiwe"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Thola izikhumbuzi zama-aphoyintimenti azayo"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Nika amandla"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Izaziso zenkokhelo"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Thola izexwayiso mayelana nezinkokhelo ezilindile"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Izaziso ze-imeyili"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Thola izaziso ku-imeyili yakho"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Phatha ukuphepha kwe-akhawunti yakho"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "I-password Yamanje"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Iphasiwedi Entsha"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Qinisekisa Iphasiwedi Entsha"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "SHINTSHA iphasiwedi"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Ukubukeka"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Enza ngendlela oyifisayo ukubukeka kohlelo lokusebenza"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Imodi Emnyama"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Shintsha phakathi kwemodi ekhanyayo nemnyama"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Yenza kusebenze"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Usayizi Wefonti"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Lungisa usayizi wombhalo"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Lungiselela"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Kuyaqhubeka"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Kugcwalisiwe"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Kukhanseliwe"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Icici"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "okulindile"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Ukwelashwa"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Phatha ukwelashwa"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Phatha ukwelashwa kwamazinyo"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Ukwelashwa Okusha"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Uhlu Lokwelashwa"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ukwelashwa"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " ibhalisiwe"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Azikho izindlela zokwelapha ezibhalisiwe"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Akunagama"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Isiguli: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Akunikeziwe"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Bona imininingwane"
+  }
+}

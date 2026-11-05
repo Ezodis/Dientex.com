@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Alţii"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Gestionați-vă întâlnirile"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Eroare"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Reîncercați"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Gestionați calendarul întâlnirilor"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Noua Numire"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Calendarul de întâlniri"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " vis"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " programate"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Nu există întâlniri programate"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Vedere clinică"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Se încarcă istoricul clinic..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Istoricul medical, note clinice și odontograma pacientului"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Date demonstrative"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Ultima actualizare: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Istoric medical"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Note clinice"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontograma"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Fișiere"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Boli cronice"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Nu au fost înregistrate boli cronice"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Medicamente curente"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Fără medicamente înregistrate"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alergii"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Nu se cunosc alergii"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Tratamente dentare anterioare"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Nu au fost înregistrate tratamente anterioare"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Obiceiuri și observații"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Fumător"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "nefumator"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Consumă alcool"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Nu consumați alcool"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Nu s-a înregistrat istoric medical"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Creați istoricul medical"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " utilizare"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " clinica"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Notă nouă"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Nu există note clinice înregistrate"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Observații clinice"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arhivă"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Încărcați fișierul"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Nu există fișiere clinice atașate"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Fotografie clinică"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografie"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "document PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Alte"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Vizualizați fișierul"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Fișierul nu este disponibil în modul demonstrativ"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Încărcat de: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Valori anormale"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 măsurători pe dinte (interval normal: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Servit"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Servit "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Note"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Nu există parodontogramă înregistrată"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Creați parodontogramă"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Programat"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Confirmat"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Terminat"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Anulat"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Confirma"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Anula"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Clinica Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Clinica CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Clinica Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Programează o întâlnire"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Reveni"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Măriți"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Elimina"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Locația mea"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Caută..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Nu s-au găsit rezultate"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Se arată "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " de"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " rezultate"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Anterior"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Pagină "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " de "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Urmând"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Sistem de management al cabinetelor dentare."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Termeni"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Confidențialitate"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Ajuta"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Caută pacienți, programări..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Notificări"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Noua intalnire programata"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Curățenie dentară la ora 10:00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Memento de plată"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González are o plată în așteptare de 500 USD"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Întâlnire anulată"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz și-a anulat întâlnirea de vineri"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Contul meu"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Configurare"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Sign out"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Carie"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Obloane"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Absent"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "în tratament"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Arh"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Arhul Inferior"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Atu"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Inactiv"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Următoarea programare:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Vezi Detalii"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Programează o întâlnire"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% de luna trecută"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Aproape"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Citate de azi"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Pacienții Serviți"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Venitul zilnic"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Tratamente active"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Bord"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Bun venit la panoul de control"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Datele tabloului de bord nu au putut fi încărcate"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Rezumatul clinicii dvs. dentare"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Pacient nou"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Pacient"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Venituri vs Cheltuieli"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Comparația lunară a veniturilor și cheltuielilor"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Citate recente"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Ultimele întâlniri programate"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Programări săptămânale"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Repartizarea programărilor în timpul săptămânii"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Rezumat general"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Statistica generală a clinicii"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Total Pacienți"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Datorii în așteptare"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Numiri viitoare"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Sold lunar"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Venitul total"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Cheltuieli totale"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Plăți în așteptare"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finanţa"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Gestionați finanțele clinicii dvs"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Rezumatul financiar al clinicii dvs"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Înregistrați Plata"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Venituri recente"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Ultimele mișcări ale veniturilor"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Nu există venituri recente de afișat"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Cheltuieli recente"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Ultimele mișcări ale cheltuielilor"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Nu există cheltuieli recente de arătat"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Cauta un dentist, specialitate..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Căutați stomatolog după nume, specialitate sau clinică"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Vedeți birourile pe hartă"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Hartă"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Agenda este Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Rapid, ușor — pentru tine și oricine vrei."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Stomatologii noștri"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Specialisti in toate clinicile"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Nu există rezultate pentru „"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Rezervaţie"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Vezi mai multe"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Folosește toothx în biroul tău"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Înapoi sus"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dezvoltați-vă practica cu Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Platforma care conectează stomatologi cu pacienți. Creați-vă profilul, înregistrați-vă birourile și începeți să primiți programări astăzi."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Creați un profil de dentist"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Începe gratuit · Fără card de credit"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Căutați pacienți..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Pacienții"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Gestionați-vă pacienții"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Gestionați informațiile pacienților dvs"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Lista pacienților"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " pacient"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " găsit"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Nu există încă pacienți înregistrați"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Nu au fost găsite pacienți"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Strada principală #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Stomatologie generala"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Personalizați aplicația în funcție de nevoile dvs"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "General"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Notificare."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Securitate"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "El"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Setări generale"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Setarile generale ale clinicii"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Numele clinicii"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adresa"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-mail"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Salvați modificările"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Informații de profil"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Actualizați-vă informațiile personale"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Numele complet"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Specialitate"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Actualizați profilul"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Preferințe notificări"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Configurați modul în care doriți să primiți notificări"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Notificări de programare"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Primiți mementouri pentru întâlnirile viitoare"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Permite"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Notificări de plată"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Primiți alerte despre plățile în așteptare"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Notificări prin e-mail"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Primiți notificări în e-mailul dvs"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Gestionați securitatea contului dvs"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Parola actuală"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Parolă Nouă"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Confirmați parola nouă"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Schimbaţi parola"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Aspect"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Personalizați aspectul aplicației"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Modul întunecat"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Comutați între modul de lumină și întuneric"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Activa"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Dimensiunea fontului"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Ajustați dimensiunea textului"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Configurați"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "În curs"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Umplut"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Anulat"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Cercel"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "în aşteptare"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Tratamente"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Gestionați tratamentele"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Gestionați tratamentele dentare"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Tratament nou"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Lista de tratament"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " tratament"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " înregistrat"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Nu există tratamente înregistrate"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Anonim"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Pacient: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Nealocat"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Vezi detalii"
+  }
+}

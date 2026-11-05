@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "ਹੋਰ"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "ਆਪਣੀਆਂ ਮੁਲਾਕਾਤਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "ਗਲਤੀ"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "ਮੁਲਾਕਾਤ ਕੈਲੰਡਰ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "ਨਵੀਂ ਨਿਯੁਕਤੀ"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "ਮੁਲਾਕਾਤ ਕੈਲੰਡਰ"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ਸੁਪਨਾ"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ਐੱਸ"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " ਅਨੁਸੂਚਿਤ"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "ਕੋਈ ਨਿਯਤ ਮੁਲਾਕਾਤਾਂ ਨਹੀਂ ਹਨ"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "ਕਲੀਨਿਕਲ ਦ੍ਰਿਸ਼"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "ਕਲੀਨਿਕਲ ਇਤਿਹਾਸ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "ਮੈਡੀਕਲ ਇਤਿਹਾਸ, ਕਲੀਨਿਕਲ ਨੋਟਸ ਅਤੇ ਮਰੀਜ਼ ਦਾ ਓਡੋਂਟੋਗ੍ਰਾਮ"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ਡੈਮੋ ਡਾਟਾ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "ਆਖਰੀ ਅੱਪਡੇਟ: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "ਮੈਡੀਕਲ ਇਤਿਹਾਸ"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "ਕਲੀਨਿਕਲ ਨੋਟਸ"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ਓਡੋਂਟੋਗ੍ਰਾਮ"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ਫਾਈਲਾਂ"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "ਪੀਰੀਅਡੋਂਟੋਗਰਾਮਾ"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "ਪੁਰਾਣੀਆਂ ਬਿਮਾਰੀਆਂ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "ਕੋਈ ਪੁਰਾਣੀਆਂ ਬਿਮਾਰੀਆਂ ਦਰਜ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "ਮੌਜੂਦਾ ਦਵਾਈਆਂ"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "ਕੋਈ ਰਜਿਸਟਰਡ ਦਵਾਈਆਂ ਨਹੀਂ"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "ਐਲਰਜੀ"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "ਕੋਈ ਜਾਣਿਆ ਐਲਰਜੀ"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "ਪਿਛਲੇ ਦੰਦਾਂ ਦੇ ਇਲਾਜ"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "ਕੋਈ ਪਿਛਲਾ ਇਲਾਜ ਦਰਜ ਨਹੀਂ ਕੀਤਾ ਗਿਆ"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "ਆਦਤਾਂ ਅਤੇ ਨਿਰੀਖਣ"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "ਤਮਾਕੂਨੋਸ਼ੀ"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ਗੈਰ ਤਮਾਕੂਨੋਸ਼ੀ"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "ਸ਼ਰਾਬ ਦਾ ਸੇਵਨ ਕਰੋ"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "ਸ਼ਰਾਬ ਦਾ ਸੇਵਨ ਨਾ ਕਰੋ"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "ਕੋਈ ਮੈਡੀਕਲ ਇਤਿਹਾਸ ਦਰਜ ਨਹੀਂ ਕੀਤਾ ਗਿਆ"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "ਮੈਡੀਕਲ ਇਤਿਹਾਸ ਬਣਾਓ"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ਵਰਤੋ"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " ਕਲੀਨਿਕ"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "ਨਵਾਂ ਨੋਟ"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "ਇੱਥੇ ਕੋਈ ਕਲੀਨਿਕਲ ਨੋਟਸ ਦਰਜ ਨਹੀਂ ਹਨ"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "ਕਲੀਨਿਕਲ ਨਿਰੀਖਣ"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ਪੁਰਾਲੇਖ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ਫ਼ਾਈਲ ਅੱਪਲੋਡ ਕਰੋ"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "ਇੱਥੇ ਕੋਈ ਕਲੀਨਿਕਲ ਫਾਈਲਾਂ ਨੱਥੀ ਨਹੀਂ ਹਨ"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "ਕਲੀਨਿਕਲ ਫੋਟੋ"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "ਰੇਡੀਓਗ੍ਰਾਫੀ"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF ਦਸਤਾਵੇਜ਼"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "ਹੋਰ"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ਫਾਈਲ ਵੇਖੋ"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ਡੈਮੋ ਮੋਡ ਵਿੱਚ ਫ਼ਾਈਲ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "ਦੁਆਰਾ ਅੱਪਲੋਡ ਕੀਤਾ ਗਿਆ: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "ਅਸਧਾਰਨ ਮੁੱਲ"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "ਪ੍ਰਤੀ ਦੰਦ 6 ਮਾਪ (ਆਮ ਸੀਮਾ: 1–3 ਮਿਲੀਮੀਟਰ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "ਸੇਵਾ ਕੀਤੀ"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "ਸੇਵਾ ਕੀਤੀ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "ਨੋਟਸ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "ਕੋਈ ਪੀਰੀਅਡੋਂਟੋਗਰਾਮ ਦਰਜ ਨਹੀਂ ਹੈ"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "ਪੀਰੀਅਡੋਂਟੋਗ੍ਰਾਮ ਬਣਾਓ"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "ਤਹਿ ਕੀਤਾ"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "ਪੁਸ਼ਟੀ ਕੀਤੀ"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "ਪੂਰਾ ਹੋਇਆ"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "ਰੱਦ ਕਰ ਦਿੱਤਾ"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "ਪੁਸ਼ਟੀ ਕਰੋ"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "ਰੱਦ ਕਰੋ"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "ਮੋਂਟੇਰੀ ਕਲੀਨਿਕ"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX ਕਲੀਨਿਕ"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "ਗੁਆਡਾਲਜਾਰਾ ਕਲੀਨਿਕ"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "ਮੁਲਾਕਾਤ ਦਾ ਸਮਾਂ ਤਹਿ ਕਰੋ"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "ਵਾਪਸੀ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ਜ਼ੂਮ ਇਨ ਕਰੋ"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ਹਟਾਓ"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ਮੇਰਾ ਟਿਕਾਣਾ"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "ਨੂੰ ਲੱਭੋ..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਮਿਲੇ"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "ਦਿਖਾ ਰਿਹਾ ਹੈ "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ਦੇ"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ਨਤੀਜੇ"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "ਅਗਲਾ"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "ਪੰਨਾ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ਦੇ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "ਅਨੁਸਰਣ ਕਰ ਰਹੇ ਹਨ"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. ਡੈਂਟਲ ਆਫਿਸ ਮੈਨੇਜਮੈਂਟ ਸਿਸਟਮ."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "ਸ਼ਰਤਾਂ"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "ਗੋਪਨੀਯਤਾ"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "ਸਹਾਇਤਾ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "ਮਰੀਜ਼ਾਂ, ਮੁਲਾਕਾਤਾਂ ਦੀ ਖੋਜ ਕਰੋ..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ਡੀ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "ਸੂਚਨਾਵਾਂ"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "ਨਵੀਂ ਮੁਲਾਕਾਤ ਨਿਯਤ ਕੀਤੀ ਗਈ"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "ਜੁਆਨ ਪੇਰੇਜ਼ - ਸਵੇਰੇ 10:00 ਵਜੇ ਦੰਦਾਂ ਦੀ ਸਫਾਈ"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "ਭੁਗਤਾਨ ਰੀਮਾਈਂਡਰ"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "ਮਾਰੀਆ ਗੋਂਜ਼ਾਲੇਜ਼ ਦਾ $500 ਦਾ ਭੁਗਤਾਨ ਬਕਾਇਆ ਹੈ"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "ਮੁਲਾਕਾਤ ਰੱਦ ਕੀਤੀ"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "ਕਾਰਲੋਸ ਰੁਇਜ਼ ਨੇ ਸ਼ੁੱਕਰਵਾਰ ਦੀ ਆਪਣੀ ਮੁਲਾਕਾਤ ਰੱਦ ਕਰ ਦਿੱਤੀ"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "ਮੇਰਾ ਖਾਤਾ"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ਪ੍ਰੋਫਾਈਲ"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "ਸੰਰਚਨਾ"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "ਸਾਇਨ ਆਉਟ"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "ਸਨੋ"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "ਕੈਰੀਜ਼"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ਬੰਦ ਕਰ ਦਿੱਤਾ"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "ਗੈਰਹਾਜ਼ਰ"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ਇਲਾਜ ਵਿੱਚ"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ਉਪਰਲਾ ਆਰਚ"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ਲੋਅਰ ਆਰਚ"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "ਸੰਪਤੀ"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "ਵਿਹਲਾ"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "ਅਗਲੀ ਮੁਲਾਕਾਤ:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "ਵੇਰਵੇ ਵੇਖੋ"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "ਮੁਲਾਕਾਤ ਦਾ ਸਮਾਂ ਤਹਿ ਕਰੋ"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "ਪਿਛਲੇ ਮਹੀਨੇ ਤੋਂ %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "ਬੰਦ ਕਰੋ"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "ਅੱਜ ਦੇ ਹਵਾਲੇ"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "ਮਰੀਜ਼ਾਂ ਦੀ ਸੇਵਾ ਕੀਤੀ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "ਰੋਜ਼ਾਨਾ ਆਮਦਨ"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "ਸਰਗਰਮ ਇਲਾਜ"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ਡੈਸ਼ਬੋਰਡ"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "ਤੁਹਾਡੇ ਕੰਟਰੋਲ ਪੈਨਲ ਵਿੱਚ ਸੁਆਗਤ ਹੈ"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ਡੈਸ਼ਬੋਰਡ ਡਾਟਾ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "ਤੁਹਾਡੇ ਦੰਦਾਂ ਦੇ ਕਲੀਨਿਕ ਦਾ ਸਾਰ"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "ਨਵਾਂ ਮਰੀਜ਼"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "ਮਰੀਜ਼"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "ਸੀਤਾ"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "ਆਮਦਨ ਬਨਾਮ ਖਰਚੇ"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "ਆਮਦਨੀ ਅਤੇ ਖਰਚਿਆਂ ਦੀ ਮਹੀਨਾਵਾਰ ਤੁਲਨਾ"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "ਹਾਲੀਆ ਹਵਾਲੇ"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "ਨਵੀਨਤਮ ਅਨੁਸੂਚਿਤ ਮੁਲਾਕਾਤਾਂ"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "ਹਫ਼ਤਾਵਾਰੀ ਮੁਲਾਕਾਤਾਂ"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "ਹਫ਼ਤੇ ਦੌਰਾਨ ਮੁਲਾਕਾਤਾਂ ਦੀ ਵੰਡ"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "ਆਮ ਸੰਖੇਪ"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "ਆਮ ਕਲੀਨਿਕ ਅੰਕੜੇ"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "ਕੁੱਲ ਮਰੀਜ਼"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "ਬਕਾਇਆ ਕਰਜ਼ੇ"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "ਆਗਾਮੀ ਮੁਲਾਕਾਤਾਂ"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "ਮਹੀਨਾਵਾਰ ਬਕਾਇਆ"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "ਕੁੱਲ ਆਮਦਨ"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "ਕੁੱਲ ਖਰਚੇ"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ਬੈਲੇਂਸ ਨੇਟੋ"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "ਬਕਾਇਆ ਭੁਗਤਾਨ"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ਵਿੱਤ"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "ਆਪਣੇ ਕਲੀਨਿਕ ਦੇ ਵਿੱਤ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "ਤੁਹਾਡੇ ਕਲੀਨਿਕ ਦਾ ਵਿੱਤੀ ਸਾਰ"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "ਭੁਗਤਾਨ ਰਜਿਸਟਰ ਕਰੋ"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "ਹਾਲੀਆ ਆਮਦਨ"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "ਨਵੀਨਤਮ ਮਾਲੀਆ ਅੰਦੋਲਨ"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਹਾਲੀਆ ਆਮਦਨ ਨਹੀਂ ਹੈ"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ਹਾਲੀਆ ਖਰਚੇ"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "ਨਵੀਨਤਮ ਖਰਚ ਅੰਦੋਲਨ"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਹਾਲੀਆ ਖਰਚੇ ਨਹੀਂ ਹਨ"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ਦੰਦਾਂ ਦੇ ਡਾਕਟਰ ਦੀ ਖੋਜ ਕਰੋ, ਵਿਸ਼ੇਸ਼ਤਾ…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "ਨਾਮ, ਵਿਸ਼ੇਸ਼ਤਾ ਜਾਂ ਕਲੀਨਿਕ ਦੁਆਰਾ ਦੰਦਾਂ ਦੇ ਡਾਕਟਰ ਦੀ ਖੋਜ ਕਰੋ"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "ਨਕਸ਼ੇ 'ਤੇ ਦਫ਼ਤਰ ਦੇਖੋ"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "ਨਕਸ਼ਾ"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "ਏਜੰਡਾ ਸੀਟਾ ਡੈਂਟਲ ਹੈ"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "ਤੇਜ਼, ਆਸਾਨ — ਤੁਹਾਡੇ ਲਈ ਅਤੇ ਜੋ ਵੀ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ।"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ਸਾਡੇ ਦੰਦਾਂ ਦੇ ਡਾਕਟਰ"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "ਸਾਰੇ ਕਲੀਨਿਕਾਂ ਵਿੱਚ ਮਾਹਰ"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "ਲਈ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "ਰਿਜ਼ਰਵ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "ਹੋਰ ਵੇਖੋ"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "ਆਪਣੇ ਦਫ਼ਤਰ ਵਿੱਚ ਟੂਥਐਕਸ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "ਸਿਖਰ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex ਨਾਲ ਆਪਣੇ ਅਭਿਆਸ ਨੂੰ ਵਧਾਓ"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "ਪਲੇਟਫਾਰਮ ਜੋ ਦੰਦਾਂ ਦੇ ਡਾਕਟਰਾਂ ਨੂੰ ਮਰੀਜ਼ਾਂ ਨਾਲ ਜੋੜਦਾ ਹੈ. ਆਪਣਾ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ, ਆਪਣੇ ਦਫਤਰਾਂ ਨੂੰ ਰਜਿਸਟਰ ਕਰੋ ਅਤੇ ਅੱਜ ਹੀ ਮੁਲਾਕਾਤਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ।"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "ਦੰਦਾਂ ਦੇ ਡਾਕਟਰ ਦੀ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਮੁਫ਼ਤ · ਕੋਈ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਨਹੀਂ"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "ਮਰੀਜ਼ਾਂ ਦੀ ਭਾਲ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "ਵਰ"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "ਮਰੀਜ਼"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "ਆਪਣੇ ਮਰੀਜ਼ਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "ਆਪਣੇ ਮਰੀਜ਼ਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "ਮਰੀਜ਼ਾਂ ਦੀ ਸੂਚੀ"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " ਮਰੀਜ਼"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " ਪਾਇਆ"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ਅਜੇ ਤੱਕ ਕੋਈ ਮਰੀਜ਼ ਰਜਿਸਟਰਡ ਨਹੀਂ ਹੋਇਆ ਹੈ"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "ਕੋਈ ਮਰੀਜ਼ ਨਹੀਂ ਮਿਲਿਆ"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ਮੇਨ ਸਟ੍ਰੀਟ #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ਜਨਰਲ ਦੰਦਸਾਜ਼ੀ"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "ਆਪਣੀਆਂ ਜ਼ਰੂਰਤਾਂ ਦੇ ਅਨੁਸਾਰ ਐਪ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "ਜਨਰਲ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "ਸੂਚਨਾ।"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "ਸੁਰੱਖਿਆ"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "ਉਹ"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "ਆਮ ਸੈਟਿੰਗਾਂ"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "ਆਮ ਕਲੀਨਿਕ ਸੈਟਿੰਗਾਂ"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ਕਲੀਨਿਕ ਦਾ ਨਾਮ"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "ਪਤਾ"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "ਟੈਲੀਫ਼ੋਨ"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ਈਮੇਲ"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ਪ੍ਰੋਫਾਈਲ ਜਾਣਕਾਰੀ"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "ਆਪਣੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "ਪੂਰਾ ਨਾਂਮ"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "ਵਿਸ਼ੇਸ਼ਤਾ"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "ਪ੍ਰੋਫਾਈਲ ਅੱਪਡੇਟ ਕਰੋ"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "ਸੂਚਨਾਵਾਂ ਤਰਜੀਹਾਂ"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "ਕੌਂਫਿਗਰ ਕਰੋ ਕਿ ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "ਨਿਯੁਕਤੀ ਦੀਆਂ ਸੂਚਨਾਵਾਂ"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "ਆਉਣ ਵਾਲੀਆਂ ਮੁਲਾਕਾਤਾਂ ਦੇ ਰੀਮਾਈਂਡਰ ਪ੍ਰਾਪਤ ਕਰੋ"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "ਯੋਗ ਕਰੋ"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "ਭੁਗਤਾਨ ਸੂਚਨਾਵਾਂ"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "ਬਕਾਇਆ ਭੁਗਤਾਨਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਪ੍ਰਾਪਤ ਕਰੋ"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ਈਮੇਲ ਸੂਚਨਾਵਾਂ"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "ਆਪਣੀ ਈਮੇਲ ਵਿੱਚ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "ਆਪਣੇ ਖਾਤੇ ਦੀ ਸੁਰੱਖਿਆ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "ਵਰਤਮਾਨ ਪਾਸਵਰਡ"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "ਨਵਾਂ ਪਾਸਵਰਡ"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "ਪਾਸਵਰਡ ਬਦਲੋ"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "ਦਿੱਖ"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "ਐਪ ਦੀ ਦਿੱਖ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "ਡਾਰਕ ਮੋਡ"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ਲਾਈਟ ਅਤੇ ਡਾਰਕ ਮੋਡ ਵਿਚਕਾਰ ਸਵਿੱਚ ਕਰੋ"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "ਸਰਗਰਮ ਕਰੋ"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ਫੌਂਟ ਦਾ ਆਕਾਰ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "ਟੈਕਸਟ ਦਾ ਆਕਾਰ ਵਿਵਸਥਿਤ ਕਰੋ"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "ਕੌਂਫਿਗਰ ਕਰੋ"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "ਤਰੱਕੀ ਹੋ ਰਹੀ ਹੈ"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "ਭਰਿਆ"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "ਰੱਦ ਕਰ ਦਿੱਤਾ"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "ਮੁੰਦਰਾ"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "ਬਕਾਇਆ"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "ਇਲਾਜ"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "ਇਲਾਜਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "ਦੰਦਾਂ ਦੇ ਇਲਾਜ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "ਨਵਾਂ ਇਲਾਜ"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "ਇਲਾਜ ਦੀ ਸੂਚੀ"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ਇਲਾਜ"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " ਰਜਿਸਟਰ ਕੀਤਾ"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "ਕੋਈ ਰਜਿਸਟਰਡ ਇਲਾਜ ਨਹੀਂ ਹਨ"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "ਬੇਨਾਮ"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "ਮਰੀਜ਼: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "ਅਸਾਈਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "ਵੇਰਵੇ ਵੇਖੋ"
+  }
+}

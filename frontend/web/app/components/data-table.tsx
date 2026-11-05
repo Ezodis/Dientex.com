@@ -12,6 +12,7 @@ import {
 import { Input } from "@/app/components/ui/input"
 import { Button } from "@/app/components/ui/button"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"
+import { useInterfaceTranslator } from '../../localization/client'
 
 interface Column<T> {
   key: string
@@ -32,6 +33,7 @@ export function DataTable<T extends Record<string, any>>({
   searchable = true,
   pageSize = 10,
 }: DataTableProps<T>) {
+  const translate = useInterfaceTranslator()
   const [searchTerm, setSearchTerm] = React.useState("")
   const [currentPage, setCurrentPage] = React.useState(1)
 
@@ -58,7 +60,7 @@ export function DataTable<T extends Record<string, any>>({
           <div className="relative flex-1">
             <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
             <Input
-              placeholder="Buscar..."
+              placeholder={translate("Buscar...")}
               value={searchTerm}
               onChange={(e) => {
                 setSearchTerm(e.target.value)

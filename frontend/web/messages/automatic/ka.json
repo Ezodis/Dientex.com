@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "სხვები"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "მართეთ თქვენი დანიშვნები"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "შეცდომა"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ხელახლა სცადეთ"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "მართეთ შეხვედრების კალენდარი"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "ახალი დანიშვნა"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "დანიშვნების კალენდარი"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ოცნება"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ს"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " დაგეგმილი"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "არ არის დაგეგმილი შეხვედრები"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "კლინიკური ხედი"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "კლინიკური ისტორიის ჩატვირთვა..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "სამედიცინო ისტორია, კლინიკური ჩანაწერები და პაციენტის ოდონტოგრამა"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "დემო მონაცემები"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "ბოლო განახლება: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "სამედიცინო ისტორია"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "კლინიკური შენიშვნები"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ოდონტოგრამა"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ფაილები"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "პერიოდონტოგრამა"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "ქრონიკული დაავადებები"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "ქრონიკული დაავადებები არ დაფიქსირებულა"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "მიმდინარე მედიკამენტები"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "არ არის რეგისტრირებული მედიკამენტები"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "ალერგია"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "არ არის ცნობილი ალერგია"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "წინა სტომატოლოგიური მკურნალობა"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "წინა მკურნალობა არ დაფიქსირებულა"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "ჩვევები და დაკვირვებები"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "მწეველი"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "არამწეველი"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "მოიხმარეთ ალკოჰოლი"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "არ მოიხმარო ალკოჰოლი"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "არ არის დაფიქსირებული სამედიცინო ისტორია"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "შექმენით სამედიცინო ისტორია"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " გამოყენება"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " კლინიკა"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "ახალი შენიშვნა"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "არ არის დაფიქსირებული კლინიკური შენიშვნები"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "კლინიკური დაკვირვებები"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " არქივი"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ფაილის ატვირთვა"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "არ არის დართული კლინიკური ფაილები"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "კლინიკური ფოტო"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "რადიოგრაფია"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF დოკუმენტი"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "სხვა"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ფაილის ნახვა"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ფაილი მიუწვდომელია დემო რეჟიმში"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "ატვირთულია: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "არანორმალური ღირებულებები"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 გაზომვა თითო კბილზე (ნორმალური დიაპაზონი: 1–3 მმ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "მსახურობდა"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "მსახურობდა "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "შენიშვნები"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "პაროდონტოგრამა არ არის დაფიქსირებული"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "შექმენით პაროდონტოგრამა"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "დაგეგმილი"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "დადასტურდა"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "დასრულებული"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "გაუქმდა"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "დაადასტურეთ"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "გაუქმება"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "მონტერეის კლინიკა"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX კლინიკა"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "გვადალაჯარას კლინიკა"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "დაგეგმეთ შეხვედრა"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "დაბრუნება"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "მასშტაბირება"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ამოღება"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ჩემი მდებარეობა"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "მოძებნეთ..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "შედეგი ვერ მოიძებნა"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "ჩვენება "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " დან"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " შედეგები"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "წინა"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "გვერდი "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " დან "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "მიჰყვება"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. სტომატოლოგიური კაბინეტის მართვის სისტემა."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "პირობები"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "კონფიდენციალურობა"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "დახმარება"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "პაციენტების ძებნა, დანიშვნები..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "დ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "შეტყობინებები"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "დაგეგმილია ახალი შეხვედრა"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "ხუან პერესი - სტომატოლოგიური წმენდა დილის 10:00 საათზე"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "გადახდის შეხსენება"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "მარია გონსალესს აქვს 500 დოლარის გადახდა"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "პაემანი გაუქმდა"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "კარლოს რუისმა გააუქმა პარასკევის შეხვედრა"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "ჩემი ანგარიში"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "პროფილი"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "კონფიგურაცია"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "გასვლა"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "სანო"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "კარიესი"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ჩაკეტილი"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "არყოფნის"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "მკურნალობაში"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ზედა თაღი"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ქვედა თაღი"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "აქტივი"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "უსაქმური"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "შემდეგი დანიშვნა:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "იხილეთ დეტალები"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "დაგეგმეთ შეხვედრა"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% გასული თვიდან"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "დახურვა"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "დღევანდელი ციტატები"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "პაციენტები ემსახურებოდნენ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "დღიური შემოსავალი"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "აქტიური მკურნალობა"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "დაფა"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "კეთილი იყოს თქვენი მობრძანება მართვის პანელში"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "დაფის მონაცემები ვერ ჩაიტვირთა"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "თქვენი სტომატოლოგიური კლინიკის შეჯამება"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "ახალი პაციენტი"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "პაციენტი"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "ციტა"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "შემოსავალი ხარჯების წინააღმდეგ"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "შემოსავლებისა და ხარჯების ყოველთვიური შედარება"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "ბოლო ციტატები"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "უახლესი დაგეგმილი დანიშვნები"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "ყოველკვირეული დანიშვნები"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "პაემნების განაწილება კვირის განმავლობაში"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "ზოგადი რეზიუმე"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "ზოგადი კლინიკის სტატისტიკა"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "სულ პაციენტები"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "მომლოდინე ვალები"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "მომავალი დანიშვნები"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "ყოველთვიური ბალანსი"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "მთლიანი შემოსავალი"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "მთლიანი ხარჯები"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ბალანსი ნეტო"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "მომლოდინე გადახდები"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ფინანსები"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "მართეთ თქვენი კლინიკის ფინანსები"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "თქვენი კლინიკის ფინანსური რეზიუმე"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "გადახდის რეგისტრაცია"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "ბოლო შემოსავალი"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "შემოსავლების უახლესი მოძრაობები"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "ბოლო შემოსავალი არ არის საჩვენებელი"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ბოლო ხარჯები"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "უახლესი ხარჯების მოძრაობები"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "ბოლო ხარჯების ჩვენება არ არის"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "მოძებნეთ სტომატოლოგი, სპეციალობა…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "მოძებნეთ სტომატოლოგი სახელის, სპეციალობის ან კლინიკის მიხედვით"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "იხილეთ ოფისები რუკაზე"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "რუკა"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "დღის წესრიგშია Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "სწრაფი, მარტივი - თქვენთვის და ვინც გინდათ."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ჩვენი სტომატოლოგები"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "სპეციალისტები ყველა კლინიკაში"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "შედეგები არ არის"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "რეზერვი"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "იხილეთ მეტი"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "გამოიყენეთ toothx თქვენს ოფისში"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "თავში დაბრუნება"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "განავითარეთ თქვენი პრაქტიკა Dientex-ით"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "პლატფორმა, რომელიც აკავშირებს სტომატოლოგებს პაციენტებთან. შექმენით თქვენი პროფილი, დაარეგისტრირეთ თქვენი ოფისები და დაიწყეთ დანიშვნების მიღება დღესვე."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "შექმენით სტომატოლოგის პროფილი"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "უფასო დაწყება · საკრედიტო ბარათი არ არის"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "პაციენტების ძებნა..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "ვერ"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "პაციენტები"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "მართეთ თქვენი პაციენტები"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "მართეთ თქვენი პაციენტების ინფორმაცია"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "პაციენტების სია"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " პაციენტი"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " ნაპოვნია"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ჯერ არ არის რეგისტრირებული პაციენტი"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "პაციენტები არ მოიძებნა"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "მთავარი ქუჩა #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ზოგადი სტომატოლოგია"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "დააკონფიგურიროთ აპლიკაცია თქვენი საჭიროებების მიხედვით"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "გენერალი"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "შეტყობინება."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "უსაფრთხოება"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "ის"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "ზოგადი პარამეტრები"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "ზოგადი კლინიკის პარამეტრები"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "კლინიკის დასახელება"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "მისამართი"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "ტელეფონი"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ელფოსტა"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "ცვლილებების შენახვა"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "პროფილის ინფორმაცია"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "განაახლეთ თქვენი პირადი ინფორმაცია"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "სრული სახელი"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "სპეციალობა"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "პროფილის განახლება"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "შეტყობინებების პარამეტრები"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "დააკონფიგურირეთ როგორ გსურთ მიიღოთ შეტყობინებები"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "დანიშვნის შეტყობინებები"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "მიიღეთ შეხსენებები მომავალი შეხვედრების შესახებ"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "ჩართვა"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "გადახდის შეტყობინებები"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "მიიღეთ შეტყობინებები მომლოდინე გადახდების შესახებ"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ელ.ფოსტის შეტყობინებები"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "მიიღეთ შეტყობინებები თქვენს ელ.წერილში"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "მართეთ თქვენი ანგარიშის უსაფრთხოება"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "მიმდინარე პაროლი"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "ახალი პაროლი"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "დაადასტურეთ ახალი პაროლი"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "პაროლის შეცვლა"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "გარეგნობა"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "აპის გარეგნობის მორგება"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "მუქი რეჟიმი"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "გადართეთ სინათლისა და ბნელი რეჟიმს შორის"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "გააქტიურება"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "შრიფტის ზომა"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "დაარეგულირეთ ტექსტის ზომა"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "კონფიგურაცია"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "მიმდინარეობს"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "შევსებული"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "გაუქმდა"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "საყურე"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "მომლოდინე"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "მკურნალობა"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "მართეთ მკურნალობა"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "მართეთ სტომატოლოგიური მკურნალობა"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "ახალი მკურნალობა"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "მკურნალობის სია"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " მკურნალობა"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " დარეგისტრირდა"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "არ არსებობს რეგისტრირებული მკურნალობა"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "უსახელო"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "პაციენტი: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "მინიჭებული არ არის"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "იხილეთ დეტალები"
+  }
+}

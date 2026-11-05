@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Andere"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Verwalten Sie Ihre Termine"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Fehler"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Wiederholen"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Terminkalender verwalten"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Neuer Termin"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Terminkalender"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " Traum"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "S"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " geplant"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Es gibt keine vereinbarten Termine"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinische Sicht"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Krankengeschichte wird geladen..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Krankengeschichte, klinische Notizen und Odontogramm des Patienten"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demodaten"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Letzte Aktualisierung: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Krankengeschichte"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Klinische Hinweise"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogramm"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Dateien"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Parodontogramm"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Chronische Krankheiten"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Keine chronischen Erkrankungen erfasst"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Aktuelle Medikamente"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Keine registrierten Medikamente"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Allergien"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Keine bekannten Allergien"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Frühere Zahnbehandlungen"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Es wurden keine vorherigen Behandlungen aufgezeichnet"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Gewohnheiten und Beobachtungen"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Raucher"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "Nichtraucher"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Alkohol konsumieren"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Kein Alkohol konsumieren"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Keine Krankengeschichte erfasst"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Anamnese erstellen"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " verwenden"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " Klinik"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Neuer Hinweis"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Es werden keine klinischen Notizen aufgezeichnet"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Klinische Beobachtungen"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " Archiv"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Datei hochladen"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Es sind keine klinischen Unterlagen beigefügt"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klinisches Foto"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiographie"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF-Dokument"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Andere"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Datei ansehen"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Datei im Demomodus nicht verfügbar"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Hochgeladen von: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Abnormale Werte"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 Messungen pro Zahn (Normbereich: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Diente"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Diente "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Notizen"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Es wird kein Parodontogramm aufgezeichnet"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Parodontogramm erstellen"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Geplant"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Bestätigt"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Vollendet"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Abgesagt"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Bestätigen"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Stornieren"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey-Klinik"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX-Klinik"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara-Klinik"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Termin vereinbaren"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Zurückkehren"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Vergrößern"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Entfernen"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Mein Standort"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Suchen..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Keine Ergebnisse gefunden"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Zeigt "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " von"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " Ergebnisse"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Anterior"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Seite "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " von "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Nachfolgend"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Managementsystem für Zahnarztpraxen."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Bedingungen"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privatsphäre"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Hilfe"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Suche nach Patienten, Terminen..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Benachrichtigungen"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Neuer Termin geplant"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez – Zahnreinigung um 10:00 Uhr"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Zahlungserinnerung"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González hat eine ausstehende Zahlung in Höhe von 500 $"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Termin abgesagt"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz hat seinen Termin am Freitag abgesagt"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Mein Konto"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfiguration"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Abmelden"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Karies"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Geschlossen"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Abwesend"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "in der Behandlung"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Oberer Bogen"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Unterer Bogen"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Vermögenswert"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Leerlauf"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Nächster Termin:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Siehe Details"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Termin vereinbaren"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% seit letztem Monat"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Schließen"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Heutige Zitate"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Patienten betreut"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Tägliches Einkommen"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktive Behandlungen"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Armaturenbrett"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Willkommen in Ihrem Control Panel"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Dashboard-Daten konnten nicht geladen werden"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Zusammenfassung Ihrer Zahnklinik"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Neuer Patient"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Geduldig"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Zitat"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Einnahmen vs. Ausgaben"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Monatlicher Vergleich der Einnahmen und Ausgaben"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Aktuelle Zitate"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Letzte geplante Termine"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Wöchentliche Termine"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Verteilung der Termine unter der Woche"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Allgemeine Zusammenfassung"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Allgemeine Klinikstatistiken"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Gesamtzahl der Patienten"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Ausstehende Schulden"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Kommende Termine"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Monatssaldo"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Gesamtumsatz"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Gesamtkosten"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Ausstehende Zahlungen"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finanzen"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Verwalten Sie die Finanzen Ihrer Klinik"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Finanzielle Zusammenfassung Ihrer Klinik"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Zahlung registrieren"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Aktuelles Einkommen"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Aktuelle Umsatzbewegungen"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Keine aktuellen Einkünfte nachweisbar"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Aktuelle Ausgaben"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Aktuelle Ausgabenbewegungen"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Keine aktuellen Ausgaben nachweisbar"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Suchen Sie nach einem Zahnarzt, einer Fachrichtung ..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Suchen Sie den Zahnarzt nach Name, Fachgebiet oder Klinik"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Siehe Büros auf der Karte"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Karte"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Die Tagesordnung lautet Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Schnell, einfach – für Sie und wen auch immer Sie wollen."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Unsere Zahnärzte"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Fachärzte in allen Kliniken"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Keine Ergebnisse für „"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Reservieren"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Mehr sehen"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Nutzen Sie Toothx in Ihrem Büro"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Zurück nach oben"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Erweitern Sie Ihre Praxis mit Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Die Plattform, die Zahnärzte mit Patienten verbindet. Erstellen Sie Ihr Profil, registrieren Sie Ihre Büros und erhalten Sie noch heute Termine."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Erstellen Sie ein Zahnarztprofil"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Kostenlos starten · Keine Kreditkarte"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Patienten suchen..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Patienten"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Verwalten Sie Ihre Patienten"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Verwalten Sie die Informationen Ihrer Patienten"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Patientenliste"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " geduldig"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " gefunden"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Es sind noch keine Patienten registriert"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Keine Patienten gefunden"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Hauptstraße Nr. 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Allgemeine Zahnheilkunde"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Passen Sie die App an Ihre Bedürfnisse an"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Allgemein"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Benachrichtigung."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Sicherheit"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Er"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Allgemeine Einstellungen"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Allgemeine Klinikeinstellungen"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinikname"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adresse"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-Mail"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Änderungen speichern"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profilinformationen"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Aktualisieren Sie Ihre persönlichen Daten"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Vollständiger Name"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Spezialität"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Profil aktualisieren"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Benachrichtigungseinstellungen"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfigurieren Sie, wie Sie Benachrichtigungen erhalten möchten"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Terminbenachrichtigungen"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Erhalten Sie Erinnerungen an bevorstehende Termine"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Aktivieren"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Zahlungsbenachrichtigungen"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Erhalten Sie Benachrichtigungen über ausstehende Zahlungen"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "E-Mail-Benachrichtigungen"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Erhalten Sie Benachrichtigungen per E-Mail"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Verwalten Sie die Sicherheit Ihres Kontos"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Aktuelles Passwort"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Neues Passwort"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Bestätigen Sie das neue Passwort"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Kennwort ändern"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Aussehen"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Passen Sie das Erscheinungsbild der App an"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Dunkler Modus"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Wechseln Sie zwischen Hell- und Dunkelmodus"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktivieren"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Schriftgröße"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Passen Sie die Textgröße an"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfigurieren"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Im Gange"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Gefüllt"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Abgesagt"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Ohrring"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "ausstehend"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Behandlungen"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Behandlungen verwalten"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Zahnbehandlungen verwalten"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Neue Behandlung"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Behandlungsliste"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " Behandlung"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " eingetragen"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Es sind keine Behandlungen registriert"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Unbenannt"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Geduldig: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Nicht zugewiesen"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Siehe Details"
+  }
+}

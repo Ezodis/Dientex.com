@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Մյուսները"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Կառավարեք ձեր նշանակումները"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Սխալ"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Կրկին փորձեք"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Կառավարեք հանդիպումների օրացույցը"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Նոր նշանակում"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Նշանակումների օրացույց"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " երազել"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ս"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " նախատեսված է"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Պլանավորված հանդիպումներ չկան"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Կլինիկական տեսք"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Բեռնվում է կլինիկական պատմությունը..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Հիվանդի բժշկական պատմություն, կլինիկական նշումներ և օդոնտոգրաֆիա"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Դեմո տվյալներ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Վերջին թարմացում. "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Բժշկական պատմություն"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Կլինիկական նշումներ"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Օդոնտոգրաֆիա"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Ֆայլեր"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Պարոդոնտոգրաֆիա"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Քրոնիկ հիվանդություններ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Քրոնիկ հիվանդություններ չեն արձանագրվել"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Ընթացիկ դեղամիջոցներ"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Գրանցված դեղեր չկան"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Ալերգիաներ"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Հայտնի ալերգիա չկա"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Նախորդ ատամնաբուժական բուժում"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Նախկին բուժումներ չեն գրանցվել"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Սովորություններ և դիտարկումներ"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Ծխող"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "չծխող"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Սպիրտ օգտագործեք"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Ալկոհոլ չօգտագործել"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Բժշկական պատմություն չի գրանցվել"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Ստեղծեք բժշկական պատմություն"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " օգտագործել"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " կլինիկա"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Նոր նշում"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Կլինիկական նշումներ չկան"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Կլինիկական դիտարկումներ"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " արխիվ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Վերբեռնել ֆայլը"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Կցված կլինիկական ֆայլեր չկան"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Կլինիկական լուսանկար"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Ռադիոգրաֆիա"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF փաստաթուղթ"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Այլ"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Դիտել ֆայլը"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Ֆայլը հասանելի չէ ցուցադրական ռեժիմում"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Վերբեռնել է. "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Աննորմալ արժեքներ"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 չափումներ մեկ ատամի համար (նորմալ միջակայքը՝ 1–3 մմ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Մատուցվել է"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Մատուցվել է "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Նշումներ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Պարոդոնտոգրաֆիա չկա"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Ստեղծեք պարոդոնտոգրամ"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Պլանավորված"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Հաստատված է"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Ավարտված"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Չեղարկված է"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Հաստատել"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Չեղարկել"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Մոնտերեյի կլինիկա"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX կլինիկա"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Գվադալահարայի կլինիկա"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Ժամանակացույց նշանակել"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Վերադարձ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Մեծացնել"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Հեռացնել"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Իմ գտնվելու վայրը"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Փնտրեք..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Ոչ մի արդյունք չի գտնվել"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Ցուցադրվում է "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " -ից"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " արդյունքները"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Առջևի"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Էջ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " -ից "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Հետևելով"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Ստոմատոլոգիական գրասենյակի կառավարման համակարգ."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Պայմաններ"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Գաղտնիություն"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "օգնություն"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Հիվանդների որոնում, նշանակումներ..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "Դ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Ծանուցումներ"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Նախատեսված է նոր հանդիպում"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Խուան Պերես - Ատամների մաքրում ժամը 10:00-ին"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Վճարման հիշեցում"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "Մարիա Գոնսալեսն ունի 500 դոլար սպասող վճարում"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Չեղարկված հանդիպում"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Կառլոս Ռուիսը չեղարկել է իր ուրբաթ օրը"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Իմ հաշիվը"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Անձնագիր"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Կոնֆիգուրացիա"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Դուրս գալ"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Սանո"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Կարիես"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Փակված"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Բացակայում է"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "բուժման մեջ"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Վերին կամար"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Ստորին կամար"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Ակտիվ"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Պարապ"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Հաջորդ նշանակումը."
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Տես Մանրամասն"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Ժամանակացույց նշանակել"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% անցյալ ամսից"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Փակել"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Այսօրվա մեջբերումները"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Սպասարկվող հիվանդները"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Օրական եկամուտ"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Ակտիվ բուժում"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Վահանակ"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Բարի գալուստ ձեր կառավարման վահանակ"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Վահանակի տվյալները չհաջողվեց բեռնել"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Ձեր ստոմատոլոգիական կլինիկայի ամփոփում"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Նոր հիվանդ"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Հիվանդ"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Ցիտա"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Եկամուտ ընդդեմ ծախսերի"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Եկամուտների և ծախսերի ամսական համեմատություն"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Վերջին մեջբերումներ"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Վերջին պլանավորված հանդիպումները"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Շաբաթական հանդիպումներ"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Շաբաթվա ընթացքում նշանակումների բաշխում"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Ընդհանուր ամփոփում"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Ընդհանուր կլինիկայի վիճակագրություն"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Ընդհանուր հիվանդներ"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Սպասող պարտքեր"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Առաջիկա նշանակումներ"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Ամսական հաշվեկշիռ"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Ընդհանուր եկամուտ"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Ընդհանուր ծախսեր"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Հաշվեկշիռ Նետո"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Սպասվող վճարումներ"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Ֆինանսներ"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Կառավարեք ձեր կլինիկայի ֆինանսները"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Ձեր կլինիկայի ֆինանսական ամփոփագիրը"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Գրանցվել վճարում"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Վերջին եկամուտը"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Վերջին եկամուտների շարժումները"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Վերջին եկամուտներ չկան"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Վերջին ծախսերը"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Ծախսերի վերջին շարժումները"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Վերջին ծախսերը ցույց տալու համար չկան"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Փնտրեք ատամնաբույժ, մասնագիտություն…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Փնտրեք ատամնաբույժ անունով, մասնագիտությամբ կամ կլինիկայով"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Տես գրասենյակները քարտեզի վրա"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Քարտեզ"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Օրակարգը Cita Dental-ն է"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Արագ, հեշտ - ձեզ և ում համար, ում ցանկանում եք:"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Մեր ատամնաբույժները"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Մասնագետներ բոլոր կլինիկաներում"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Արդյունքներ չկան «"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Պահուստ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Տեսնել ավելին"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Օգտագործեք ատամի քսուք ձեր գրասենյակում"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Վերադառնալ սկիզբ"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Աճեցրեք ձեր պրակտիկան Dientex-ի հետ"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Հարթակը, որը կապում է ատամնաբույժներին հիվանդների հետ։ Ստեղծեք ձեր պրոֆիլը, գրանցեք ձեր գրասենյակները և սկսեք ընդունելություններ այսօր:"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Ստեղծեք ատամնաբույժի պրոֆիլը"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Անվճար մեկնարկը · Վարկային քարտ չկա"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Հիվանդների որոնում..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Վեր"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Հիվանդներ"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Կառավարեք ձեր հիվանդներին"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Կառավարեք ձեր հիվանդների տվյալները"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Հիվանդների ցուցակ"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " հիվանդ"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " հայտնաբերվել է"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Առայժմ գրանցված հիվանդներ չկան"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Ոչ մի հիվանդ չի հայտնաբերվել"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Գլխավոր փողոց թիվ 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Ընդհանուր ստոմատոլոգիա"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Անհատականացրեք հավելվածը ըստ ձեր կարիքների"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Գեներալ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Ծանուցում."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Անվտանգություն"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Նա"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Ընդհանուր կարգավորումներ"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Ընդհանուր կլինիկայի պարամետրեր"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Կլինիկայի անվանումը"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Հասցե"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Հեռախոս"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Էլ"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Պահպանել փոփոխությունները"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Անձնագիր Տեղեկություններ"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Թարմացրեք ձեր անձնական տվյալները"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Ամբողջական անուն"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Մասնագիտություն"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Թարմացնել պրոֆիլը"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Ծանուցումների նախապատվություններ"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Կարգավորեք, թե ինչպես եք ցանկանում ստանալ ծանուցումներ"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Նշանակման ծանուցումներ"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Ստացեք հիշեցումներ առաջիկա նշանակումների մասին"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Միացնել"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Վճարման ծանուցումներ"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Ստացեք ծանուցումներ առկախ վճարումների մասին"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Էլփոստի ծանուցումներ"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Ստացեք ծանուցումներ ձեր էլ"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Կառավարեք ձեր հաշվի անվտանգությունը"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Ընթացիկ գաղտնաբառը"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Նոր գաղտնաբառ"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Հաստատեք նոր գաղտնաբառը"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Փոխել գաղտնաբառը"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Արտաքին տեսք"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Անհատականացրեք հավելվածի տեսքը"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Մութ ռեժիմ"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Անցեք լույսի և մութ ռեժիմի միջև"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Ակտիվացնել"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Տառատեսակի չափը"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Կարգավորեք տեքստի չափը"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Կարգավորել"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Ընթացքի մեջ է"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Լցված"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Չեղարկված է"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Ականջօղ"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "սպասվում է"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Բուժումներ"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Կառավարեք բուժումը"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Կառավարեք ատամնաբուժական բուժումը"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Նոր բուժում"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Բուժման ցուցակ"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " բուժում"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " գրանցված"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Չկան գրանցված բուժում"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Անանուն"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Հիվանդը: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Չնշանակված"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Տես մանրամասները"
+  }
+}

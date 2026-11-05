@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "其他的"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "管理您的约会"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "错误"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "重试"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "管理约会日历"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "新的约会"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "预约日历"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " 梦"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " 预定的"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "没有预定的约会"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "临床观点"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "正在加载临床病史..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "患者的病史、临床记录和牙象"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "演示数据"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "最后更新： "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "病史"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "临床笔记"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "牙图"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "文件"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "牙周图"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "慢性病"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "无慢性疾病记录"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "目前的药物治疗"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "没有注册药物"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "过敏"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "无已知过敏史"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "以前的牙科治疗"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "没有既往治疗记录"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "习惯和观察"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "吸烟者"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "不吸烟者"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "饮酒"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "不饮酒"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "无病史记录"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "创建病史"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " 使用"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " 诊所"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "新笔记"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "没有记录临床记录"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "临床观察"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " 档案"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "上传文件"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "没有附上临床档案"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "临床照片"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "射线照相"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF文档"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "其他"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "查看文件"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "文件在演示模式下不可用"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "上传者： "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "异常值"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "每颗牙齿 6 次测量（正常范围：1–3 毫米）"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "服务"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "服务 "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "笔记"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "没有记录牙周图"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "创建牙周图"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "预定"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "确认的"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "完全的"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "取消"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "确认"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "取消"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "蒙特雷诊所"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX诊所"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "瓜达拉哈拉诊所"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "安排预约"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "返回"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "放大"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "消除"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "我的位置"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "寻找..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "没有找到结果"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "显示中 "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " 的"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " 结果"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "前部"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "页 "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " 的 "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "下列的"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex。牙科诊所管理系统。"
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "条款"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "隐私"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "援助"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "搜索患者、预约..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "通知"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "已安排新的约会"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - 上午 10:00 清洁牙齿"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "付款提醒"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González 有 500 美元的待付款"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "取消预约"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "卡洛斯·鲁伊斯取消了周五的约会"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "我的账户"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "轮廓"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "配置"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "登出"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 迪恩泰克斯"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "佐野"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "龋齿"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "百叶窗"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "缺席的"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "治疗中"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "上拱门"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "下拱门"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "资产"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "闲置的"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "下次预约："
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "查看详情"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "安排预约"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "自上个月以来的百分比"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "关闭"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "今日行情"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "服务患者"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "每日收入"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "积极治疗"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "仪表板"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "欢迎使用您的控制面板"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "无法加载仪表板数据"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "您的牙科诊所的摘要"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "新病人"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "病人"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "西塔"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "收入与支出"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "每月收入与支出比较"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "最近行情"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "最新预约"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "每周预约"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "一周内的约会分布"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "总体总结"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "一般临床统计"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "患者总数"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "未决债务"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "即将到来的约会"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "每月余额"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "总收入"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "总费用"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "平衡内托"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "待付款"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "金融"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "管理您诊所的财务"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "您诊所的财务摘要"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "注册付款"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "最近的收入"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "最新收入变动"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "没有可显示的近期收入"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "近期开支"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "最新费用变动"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "没有可显示的近期支出"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "寻找牙医、专业……"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "按姓名、专业或诊所搜索牙医"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "在地图上查看办事处"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "地图"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "议程是 Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "快速、简单——适合您和您想要的任何人。"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "我们的牙医"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "所有诊所的专家"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "没有结果“"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "预订"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "查看更多"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "在办公室使用toothx"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "返回顶部"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "通过 Dientex 拓展您的实践"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "连接牙医与患者的平台。创建您的个人资料、注册您的办公室并立即开始接受预约。"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "创建牙医档案"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "免费开始·无需信用卡"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "搜寻病人..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "版本"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "患者"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "管理您的患者"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "管理您的患者信息"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "病人名单"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " 病人"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " 成立"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "还没有患者登记"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "没有找到患者"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "主街 #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "普通牙科"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "根据您的需求定制应用程序"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "一般的"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "通知。"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "安全"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "他"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "常规设置"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "一般诊所设置"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "诊所名称"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "地址"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "电话"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "电子邮件"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "保存更改"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "简介信息"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "更新您的个人信息"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "姓名"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "专业"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "更新个人资料"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "通知首选项"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "配置您希望如何接收通知"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "预约通知"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "接收即将到来的约会的提醒"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "使能够"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "付款通知"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "接收有关待付款的提醒"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "电子邮件通知"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "在您的电子邮件中接收通知"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "管理您的帐户安全"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "当前密码"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "新密码"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "确认新密码"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "更改密码"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "外貌"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "自定义应用程序的外观"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "深色模式"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "浅色和深色模式之间切换"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "激活"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "字体大小"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "调整文字大小"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "配置"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "进行中"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "充满"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "取消"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "耳环"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "待办的"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "治疗方法"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "管理治疗"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "管理牙科治疗"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "新疗法"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "治疗清单"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " 治疗"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " 挂号的"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "没有注册的治疗方法"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "未命名"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "病人： "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "未分配"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "查看详情"
+  }
+}

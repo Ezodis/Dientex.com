@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "மற்றவை"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "உங்கள் சந்திப்புகளை நிர்வகிக்கவும்"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "பிழை"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "மீண்டும் முயற்சிக்கவும்"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "சந்திப்பு காலெண்டரை நிர்வகிக்கவும்"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "புதிய நியமனம்"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "நியமன காலண்டர்"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " கனவு"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "கள்"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " திட்டமிடப்பட்டது"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "திட்டமிடப்பட்ட சந்திப்புகள் எதுவும் இல்லை"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "மருத்துவ பார்வை"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "மருத்துவ வரலாற்றை ஏற்றுகிறது..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "நோயாளியின் மருத்துவ வரலாறு, மருத்துவ குறிப்புகள் மற்றும் ஓடோன்டோகிராம்"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "டெமோ தரவு"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "கடைசி புதுப்பிப்பு: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "மருத்துவ வரலாறு"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "மருத்துவ குறிப்புகள்"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ஓடோன்டோகிராம்"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "கோப்புகள்"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "பெரியோடோன்டோகிராமா"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "நாள்பட்ட நோய்கள்"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "நாள்பட்ட நோய்கள் எதுவும் பதிவு செய்யப்படவில்லை"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "தற்போதைய மருந்துகள்"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "பதிவு செய்யப்பட்ட மருந்துகள் இல்லை"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "ஒவ்வாமை"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "அறியப்பட்ட ஒவ்வாமை இல்லை"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "முந்தைய பல் சிகிச்சைகள்"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "முந்தைய சிகிச்சைகள் எதுவும் பதிவு செய்யப்படவில்லை"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "பழக்கம் மற்றும் அவதானிப்புகள்"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "புகைப்பிடிப்பவர்"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "புகைப்பிடிக்காதவர்"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "மது அருந்தவும்"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "மது அருந்த வேண்டாம்"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "மருத்துவ வரலாறு பதிவு செய்யப்படவில்லை"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "மருத்துவ வரலாற்றை உருவாக்கவும்"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " பயன்படுத்த"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " கிளினிக்"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "புதிய குறிப்பு"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "மருத்துவ குறிப்புகள் எதுவும் பதிவு செய்யப்படவில்லை"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "மருத்துவ அவதானிப்புகள்"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " காப்பகம்"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "கோப்பை பதிவேற்றவும்"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "மருத்துவ கோப்புகள் எதுவும் இணைக்கப்படவில்லை"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "மருத்துவ புகைப்படம்"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "ரேடியோகிராபி"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF ஆவணம்"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "மற்றவை"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "கோப்பைப் பார்க்கவும்"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "டெமோ பயன்முறையில் கோப்பு கிடைக்கவில்லை"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "பதிவேற்றியவர்: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "அசாதாரண மதிப்புகள்"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "ஒரு பல்லுக்கு 6 அளவீடுகள் (சாதாரண வரம்பு: 1-3 மிமீ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "பரிமாறப்பட்டது"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "பரிமாறப்பட்டது "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "குறிப்புகள்"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "பீரியண்டோகிராம் எதுவும் பதிவு செய்யப்படவில்லை"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "பீரியண்டோகிராம் உருவாக்கவும்"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "திட்டமிடப்பட்டது"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "உறுதி செய்யப்பட்டது"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "முடிக்கப்பட்டது"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "ரத்து செய்யப்பட்டது"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "உறுதிப்படுத்தவும்"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "ரத்து செய்"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "மான்டேரி கிளினிக்"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX கிளினிக்"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "குவாடலஜாரா கிளினிக்"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "திட்டமிடல் நியமனம்"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "திரும்பு"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "பெரிதாக்கவும்"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "அகற்று"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "எனது இருப்பிடம்"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "தேடு..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "முடிவுகள் எதுவும் கிடைக்கவில்லை"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "காட்டும் "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " இன்"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " முடிவுகள்"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "முன்புறம்"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "பக்கம் "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " இன் "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "தொடர்ந்து"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. பல் அலுவலக மேலாண்மை அமைப்பு."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "விதிமுறைகள்"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "தனியுரிமை"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "உதவி"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "நோயாளிகளைத் தேடுங்கள், சந்திப்புகள்..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "டி"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "அறிவிப்புகள்"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "புதிய சந்திப்பு திட்டமிடப்பட்டுள்ளது"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "ஜுவான் பெரெஸ் - காலை 10:00 மணிக்கு பல் சுத்தம் செய்தல்"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "கட்டண நினைவூட்டல்"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González $500 செலுத்த வேண்டிய நிலுவையில் உள்ளது"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "நியமனம் ரத்து செய்யப்பட்டது"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "கார்லோஸ் ரூயிஸ் தனது வெள்ளிக்கிழமை சந்திப்பை ரத்து செய்தார்"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "எனது கணக்கு"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "சுயவிவரம்"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "கட்டமைப்பு"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "வெளியேறு"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "சனோ"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "கேரிஸ்"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "மூடப்பட்டது"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "இல்லாதது"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "சிகிச்சையில்"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "மேல் வளைவு"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "கீழ் வளைவு"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "சொத்து"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "சும்மா"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "அடுத்த சந்திப்பு:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "விவரங்களைப் பார்க்கவும்"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "அட்டவணை நியமனம்"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "கடந்த மாதம் முதல் %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "மூடு"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "இன்றைய மேற்கோள்கள்"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "நோயாளிகளுக்கு சேவை செய்யப்பட்டது"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "தினசரி வருமானம்"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "செயலில் உள்ள சிகிச்சைகள்"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "டாஷ்போர்டு"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "உங்கள் கட்டுப்பாட்டுப் பலகத்திற்கு வரவேற்கிறோம்"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "டாஷ்போர்டு தரவை ஏற்ற முடியவில்லை"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "உங்கள் பல் மருத்துவ மனையின் சுருக்கம்"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "புதிய நோயாளி"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "நோயாளி"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "சிட்டா"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "வருமானம் மற்றும் செலவுகள்"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "வருமானம் மற்றும் செலவுகளின் மாதாந்திர ஒப்பீடு"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "சமீபத்திய மேற்கோள்கள்"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "சமீபத்திய திட்டமிடப்பட்ட சந்திப்புகள்"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "வாராந்திர நியமனங்கள்"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "வாரத்தில் நியமனங்கள் விநியோகம்"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "பொது சுருக்கம்"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "பொது கிளினிக் புள்ளிவிவரங்கள்"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "மொத்த நோயாளிகள்"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "நிலுவையில் உள்ள கடன்கள்"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "வரவிருக்கும் நியமனங்கள்"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "மாதாந்திர இருப்பு"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "மொத்த வருவாய்"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "மொத்த செலவுகள்"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "பேலன்ஸ் நெட்டோ"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "நிலுவையில் உள்ள கொடுப்பனவுகள்"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "நிதி"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "உங்கள் கிளினிக்கின் நிதிகளை நிர்வகிக்கவும்"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "உங்கள் கிளினிக்கின் நிதிச் சுருக்கம்"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "பதிவு பணம்"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "சமீபத்திய வருமானம்"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "சமீபத்திய வருவாய் இயக்கங்கள்"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "காட்டுவதற்கு சமீபத்திய வருமானம் இல்லை"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "சமீபத்திய செலவுகள்"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "சமீபத்திய செலவு இயக்கங்கள்"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "காட்டுவதற்கு சமீபத்திய செலவுகள் இல்லை"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "பல் மருத்துவரைத் தேடுங்கள், சிறப்பு..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "பெயர், சிறப்பு அல்லது கிளினிக் மூலம் பல் மருத்துவரைத் தேடுங்கள்"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "வரைபடத்தில் அலுவலகங்களைப் பார்க்கவும்"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "வரைபடம்"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "நிகழ்ச்சி நிரல் சிட்டா பல்"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "விரைவான, எளிதானது - உங்களுக்கும் நீங்கள் விரும்பும் அனைவருக்கும்."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "எங்கள் பல் மருத்துவர்கள்"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "அனைத்து கிளினிக்குகளிலும் நிபுணர்கள்"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "இதற்கான முடிவுகள் இல்லை \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "இருப்பு"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "மேலும் பார்க்கவும்"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "உங்கள் அலுவலகத்தில் டூத்க்ஸ் பயன்படுத்தவும்"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "மேலே திரும்பவும்"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex உடன் உங்கள் பயிற்சியை வளர்த்துக் கொள்ளுங்கள்"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "பல் மருத்துவர்களை நோயாளிகளுடன் இணைக்கும் தளம். உங்கள் சுயவிவரத்தை உருவாக்கவும், உங்கள் அலுவலகங்களைப் பதிவுசெய்து, இன்றே சந்திப்புகளைப் பெறவும்."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "பல் மருத்துவரின் சுயவிவரத்தை உருவாக்கவும்"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "தொடங்க இலவசம் · கிரெடிட் கார்டு இல்லை"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "நோயாளிகளைத் தேடு..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "வெர்"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "நோயாளிகள்"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "உங்கள் நோயாளிகளை நிர்வகிக்கவும்"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "உங்கள் நோயாளிகளின் தகவலை நிர்வகிக்கவும்"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "நோயாளிகளின் பட்டியல்"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " நோயாளி"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " கண்டுபிடிக்கப்பட்டது"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "இதுவரை நோயாளிகள் யாரும் பதிவு செய்யப்படவில்லை"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "நோயாளிகள் இல்லை"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "பிரதான வீதி #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "பொது பல் மருத்துவம்"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "உங்கள் தேவைகளுக்கு ஏற்ப பயன்பாட்டைத் தனிப்பயனாக்கவும்"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "பொது"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "அறிவிப்பு."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "பாதுகாப்பு"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "அவர்"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "பொது அமைப்புகள்"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "பொது மருத்துவமனை அமைப்புகள்"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "கிளினிக் பெயர்"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "முகவரி"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "தொலைபேசி"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "மின்னஞ்சல்"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "மாற்றங்களைச் சேமிக்கவும்"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "சுயவிவரத் தகவல்"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "உங்கள் தனிப்பட்ட தகவலைப் புதுப்பிக்கவும்"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "முழுப் பெயர்"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "சிறப்பு"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "சுயவிவரத்தைப் புதுப்பிக்கவும்"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "அறிவிப்புகள் விருப்பத்தேர்வுகள்"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "அறிவிப்புகளை எவ்வாறு பெற விரும்புகிறீர்கள் என்பதை உள்ளமைக்கவும்"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "நியமன அறிவிப்புகள்"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "வரவிருக்கும் சந்திப்புகளின் நினைவூட்டல்களைப் பெறுங்கள்"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "இயக்கு"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "கட்டண அறிவிப்புகள்"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "நிலுவையில் உள்ள பணம் பற்றிய விழிப்பூட்டல்களைப் பெறுங்கள்"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "மின்னஞ்சல் அறிவிப்புகள்"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "உங்கள் மின்னஞ்சலில் அறிவிப்புகளைப் பெறவும்"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "உங்கள் கணக்கின் பாதுகாப்பை நிர்வகிக்கவும்"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "தற்போதைய கடவுச்சொல்"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "புதிய கடவுச்சொல்"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "புதிய கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "கடவுச்சொல்லை மாற்றவும்"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "தோற்றம்"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "பயன்பாட்டின் தோற்றத்தைத் தனிப்பயனாக்குங்கள்"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "இருண்ட பயன்முறை"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ஒளி மற்றும் இருண்ட பயன்முறைக்கு இடையில் மாறவும்"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "செயல்படுத்து"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "எழுத்துரு அளவு"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "உரை அளவை சரிசெய்யவும்"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "கட்டமைக்கவும்"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "நடந்து கொண்டிருக்கிறது"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "நிரப்பப்பட்டது"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "ரத்து செய்யப்பட்டது"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "காதணி"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "நிலுவையில் உள்ளது"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "சிகிச்சைகள்"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "சிகிச்சைகளை நிர்வகிக்கவும்"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "பல் சிகிச்சைகளை நிர்வகிக்கவும்"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "புதிய சிகிச்சை"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "சிகிச்சை பட்டியல்"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " சிகிச்சை"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " பதிவு செய்யப்பட்டது"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "பதிவு செய்யப்பட்ட சிகிச்சைகள் எதுவும் இல்லை"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "பெயரிடப்படாதது"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "நோயாளி: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "ஒதுக்கப்படாதது"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "விவரங்களைப் பார்க்கவும்"
+  }
+}

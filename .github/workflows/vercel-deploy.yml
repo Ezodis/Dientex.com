@@ -1,0 +1,148 @@
+name: Deploy to Vercel
+
+on:
+  # Vercel's Git integration publishes main independently of Actions availability.
+  # Keep this workflow for explicit deployments and diagnostics, avoiding duplicates.
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deployment environment'
+        required: true
+        default: 'production'
+        type: choice
+        options:
+          - production
+          - preview
+          - diagnostics
+
+# Cancel any in-progress deployment when a new push arrives so runs
+# never pile up and block each other on Vercel's build queue.
+concurrency:
+  group: vercel-deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: inputs.environment != 'diagnostics'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+
+    steps:
+      - name: Check deployment configuration
+        id: configuration
+        env:
+          TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          PROJECT: ${{ secrets.VERCEL_PROJECT_ID }}
+          TEAM: ${{ secrets.VERCEL_ORG_ID }}
+        run: |
+          if [ -n "$TOKEN" ] && [ -n "$PROJECT" ] && [ -n "$TEAM" ]; then
+            echo 'enabled=true' >> "$GITHUB_OUTPUT"
+          else
+            echo '::notice::No Vercel project credentials configured; deployment skipped.'
+          fi
+      - name: Checkout repository
+        if: steps.configuration.outputs.enabled == 'true'
+        uses: actions/checkout@v7.0.1
+
+      - name: Setup Node.js
+        if: steps.configuration.outputs.enabled == 'true'
+        uses: actions/setup-node@v7.0.0
+        with:
+          node-version: '24'
+
+      - name: Install Vercel CLI
+        if: steps.configuration.outputs.enabled == 'true'
+        run: npm install -g vercel@latest
+
+      - name: Check shared routing before deployment
+        if: steps.configuration.outputs.enabled == 'true'
+        working-directory: frontend/web
+        run: |
+          npm ci --no-fund
+          node --test localization/tests.cjs
+
+      - name: Configure monorepo root and supported runtime
+        if: steps.configuration.outputs.enabled == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          TEAM_ID: ${{ secrets.VERCEL_ORG_ID }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request, urllib.parse, urllib.error
+          query = urllib.parse.urlencode({'teamId': os.environ['TEAM_ID']})
+          settings = {'rootDirectory': 'frontend/web', 'framework': 'nextjs',
+                      'nodeVersion': '24.x', 'installCommand': 'npm ci --no-fund',
+                      'buildCommand': 'npm run build', 'outputDirectory': '.next'}
+          req = urllib.request.Request('https://api.vercel.com/v9/projects/'+os.environ['PROJECT_ID']+'?'+query,
+              data=json.dumps(settings).encode(), method='PATCH',
+              headers={'Authorization': 'Bearer '+os.environ['VERCEL_TOKEN'], 'Content-Type': 'application/json'})
+          try:
+              urllib.request.urlopen(req).close()
+          except urllib.error.HTTPError as error:
+              raise SystemExit(f'::error::Vercel configuration failed (HTTP {error.code}). Check token team access and project/team IDs.')
+          PY
+
+      # Invoke the monorepo CLI from the repository root.
+      # Build on Vercel so sensitive environment values are available there;
+      # vercel pull replaces those values with [SENSITIVE] for local builds.
+      - name: Fetch settings and deploy
+        if: steps.configuration.outputs.enabled == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          DEPLOY_ENVIRONMENT: ${{ inputs.environment || 'production' }}
+          BACKEND_URL: ${{ vars.BACKEND_URL }}
+          PUBLIC_API_URL: ${{ vars.NEXT_PUBLIC_API_URL }}
+          REALTIME_URL: ${{ vars.REALTIME_URL }}
+        run: |
+          vercel pull --yes --environment="$DEPLOY_ENVIRONMENT" --token="$VERCEL_TOKEN"
+          # Repository variables override only this project's deployment settings.
+          api_args=()
+          if [ -n "$REALTIME_URL" ]; then
+            api_args+=(--build-env "REALTIME_URL=$REALTIME_URL" --env "REALTIME_URL=$REALTIME_URL")
+          fi
+          if [ -n "$BACKEND_URL" ]; then
+            api_args+=(--build-env "BACKEND_URL=$BACKEND_URL" --env "BACKEND_URL=$BACKEND_URL")
+          fi
+          if [ -n "$PUBLIC_API_URL" ]; then
+            api_args+=(--build-env "NEXT_PUBLIC_API_URL=$PUBLIC_API_URL" --env "NEXT_PUBLIC_API_URL=$PUBLIC_API_URL")
+          fi
+          if [ "$DEPLOY_ENVIRONMENT" = 'production' ]; then
+            vercel deploy --prod --yes --token="$VERCEL_TOKEN" "${api_args[@]}"
+          else
+            vercel deploy --yes --token="$VERCEL_TOKEN" "${api_args[@]}"
+          fi
+
+  diagnostics:
+    if: github.event_name == 'workflow_dispatch' && inputs.environment == 'diagnostics'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Read project configuration and failed build logs
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          TEAM_ID: ${{ secrets.VERCEL_ORG_ID }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          query = urllib.parse.urlencode({'teamId': os.environ['TEAM_ID']})
+          def get(path):
+              req = urllib.request.Request('https://api.vercel.com'+path, headers={'Authorization': 'Bearer '+os.environ['VERCEL_TOKEN']})
+              return json.load(urllib.request.urlopen(req))
+          project = get('/v9/projects/'+os.environ['PROJECT_ID']+'?'+query)
+          print(json.dumps({key: project.get(key) for key in ['name','rootDirectory','nodeVersion','framework','buildCommand','installCommand','outputDirectory']}, indent=2))
+          deployments = get('/v6/deployments?'+query+'&projectId='+os.environ['PROJECT_ID']+'&state=ERROR&limit=1')['deployments']
+          for deployment in deployments:
+              details = get('/v13/deployments/'+deployment['uid']+'?'+query)
+              print(json.dumps({key: details.get(key) for key in ['id','readyState','errorCode','errorMessage']}, indent=2))
+              events = get('/v3/deployments/'+deployment['uid']+'/events?'+query+'&limit=100')
+              for event in events:
+                  text = event.get('payload',{}).get('text')
+                  if text: print(text[:1500])
+          PY

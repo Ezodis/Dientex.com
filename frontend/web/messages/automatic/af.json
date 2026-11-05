@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Ander"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Bestuur jou afsprake"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Fout"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Probeer weer"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Bestuur afspraakkalender"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Nuwe aanstelling"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Afspraak kalender"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " droom"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " geskeduleer"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Daar is geen geskeduleerde afsprake nie"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Kliniese siening"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Laai tans kliniese geskiedenis …"
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Mediese geskiedenis, kliniese notas en odontogram van die pasiënt"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo data"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Laaste opdatering: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Mediese geskiedenis"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Kliniese notas"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Lêers"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontogram"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Chroniese Siektes"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Geen chroniese siektes aangeteken nie"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Huidige medikasie"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Geen geregistreerde medikasie nie"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Allergieë"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Geen bekende allergieë nie"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Vorige tandheelkundige behandelings"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Geen vorige behandelings aangeteken nie"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Gewoontes en Waarnemings"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Roker"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "nie-roker"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Drink alkohol"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Geen alkohol gebruik nie"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Geen mediese geskiedenis aangeteken nie"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Skep mediese geskiedenis"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " gebruik"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " kliniek"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Nuwe nota"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Daar is geen kliniese notas aangeteken nie"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Kliniese waarnemings"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " argief"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Laai lêer op"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Daar is geen kliniese lêers aangeheg nie"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Kliniese Foto"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografie"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF dokument"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Ander"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Bekyk lêer"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Lêer nie beskikbaar in demo-modus nie"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Opgelaai deur: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Abnormale waardes"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 mates per tand (normale omvang: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Bedien"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Bedien "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Notas"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Daar is geen periodontogram aangeteken nie"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Skep periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Geskeduleer"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Bevestig"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Voltooi"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Gekanselleer"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Bevestig"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Kanselleer"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey-kliniek"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX-kliniek"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara-kliniek"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Skedule afspraak"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Keer terug"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Zoem in"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Verwyder"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "My ligging"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Soek vir..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Geen resultate gevind nie"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Wys tans "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " van"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " resultate"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Anterior"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Bladsy "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " van "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Volgende"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Tandheelkundige kantoorbestuurstelsel."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Bepalings"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privaatheid"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Hulp"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Soek pasiënte, afsprake..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Kennisgewings"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Nuwe afspraak geskeduleer"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Tandheelkundige skoonmaak om 10:00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Betaling herinnering"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González het 'n hangende betaling van $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Gekanselleerde afspraak"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz het sy Vrydag-afspraak gekanselleer"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "My rekening"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profiel"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfigurasie"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Teken uit"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Kariës"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Geluide"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Afwesig"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "in behandeling"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Boonste Boog"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Onderste Boog"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Bate"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Ledig"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Volgende afspraak:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Sien Besonderhede"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Skedule afspraak"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% sedert verlede maand"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Maak toe"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Vandag se aanhalings"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Pasiënte bedien"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Daaglikse inkomste"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktiewe behandelings"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Dashboard"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Welkom by jou beheerpaneel"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Dashboarddata kon nie gelaai word nie"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Opsomming van jou tandheelkundige kliniek"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Nuwe Pasiënt"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Geduldig"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Inkomste vs uitgawes"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Maandelikse vergelyking van inkomste en uitgawes"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Onlangse aanhalings"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Jongste geskeduleerde afsprake"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Weeklikse afsprake"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Verspreiding van afsprake gedurende die week"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Algemene Opsomming"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Algemene kliniekstatistieke"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Totale pasiënte"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Hangende skulde"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Komende afsprake"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Maandelikse balans"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Totale inkomste"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Totale uitgawes"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balanseer Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Hangende betalings"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finansies"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Bestuur jou kliniek se finansies"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Finansiële opsomming van jou kliniek"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Registreer Betaling"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Onlangse inkomste"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Jongste inkomstebewegings"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Geen onlangse inkomste om te wys nie"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Onlangse uitgawes"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Jongste uitgawebewegings"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Geen onlangse uitgawes om te wys nie"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Soek 'n tandarts, spesialiteit..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Soek tandarts op naam, spesialiteit of kliniek"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Sien kantore op die kaart"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Kaart"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Die agenda is Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Vinnig, maklik - vir jou en vir wie jy ook al wil."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Ons tandartse"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Spesialiste in alle klinieke"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Geen resultate vir \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Reserwe"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Sien meer"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Gebruik toothx in jou kantoor"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Terug na bo"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Kweek jou praktyk met Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Die platform wat tandartse met pasiënte verbind. Skep jou profiel, registreer jou kantore en begin vandag afsprake ontvang."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Skep tandartsprofiel"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Gratis om te begin · Geen kredietkaart nie"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Soek pasiënte..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Pasiënte"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Bestuur jou pasiënte"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Bestuur jou pasiënte se inligting"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Pasiëntlys"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " pasiënt"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " gevind"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Daar is nog geen pasiënte geregistreer nie"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Geen pasiënte gevind nie"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Hoofstraat #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Algemene Tandheelkunde"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Pas die toepassing aan volgens u behoeftes"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Algemeen"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Kennisgewing."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Sekuriteit"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Hy"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Algemene instellings"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Algemene kliniekinstellings"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Kliniek Naam"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adres"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefoon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-pos"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Stoor veranderinge"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profielinligting"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Dateer jou persoonlike inligting op"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Volle Naam"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Spesialiteit"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Dateer profiel op"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Kennisgewingsvoorkeure"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Stel in hoe jy kennisgewings wil ontvang"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Aanstellingskennisgewings"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Ontvang aanmanings van komende afsprake"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Aktiveer"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Betalingkennisgewings"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Ontvang waarskuwings oor hangende betalings"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "E-poskennisgewings"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Ontvang kennisgewings in jou e-pos"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Bestuur jou rekeningsekuriteit"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Huidige wagwoord"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Nuwe wagwoord"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Bevestig nuwe wagwoord"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Verander wagwoord"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Voorkoms"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Pas die voorkoms van die toepassing aan"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Donker modus"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Skakel tussen lig en donker modus"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktiveer"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Lettergrootte"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Pas die teksgrootte aan"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Stel op"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Aan die gang"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Gevul"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Gekanselleer"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Oorbel"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "hangende"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Behandelings"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Bestuur behandelings"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Bestuur tandheelkundige behandelings"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Nuwe Behandeling"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Behandeling lys"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " behandeling"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " geregistreer"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Daar is geen geregistreerde behandelings nie"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Naamloos"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Pasiënt: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Ontoegewys"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Sien besonderhede"
+  }
+}

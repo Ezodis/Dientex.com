@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "ఇతరులు"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "మీ అపాయింట్‌మెంట్‌లను నిర్వహించండి"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "లోపం"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "మళ్లీ ప్రయత్నించండి"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "అపాయింట్‌మెంట్ క్యాలెండర్‌ని నిర్వహించండి"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "కొత్త నియామకం"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "అపాయింట్‌మెంట్ క్యాలెండర్"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " కల"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "లు"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " షెడ్యూల్ చేయబడింది"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "షెడ్యూల్డ్ అపాయింట్‌మెంట్‌లు లేవు"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "క్లినికల్ వీక్షణ"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "క్లినికల్ హిస్టరీ లోడ్ అవుతోంది..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "రోగి యొక్క వైద్య చరిత్ర, క్లినికల్ నోట్స్ మరియు ఒడోంటోగ్రామ్"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "డెమో డేటా"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "చివరి నవీకరణ: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "వైద్య చరిత్ర"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "క్లినికల్ నోట్స్"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ఒడోంటోగ్రామ్"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ఫైల్‌లు"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "పీరియాడోంటోగ్రామా"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "దీర్ఘకాలిక వ్యాధులు"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "దీర్ఘకాలిక వ్యాధులు నమోదు కాలేదు"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "ప్రస్తుత మందులు"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "నమోదిత మందులు లేవు"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "అలర్జీలు"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "తెలిసిన అలెర్జీలు లేవు"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "మునుపటి దంత చికిత్సలు"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "మునుపటి చికిత్సలు నమోదు చేయబడలేదు"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "అలవాట్లు మరియు పరిశీలనలు"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "ధూమపానం చేసేవాడు"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ధూమపానం చేయని"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "మద్యం సేవించండి"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "మద్యం సేవించవద్దు"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "వైద్య చరిత్ర నమోదు కాలేదు"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "వైద్య చరిత్రను సృష్టించండి"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ఉపయోగించండి"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " క్లినిక్"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "కొత్త నోటు"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "క్లినికల్ నోట్స్ ఏవీ నమోదు కాలేదు"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "క్లినికల్ పరిశీలనలు"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ఆర్కైవ్"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ఫైల్‌ని అప్‌లోడ్ చేయండి"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "క్లినికల్ ఫైల్‌లు ఏవీ జోడించబడలేదు"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "క్లినికల్ ఫోటో"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "రేడియోగ్రఫీ"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF పత్రం"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "ఇతర"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ఫైల్‌ని వీక్షించండి"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "డెమో మోడ్‌లో ఫైల్ అందుబాటులో లేదు"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "అప్‌లోడ్ చేసినవారు: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "అసాధారణ విలువలు"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "ప్రతి పంటికి 6 కొలతలు (సాధారణ పరిధి: 1–3 మిమీ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "వడ్డించారు"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "వడ్డించారు "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "గమనికలు"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "పీరియాంటోగ్రామ్ నమోదు చేయబడలేదు"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "పీరియాంటోగ్రామ్‌ని సృష్టించండి"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "షెడ్యూల్ చేయబడింది"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "నిర్ధారించారు"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "పూర్తయింది"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "రద్దు చేయబడింది"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "నిర్ధారించండి"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "రద్దు చేయి"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "మోంటెర్రే క్లినిక్"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX క్లినిక్"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "గ్వాడలజారా క్లినిక్"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "షెడ్యూల్ నియామకం"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "తిరిగి"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "జూమ్ ఇన్ చేయండి"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "తొలగించు"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "నా స్థానం"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "వెతకండి..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ఫలితాలు ఏవీ కనుగొనబడలేదు"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "చూపిస్తున్నారు "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " యొక్క"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ఫలితాలు"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "పూర్వం"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "పేజీ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " యొక్క "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "అనుసరిస్తోంది"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. డెంటల్ ఆఫీస్ మేనేజ్‌మెంట్ సిస్టమ్."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "నిబంధనలు"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "గోప్యత"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "సహాయం"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "రోగులు, అపాయింట్‌మెంట్‌ల కోసం శోధించండి..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "డి"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "నోటిఫికేషన్‌లు"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "కొత్త అపాయింట్‌మెంట్ షెడ్యూల్ చేయబడింది"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "జువాన్ పెరెజ్ - ఉదయం 10:00 గంటలకు డెంటల్ క్లీనింగ్"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "చెల్లింపు రిమైండర్"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "మరియా గొంజాలెజ్ $500 చెల్లింపు పెండింగ్‌లో ఉంది"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "అపాయింట్‌మెంట్ రద్దు చేయబడింది"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "కార్లోస్ రూయిజ్ తన శుక్రవారం అపాయింట్‌మెంట్‌ని రద్దు చేసుకున్నాడు"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "నా ఖాతా"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ప్రొఫైల్"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "ఆకృతీకరణ"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "సైన్ అవుట్ చేయండి"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "సనో"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "క్షయాలు"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "షట్టర్ చేయబడింది"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "గైర్హాజరు"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "చికిత్సలో"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ఎగువ ఆర్చ్"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "దిగువ ఆర్చ్"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "ఆస్తి"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "పనిలేకుండా"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "తదుపరి అపాయింట్‌మెంట్:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "వివరాలను చూడండి"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "షెడ్యూల్ నియామకం"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "గత నెల నుండి %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "మూసివేయి"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "నేటి కోట్స్"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "రోగులకు సేవలందించారు"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "రోజువారీ ఆదాయం"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "క్రియాశీల చికిత్సలు"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "డాష్‌బోర్డ్"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "మీ నియంత్రణ ప్యానెల్‌కు స్వాగతం"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "డాష్‌బోర్డ్ డేటాను లోడ్ చేయడం సాధ్యపడలేదు"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "మీ డెంటల్ క్లినిక్ సారాంశం"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "కొత్త పేషెంట్"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "రోగి"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "సిటా"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "ఆదాయం vs ఖర్చులు"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "ఆదాయం మరియు ఖర్చుల యొక్క నెలవారీ పోలిక"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "ఇటీవలి కోట్‌లు"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "తాజా షెడ్యూల్డ్ అపాయింట్‌మెంట్‌లు"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "వారపు అపాయింట్‌మెంట్‌లు"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "వారంలో నియామకాల పంపిణీ"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "సాధారణ సారాంశం"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "సాధారణ క్లినిక్ గణాంకాలు"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "మొత్తం రోగులు"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "పెండింగ్ అప్పులు"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "రాబోయే నియామకాలు"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "నెలవారీ బ్యాలెన్స్"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "మొత్తం ఆదాయం"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "మొత్తం ఖర్చులు"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "బ్యాలెన్స్ నెటో"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "పెండింగ్ చెల్లింపులు"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ఫైనాన్స్"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "మీ క్లినిక్ ఆర్థిక వ్యవహారాలను నిర్వహించండి"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "మీ క్లినిక్ యొక్క ఆర్థిక సారాంశం"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "చెల్లింపును నమోదు చేయండి"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "ఇటీవలి ఆదాయం"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "తాజా ఆదాయ కదలికలు"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "చూపించడానికి ఇటీవలి ఆదాయం లేదు"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ఇటీవలి ఖర్చులు"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "తాజా వ్యయ కదలికలు"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "చూపించడానికి ఇటీవలి ఖర్చులు లేవు"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "దంతవైద్యుని కోసం శోధించండి, ప్రత్యేకత…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "పేరు, స్పెషాలిటీ లేదా క్లినిక్ ద్వారా దంతవైద్యుడిని శోధించండి"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "మ్యాప్‌లో కార్యాలయాలను చూడండి"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "మ్యాప్"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "ఎజెండా సిటా డెంటల్"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "త్వరగా, సులభంగా — మీకు మరియు మీకు కావలసిన వారికి."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "మా దంతవైద్యులు"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "అన్ని క్లినిక్‌లలో నిపుణులు"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "\" కోసం ఫలితాలు లేవు"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "రిజర్వ్"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "మరిన్ని చూడండి"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "మీ కార్యాలయంలో టూత్క్స్ ఉపయోగించండి"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "తిరిగి పైకి"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientexతో మీ అభ్యాసాన్ని పెంచుకోండి"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "రోగులతో దంతవైద్యులను కలిపే వేదిక. మీ ప్రొఫైల్‌ని సృష్టించండి, మీ కార్యాలయాలను నమోదు చేసుకోండి మరియు ఈరోజు అపాయింట్‌మెంట్‌లను స్వీకరించడం ప్రారంభించండి."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "డెంటిస్ట్ ప్రొఫైల్‌ను సృష్టించండి"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "ప్రారంభించడం ఉచితం · క్రెడిట్ కార్డ్ లేదు"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "రోగులను వెతకండి..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "వెర్"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "రోగులు"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "మీ రోగులను నిర్వహించండి"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "మీ రోగుల సమాచారాన్ని నిర్వహించండి"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "రోగుల జాబితా"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " రోగి"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " దొరికింది"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ఇంకా రోగులు నమోదు చేసుకోలేదు"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "రోగులు కనుగొనబడలేదు"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ప్రధాన వీధి #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "జనరల్ డెంటిస్ట్రీ"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "మీ అవసరాలకు అనుగుణంగా అనువర్తనాన్ని అనుకూలీకరించండి"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "జనరల్"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "నోటిఫికేషన్."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "భద్రత"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "అతను"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "సాధారణ సెట్టింగులు"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "సాధారణ క్లినిక్ సెట్టింగులు"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "క్లినిక్ పేరు"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "చిరునామా"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "టెలిఫోన్"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ఇమెయిల్"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "మార్పులను సేవ్ చేయండి"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ప్రొఫైల్ సమాచారం"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "మీ వ్యక్తిగత సమాచారాన్ని నవీకరించండి"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "పూర్తి పేరు"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "ప్రత్యేకత"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "ప్రొఫైల్‌ను నవీకరించండి"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "నోటిఫికేషన్‌ల ప్రాధాన్యతలు"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "మీరు నోటిఫికేషన్‌లను ఎలా స్వీకరించాలనుకుంటున్నారో కాన్ఫిగర్ చేయండి"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "అపాయింట్‌మెంట్ నోటిఫికేషన్‌లు"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "రాబోయే అపాయింట్‌మెంట్‌ల రిమైండర్‌లను స్వీకరించండి"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "ప్రారంభించు"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "చెల్లింపు నోటిఫికేషన్‌లు"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "పెండింగ్ చెల్లింపుల గురించి హెచ్చరికలను స్వీకరించండి"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ఇమెయిల్ నోటిఫికేషన్‌లు"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "మీ ఇమెయిల్‌లో నోటిఫికేషన్‌లను స్వీకరించండి"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "మీ ఖాతా భద్రతను నిర్వహించండి"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "ప్రస్తుత పాస్వర్డ్"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "కొత్త పాస్‌వర్డ్"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "కొత్త పాస్‌వర్డ్‌ని నిర్ధారించండి"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "పాస్‌వర్డ్ మార్చండి"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "స్వరూపం"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "యాప్ రూపాన్ని అనుకూలీకరించండి"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "డార్క్ మోడ్"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "కాంతి మరియు చీకటి మోడ్ మధ్య మారండి"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "యాక్టివేట్ చేయండి"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ఫాంట్ పరిమాణం"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "వచన పరిమాణాన్ని సర్దుబాటు చేయండి"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "కాన్ఫిగర్ చేయండి"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "పురోగతిలో ఉంది"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "నిండిపోయింది"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "రద్దు చేయబడింది"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "చెవిపోగు"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "పెండింగ్‌లో ఉంది"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "చికిత్సలు"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "చికిత్సలను నిర్వహించండి"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "దంత చికిత్సలను నిర్వహించండి"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "కొత్త చికిత్స"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "చికిత్స జాబితా"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " చికిత్స"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " నమోదు చేయబడింది"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "నమోదిత చికిత్సలు లేవు"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "పేరులేనిది"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "రోగి: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "కేటాయించబడలేదు"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "వివరాలను చూడండి"
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "ອື່ນໆ"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "ຈັດການນັດໝາຍຂອງທ່ານ"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "ຜິດພາດ"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ລອງໃໝ່"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "ຈັດການປະຕິທິນນັດໝາຍ"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "ການນັດໝາຍໃໝ່"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "ປະຕິທິນນັດໝາຍ"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ຝັນ"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " ກຳນົດ"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "ບໍ່ມີການນັດໝາຍທີ່ກຳນົດໄວ້"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "ເບິ່ງຄລີນິກ"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "ກຳລັງໂຫຼດປະຫວັດທາງຄລີນິກ..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "ປະຫວັດທາງການແພດ, ບັນທຶກທາງດ້ານການຊ່ວຍແລະ odontogram ຂອງຄົນເຈັບ"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ຂໍ້ມູນຕົວຢ່າງ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "ອັບເດດຫຼ້າສຸດ: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "ປະຫວັດທາງການແພດ"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "ຫມາຍເຫດທາງດ້ານຄລີນິກ"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ໄຟລ໌"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "ພະຍາດຊໍາເຮື້ອ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "ບໍ່ມີບັນທຶກພະຍາດຊໍາເຮື້ອ"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "ຢາປະຈຸບັນ"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "ບໍ່ມີຢາທີ່ລົງທະບຽນ"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "ອາການແພ້"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "ບໍ່ມີອາການແພ້ທີ່ຮູ້ຈັກ"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "ການປິ່ນປົວແຂ້ວທີ່ຜ່ານມາ"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "ບໍ່ມີການບັນທຶກການປິ່ນປົວທີ່ຜ່ານມາ"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "ນິໄສແລະການສັງເກດການ"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "ສູບຢາ"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ຄົນບໍ່ສູບຢາ"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "ດື່ມເຫຼົ້າ"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "ຫ້າມບໍລິໂພກເຫຼົ້າ"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "ບໍ່ມີປະຫວັດທາງການແພດທີ່ບັນທຶກໄວ້"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "ສ້າງປະຫວັດທາງການແພດ"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ໃຊ້"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " ຄລີນິກ"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "ບັນທຶກໃໝ່"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "ບໍ່ມີບັນທຶກທາງຄລີນິກທີ່ບັນທຶກໄວ້"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "ການສັງເກດການທາງດ້ານຄລີນິກ"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ຮວບຮວມ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ອັບໂຫລດໄຟລ໌"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "ບໍ່ມີໄຟລ໌ຄລີນິກຕິດຢູ່"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "ຮູບຄລີນິກ"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "ການຖ່າຍພາບ"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "ເອກະສານ PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "ອື່ນໆ"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ເບິ່ງໄຟລ໌"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ໄຟລ໌ບໍ່ສາມາດໃຊ້ໄດ້ໃນໂໝດສາທິດ"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "ອັບໂຫຼດໂດຍ: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "ຄ່າຜິດປົກກະຕິ"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 ການວັດແທກຕໍ່ແຂ້ວ (ໄລຍະປົກກະຕິ: 1–3 ມມ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "ໃຫ້ບໍລິການ"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "ໃຫ້ບໍລິການ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "ບັນທຶກ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "ບໍ່ມີການບັນທຶກ periodontogram"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "ສ້າງ periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "ກຳນົດເວລາ"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "ຢືນຢັນ"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "ສຳເລັດແລ້ວ"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "ຍົກເລີກ"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "ຢືນຢັນ"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "ຍົກເລີກ"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "ຄລີນິກ Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "ຄລີນິກ CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "ຄລີນິກ Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "ກຳນົດເວລານັດ"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "ກັບຄືນ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ຊູມເຂົ້າ"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ເອົາອອກ"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ສະຖານທີ່ຂອງຂ້ອຍ"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "ຊອກຫາ..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ບໍ່ພົບຜົນການຊອກຫາ"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "ກຳລັງສະແດງ "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ຂອງ"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ຜົນໄດ້ຮັບ"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "ດ້ານໜ້າ"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "ໜ້າ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ຂອງ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "ຕິດຕາມ"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. ລະບົບການຄຸ້ມຄອງຫ້ອງການທັນຕະກໍາ."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "ເງື່ອນໄຂ"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "ຄວາມເປັນສ່ວນຕົວ"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "ການຊ່ວຍເຫຼືອ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "ຄົ້ນ​ຫາ​ຄົນ​ເຈັບ​, ການ​ນັດ​ຫມາຍ ..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ງ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "ການແຈ້ງເຕືອນ"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "ກຳນົດການນັດໝາຍໃໝ່"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - ທໍາຄວາມສະອາດແຂ້ວເວລາ 10:00 AM"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "ເຕືອນການຈ່າຍເງິນ"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González ມີການຈ່າຍເງິນທີ່ຍັງຄ້າງຢູ່ $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "ຍົກເລີກການນັດໝາຍ"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz ໄດ້ຍົກເລີກການນັດໝາຍໃນວັນສຸກຂອງລາວ"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "ບັນຊີຂອງຂ້ອຍ"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ໂປຣໄຟລ໌"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "ການຕັ້ງຄ່າ"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "ອອກຈາກລະບົບ"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "ພະຍາດ caries"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ປິດແລ້ວ"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "ຂາດ"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ໃນການປິ່ນປົວ"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ປະຕູເທິງ"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ໂຄ້ງລຸ່ມ"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "ຊັບສິນ"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "ບໍ່ເຮັດວຽກ"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "ການນັດໝາຍຄັ້ງຕໍ່ໄປ:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "ເບິ່ງລາຍລະອຽດ"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "ຕາຕະລາງນັດໝາຍ"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% ນັບຕັ້ງແຕ່ເດືອນທີ່ຜ່ານມາ"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "ປິດ"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "ວົງຢືມຂອງມື້ນີ້"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "ຄົນເຈັບໃຫ້ບໍລິການ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "ລາຍໄດ້ປະຈໍາວັນ"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "ການປິ່ນປົວຢ່າງຫ້າວຫັນ"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ແຜງໜ້າປັດ"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "ຍິນດີຕ້ອນຮັບສູ່ແຜງຄວບຄຸມຂອງທ່ານ"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ບໍ່ສາມາດໂຫຼດຂໍ້ມູນ Dashboard ໄດ້"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "ສະຫຼຸບສັງລວມຂອງຄລີນິກແຂ້ວຂອງທ່ານ"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "ຄົນເຈັບໃໝ່"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "ຄົນເຈັບ"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "ຊິຕາ"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "ລາຍໄດ້ທຽບກັບຄ່າໃຊ້ຈ່າຍ"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "ການປຽບທຽບລາຍເດືອນ ແລະ ລາຍຈ່າຍ"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "ວົງຢືມຫຼ້າສຸດ"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "ນັດໝາຍທີ່ກຳນົດໄວ້ຫຼ້າສຸດ"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "ການນັດໝາຍປະຈຳອາທິດ"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "ການແຈກຢາຍການນັດຫມາຍໃນລະຫວ່າງອາທິດ"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "ສະຫຼຸບສັງລວມ"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "ສະຖິຕິຂອງຄລີນິກທົ່ວໄປ"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "ຄົນເຈັບທັງໝົດ"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "ໜີ້ສິນທີ່ຍັງຄ້າງຢູ່"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "ການນັດໝາຍທີ່ຈະມາເຖິງ"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "ຍອດເງິນປະຈໍາເດືອນ"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "ລາຍຮັບທັງໝົດ"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "ຄ່າໃຊ້ຈ່າຍທັງໝົດ"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "ການຈ່າຍເງິນທີ່ຍັງຄ້າງຢູ່"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ການເງິນ"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "ຄຸ້ມຄອງການເງິນຂອງຄລີນິກຂອງທ່ານ"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "ສະຫຼຸບການເງິນຂອງຄລີນິກຂອງເຈົ້າ"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "ລົງທະບຽນການຈ່າຍເງິນ"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "ລາຍໄດ້ທີ່ຜ່ານມາ"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "ການເຄື່ອນໄຫວລາຍຮັບຫຼ້າສຸດ"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "ບໍ່ມີລາຍຮັບຫຼ້າສຸດທີ່ຈະສະແດງ"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ຄ່າໃຊ້ຈ່າຍທີ່ຜ່ານມາ"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "ການເຄື່ອນໄຫວຄ່າໃຊ້ຈ່າຍຫຼ້າສຸດ"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "ບໍ່ມີຄ່າໃຊ້ຈ່າຍຫຼ້າສຸດທີ່ຈະສະແດງ"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ຄົ້ນຫາຫມໍປົວແຂ້ວ, ພິເສດ…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "ຄົ້ນຫາຫມໍປົວແຂ້ວໂດຍຊື່, ພິເສດຫຼືຄລີນິກ"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "ເບິ່ງຫ້ອງການຢູ່ໃນແຜນທີ່"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "ແຜນທີ່"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "ກອງປະຊຸມແມ່ນ Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "ໄວ, ງ່າຍ — ສໍາ​ລັບ​ທ່ານ​ແລະ​ຜູ້​ທີ່​ທ່ານ​ຕ້ອງ​ການ​."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ຫມໍປົວແຂ້ວຂອງພວກເຮົາ"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "ຜູ້ຊ່ຽວຊານໃນຄລີນິກທັງຫມົດ"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "ບໍ່ມີຜົນໄດ້ຮັບສໍາລັບ \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "ຈອງ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "ເບິ່ງເພີ່ມເຕີມ"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "ໃຊ້ toothx ໃນຫ້ອງການຂອງທ່ານ"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "ກັບໄປເທິງ"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "ຂະຫຍາຍການປະຕິບັດຂອງທ່ານກັບ Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "ເວທີທີ່ເຊື່ອມຕໍ່ຫມໍປົວແຂ້ວກັບຄົນເຈັບ. ສ້າງໂປຣໄຟລ໌ຂອງທ່ານ, ລົງທະບຽນຫ້ອງການຂອງທ່ານແລະເລີ່ມຮັບການນັດໝາຍໃນມື້ນີ້."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "ສ້າງໂປຣໄຟລ໌ຫມໍປົວແຂ້ວ"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "ເລີ່ມຕົ້ນຟຣີ · ບໍ່ມີບັດເຄຣດິດ"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "ຄົ້ນ​ຫາ​ຄົນ​ເຈັບ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "ຄົນເຈັບ"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "ຄຸ້ມຄອງຄົນເຈັບຂອງທ່ານ"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "ຈັດການຂໍ້ມູນຄົນເຈັບຂອງທ່ານ"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "ລາຍຊື່ຄົນເຈັບ"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " ຄົນ​ເຈັບ"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " ພົບ"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ຍັງບໍ່ມີຄົນເຈັບລົງທະບຽນເທື່ອ"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "ບໍ່ພົບຄົນເຈັບ"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ຖະໜົນຫຼັກ 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ແຂ້ວທົ່ວໄປ"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "ປັບ app ຕາມຄວາມຕ້ອງການຂອງທ່ານ"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "ທົ່ວໄປ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "ແຈ້ງການ."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "ຄວາມປອດໄພ"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "ລາວ"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "ການຕັ້ງຄ່າທົ່ວໄປ"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "ການຕັ້ງຄ່າຄລີນິກທົ່ວໄປ"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ຊື່ຄລີນິກ"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "ທີ່ຢູ່"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "ໂທລະສັບ"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ອີເມວ"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "ບັນທຶກການປ່ຽນແປງ"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ຂໍ້ມູນໂປຣໄຟລ໌"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "ອັບເດດຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "ຊື່ເຕັມ"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "ພິເສດ"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "ອັບເດດໂປຣໄຟລ໌"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "ການຕັ້ງຄ່າການແຈ້ງເຕືອນ"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "ຕັ້ງຄ່າວ່າທ່ານຕ້ອງການຮັບການແຈ້ງເຕືອນແນວໃດ"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "ແຈ້ງການນັດໝາຍ"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "ຮັບການແຈ້ງເຕືອນກ່ຽວກັບການນັດໝາຍທີ່ຈະມາເຖິງ"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "ເປີດໃຊ້"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "ແຈ້ງການຈ່າຍເງິນ"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "ໄດ້ຮັບການແຈ້ງເຕືອນກ່ຽວກັບການຈ່າຍເງິນທີ່ຍັງຄ້າງຢູ່"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ການແຈ້ງເຕືອນທາງອີເມວ"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "ຮັບການແຈ້ງເຕືອນໃນອີເມວຂອງທ່ານ"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "ຈັດການຄວາມປອດໄພບັນຊີຂອງທ່ານ"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "ລະຫັດຜ່ານປັດຈຸບັນ"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "ລະຫັດຜ່ານໃໝ່"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "ຢືນຢັນລະຫັດຜ່ານໃໝ່"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "ປ່ຽນລະຫັດຜ່ານ"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "ຮູບລັກສະນະ"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "ປັບແຕ່ງຮູບລັກສະນະຂອງແອັບຯ"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "ໂໝດມືດ"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ສະຫຼັບລະຫວ່າງໂໝດແສງ ແລະ ໂໝດມືດ"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "ເປີດໃຊ້"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ຂະໜາດຕົວອັກສອນ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "ປັບຂະໜາດຂໍ້ຄວາມ"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "ຕັ້ງຄ່າ"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "ກຳລັງດຳເນີນຢູ່"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "ຕື່ມ"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "ຍົກເລີກ"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "ຕຸ້ມຫູ"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "ລໍຖ້າຢູ່"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "ການປິ່ນປົວ"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "ຈັດການການປິ່ນປົວ"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "ຈັດການການປິ່ນປົວແຂ້ວ"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "ການປິ່ນປົວໃຫມ່"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "ບັນຊີລາຍຊື່ການປິ່ນປົວ"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ການປິ່ນປົວ"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " ລົງທະບຽນ"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "ບໍ່ມີການປິ່ນປົວທີ່ລົງທະບຽນ"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "ບໍ່ມີຊື່"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "ຄົນເຈັບ: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "ບໍ່ໄດ້ມອບໝາຍ"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "ເບິ່ງລາຍລະອຽດ"
+  }
+}

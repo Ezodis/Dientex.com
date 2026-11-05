@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "その他"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "予定を管理する"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "エラー"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "リトライ"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "予定カレンダーを管理する"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "新しい予定"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "予約カレンダー"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " 夢"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " 予定されている"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "予定はありません"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "臨床的見解"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "病歴を読み込んでいます..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "患者の病歴、臨床記録、歯列図"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "デモデータ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "最終更新: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "病歴"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "臨床ノート"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "歯列図"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ファイル"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "歯周病"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "慢性疾患"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "慢性疾患は記録されていない"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "現在の薬"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "登録された医薬品はありません"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "アレルギー"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "既知のアレルギーなし"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "過去の歯科治療"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "以前の治療は記録されていません"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "習慣と観察"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "喫煙者"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "非喫煙者"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "アルコールを摂取する"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "飲酒禁止"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "病歴は記録されていない"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "病歴を作成する"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " 使用"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " クリニック"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "新しいメモ"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "臨床記録は記録されていません"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "臨床観察"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " アーカイブ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ファイルをアップロードする"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "臨床ファイルは添付されていません"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "臨床写真"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "X線撮影"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDFドキュメント"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "他の"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ファイルを表示する"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ファイルはデモモードでは使用できません"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "アップロード者: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "異常値"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "歯ごとに 6 回の測定 (通常の範囲: 1 ～ 3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "提供されました"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "提供されました "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "注意事項"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "歯周病像が記録されていない"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "歯周病像の作成"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "予定されている"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "確認済み"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "完了"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "キャンセル"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "確認する"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "キャンセル"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "モンテレークリニック"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX クリニック"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "グアダラハラクリニック"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "予定を立てる"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "戻る"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ズームイン"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "取り除く"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "私の場所"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "探す..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "結果が見つかりませんでした"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "表示中 "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " の"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " 結果"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "前部"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "ページ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " の "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "続く"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 ディエンテックス.歯科医院管理システム。"
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "条項"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "プライバシー"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "援助"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "患者、予約を検索..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "通知"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "新しい予定が設定されました"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "フアン・ペレス - 午前10時に歯科クリーニング"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "支払い督促状"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "マリア・ゴンサレスさんは 500 ドルの支払いを保留中です"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "キャンセルされた予定"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "カルロス・ルイスは金曜日の予定をキャンセルした"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "私のアカウント"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "プロフィール"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "構成"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "サインアウト"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 ディエンテックス"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "佐野"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "う蝕"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "シャッター付き"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "不在"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "治療中"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "アッパーアーチ"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "アーチ下部"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "資産"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "アイドル状態"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "次回の予定:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "詳細を見る"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "予約のスケジュールを立てる"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "先月からの割合"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "近い"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "今日の名言"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "治療を受けた患者"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "日当"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "積極的な治療法"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ダッシュボード"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "コントロールパネルへようこそ"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ダッシュボードデータをロードできませんでした"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "あなたの歯科医院の概要"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "新しい患者さん"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "忍耐強い"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "チタ"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "収入と支出"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "毎月の収入と支出の比較"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "最近の名言"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "最近の予定された予定"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "毎週の予定"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "週中の予定の配分"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "概要"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "一般的なクリニックの統計"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "総患者数"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "保留中の借金"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "今後の予定"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "月々の残高"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "総収益"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "総経費"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ネトのバランスをとる"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "保留中の支払い"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ファイナンス"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "クリニックの財務を管理する"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "クリニックの財務概要"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "支払いの登録"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "最近の収入"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "最新の収益の動き"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "最近の収入は表示されません"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "最近の出費"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "最近の経費の動き"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "最近の支出は表示されません"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "歯科医、専門分野を検索…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "名前、専門分野、クリニックで歯医者を検索"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "地図でオフィスを見る"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "地図"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "議題はCita Dentalです"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "素早く簡単に、あなただけでなく、誰でもご利用いただけます。"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "私たちの歯科医"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "すべてのクリニックの専門医"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "「」の結果はありません"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "予約する"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "もっと見る"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "オフィスでtoothxを使用してください"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "トップに戻る"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex で実践を成長させましょう"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "歯科医と患者をつなぐプラットフォーム。プロフィールを作成し、オフィスを登録して、今すぐ予約の受け取りを開始してください。"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "歯科医のプロフィールを作成する"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "無料で始められます・クレジットカードは不要です"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "患者を検索..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "バージョン"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "患者"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "患者を管理する"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "患者さんの情報を管理します"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "患者リスト"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " 忍耐強い"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " 見つかった"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "まだ患者さんは登録されていません"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "患者は見つかりませんでした"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "メインストリート #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "一般歯科"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "ニーズに応じてアプリをカスタマイズする"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "一般的な"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "通知。"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "安全"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "彼"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "一般設定"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "一般的なクリニックの設定"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "クリニック名"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "住所"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "電話"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "電子メール"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "変更を保存"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "プロフィール情報"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "個人情報を更新する"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "フルネーム"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "専門"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "プロフィールを更新する"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "通知の設定"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "通知の受け取り方法を設定する"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "予約の通知"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "今後の予定のリマインダーを受け取る"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "有効にする"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "支払い通知"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "保留中の支払いに関するアラートを受け取る"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "電子メール通知"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "メールで通知を受け取る"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "アカウントのセキュリティを管理する"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "現在のパスワード"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "新しいパスワード"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "新しいパスワードを確認する"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "パスワードを変更する"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "外観"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "アプリの外観をカスタマイズする"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "ダークモード"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ライトモードとダークモードを切り替えます"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "活性化"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "フォントサイズ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "文字サイズを調整する"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "設定する"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "進行中"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "満たされた"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "キャンセル"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "イヤリング"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "保留中"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "治療法"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "治療を管理する"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "歯科治療の管理"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "新しい治療法"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "治療リスト"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " 処理"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " 登録済み"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "登録された治療法はありません"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "無名"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "忍耐強い： "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "未割り当て"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "詳細を見る"
+  }
+}

@@ -1,0 +1,84 @@
+# ── Large data — NEVER in any image ──────────────────────────────────────────
+# Device backups / imports — can be 10s of GBs
+imports/
+imports/**
+# Media uploads (mounted as volume at runtime)
+backend/media/
+# Staticfiles (generated at runtime)
+backend/config/staticfiles/
+# Private assets
+private_assets/
+# Large binary/archive files
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.rar
+*.7z
+*.iso
+*.raw
+*.img
+# Allow DB snapshots committed for deployment restore
+!backend/backup/start/*.tar.gz
+
+# ── Frontend — keep source, exclude build artifacts & node_modules ────────────
+node_modules/
+**/node_modules/
+frontend/web/.next/
+frontend/web/out/
+frontend/web/node_modules/
+frontend/mobile/node_modules/
+frontend/mobile/**/android/
+frontend/mobile/**/ios/
+frontend/mobile/**/.gradle/
+frontend/mobile/**/build/
+frontend/mobile/**/builds/
+frontend/mobile/**/.expo/
+frontend/mobile/**/.expo-shared/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+.eggs/
+
+# ── Dev environment ───────────────────────────────────────────────────────────
+.env
+.venv/
+venv/
+env/
+
+# ── VCS / CI ──────────────────────────────────────────────────────────────────
+.git
+.gitignore
+.editorconfig
+.gitattributes
+.github
+.gitlab-ci.yml
+.pre-commit-config.yaml
+.travis.yml
+.pem
+
+# ── Editor / OS ───────────────────────────────────────────────────────────────
+*.swp
+*.swo
+**/.DS_Store
+.idea/
+.vscode/
+
+# ── Docker meta (already in use) ──────────────────────────────────────────────
+.dockerignore
+.docker/
+docker-compose*.yml
+dev.yml
+dev.sh
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

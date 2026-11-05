@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "други"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Управлявайте срещите си"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Грешка"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Опитайте отново"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Управлявайте календара на срещите"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Нова среща"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Календар на срещите"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " сънувам"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " планирано"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Няма записани часове"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Клиничен изглед"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Клиничната история се зарежда..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Медицинска история, клинични бележки и одонтограма на пациента"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Демо данни"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Последна актуализация: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Медицинска история"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Клинични бележки"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Одонтограма"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "файлове"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Пародонтограма"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Хронични заболявания"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Няма регистрирани хронични заболявания"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Актуални лекарства"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Няма регистрирани лекарства"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Алергии"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Не са известни алергии"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Предишни стоматологични лечения"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Няма регистрирани предишни лечения"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Навици и наблюдения"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Пушач"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "непушач"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Консумирайте алкохол"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Не консумирайте алкохол"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Няма записана медицинска история"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Създайте медицинска история"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " използване"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " клиника"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Нова бележка"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Няма записани клинични бележки"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Клинични наблюдения"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " архив"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Качване на файл"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Няма прикачени клинични файлове"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Клинична снимка"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Рентгенография"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF документ"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "други"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Преглед на файла"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Файлът не е наличен в демо режим"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Качен от: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Ненормални стойности"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 измервания на зъб (нормален диапазон: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Сервира се"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "М2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "М3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Сервира се "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Бележки"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Няма записана пародонтограма"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Създайте пародонтограма"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Планирано"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Потвърдено"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Завършено"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Отменено"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Потвърдете"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Отказ"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Клиника Монтерей"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Клиника CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Клиника Гуадалахара"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Насрочване на час"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Връщане"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Увеличете мащаба"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Премахнете"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Моето местоположение"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Търсете..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Няма намерени резултати"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Показване "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " на"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " резултати"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Преден"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Страница "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " на "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Следване"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Система за управление на стоматологичен кабинет."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Условия"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Поверителност"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Помощ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Търсене на пациенти, срещи..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "г"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Известия"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Насрочена е нова среща"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Хуан Перес - Почистване на зъбите в 10:00 ч"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Напомняне за плащане"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González има предстоящо плащане от $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Отменена среща"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Карлос Руис отмени срещата си в петък"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Моят акаунт"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Профил"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Конфигурация"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Излезте"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Сано"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "кариес"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "С капаци"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "отсъства"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "при лечение"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Горна арка"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Долна арка"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Актив"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "празен ход"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Следваща среща:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Вижте подробности"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Насрочване на час"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% от миналия месец"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "затвори"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Днешните цитати"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Обслужвани пациенти"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Дневен доход"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Активни лечения"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Табло за управление"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Добре дошли във вашия контролен панел"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Данните от таблото не можаха да бъдат заредени"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Резюме на вашата дентална клиника"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Нов пациент"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "пациент"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Цита"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Приходи срещу разходи"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Месечно сравнение на приходите и разходите"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Последни цитати"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Последни насрочени срещи"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Седмични срещи"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Разпределение на ангажиментите през седмицата"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Общо резюме"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Обща клинична статистика"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Общ брой пациенти"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Висящи дългове"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Предстоящи назначения"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Месечен баланс"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Общи приходи"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Общо разходи"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Баланс Нето"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Предстоящи плащания"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Финанси"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Управлявайте финансите на вашата клиника"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Финансово резюме на вашата клиника"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Регистрирайте плащане"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Скорошни приходи"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Последни движения на приходите"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Няма скорошни приходи за показване"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Скорошни разходи"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Последни движения на разходите"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Няма скорошни разходи за показване"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Търсене на зъболекар, специалност..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Търсете зъболекар по име, специалност или клиника"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Вижте офисите на картата"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Карта"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Дневният ред е Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Бързо, лесно - за вас и за когото искате."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Нашите зъболекари"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Специалисти във всички клиники"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Няма резултати за „"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "резерва"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Вижте повече"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Използвайте toothx във вашия офис"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Обратно в началото"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Разширете практиката си с Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Платформата, която свързва зъболекари с пациенти. Създайте своя профил, регистрирайте офисите си и започнете да получавате срещи днес."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Създайте профил на зъболекар"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Безплатно начало · Без кредитна карта"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Търсете пациенти..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "вер"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "пациенти"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Управлявайте пациентите си"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Управлявайте информацията за вашите пациенти"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Списък на пациентите"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " пациент"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " намерени"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Все още няма регистрирани пациенти"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Няма открити пациенти"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Главна улица №123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Обща стоматология"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Персонализирайте приложението според вашите нужди"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "генерал"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Уведомяване."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "сигурност"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "той"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Общи настройки"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Общи настройки на клиниката"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Име на клиниката"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Адрес"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Телефон"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Имейл"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Запазване на промените"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Информация за профила"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Актуализирайте личната си информация"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Пълно име"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Специалност"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Актуализиране на профил"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Предпочитания за известия"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Конфигурирайте как искате да получавате известия"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Известия за срещи"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Получавайте напомняния за предстоящи срещи"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Активиране"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Известия за плащане"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Получавайте известия за чакащи плащания"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Известия по имейл"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Получавайте известия на вашия имейл"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Управлявайте сигурността на вашия акаунт"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Текуща парола"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Нова парола"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Потвърдете новата парола"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Промяна на паролата"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Външен вид"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Персонализирайте външния вид на приложението"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Тъмен режим"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Превключване между светъл и тъмен режим"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Активирайте"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Размер на шрифта"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Регулирайте размера на текста"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Конфигуриране"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "В ход"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Напълнена"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Отменено"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Обица за ухо"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "в очакване"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Лечения"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Управлявайте леченията"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Управлявайте стоматологичните лечения"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Ново лечение"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Списък на лечение"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " лечение"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " регистриран"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Няма регистрирани лечения"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Без име"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "пациент: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Неприсвоен"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Вижте подробности"
+  }
+}

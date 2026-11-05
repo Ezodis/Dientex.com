@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Wengine"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Dhibiti miadi yako"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Hitilafu"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Jaribu tena"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Dhibiti kalenda ya miadi"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Uteuzi Mpya"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Kalenda ya Uteuzi"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ndoto"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " imepangwa"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Hakuna miadi iliyoratibiwa"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Mtazamo wa Kliniki"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Inapakia historia ya kliniki..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Historia ya matibabu, maelezo ya kliniki na odontogram ya mgonjwa"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Data ya onyesho"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Sasisho la mwisho: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Historia ya Matibabu"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Vidokezo vya Kliniki"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Faili"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Magonjwa ya muda mrefu"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Hakuna magonjwa sugu yaliyorekodiwa"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Dawa za Sasa"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Hakuna dawa zilizosajiliwa"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Mzio"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Hakuna mzio unaojulikana"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Matibabu ya meno ya awali"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Hakuna matibabu ya awali yaliyorekodiwa"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Mazoea na Uchunguzi"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Mvutaji sigara"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "asiyevuta sigara"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Kunywa pombe"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Usinywe pombe"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Hakuna historia ya matibabu iliyorekodiwa"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Unda historia ya matibabu"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " kutumia"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " zahanati"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Ujumbe mpya"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Hakuna maelezo ya kliniki yaliyorekodiwa"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Uchunguzi wa kliniki"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " kumbukumbu"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Pakia faili"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Hakuna faili za kliniki zilizoambatishwa"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Picha ya Kliniki"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografia"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "Hati ya PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Nyingine"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Tazama faili"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Faili haipatikani katika hali ya onyesho"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Imepakiwa na: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Maadili yasiyo ya kawaida"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "Vipimo 6 kwa kila jino (kiwango cha kawaida: 1-3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Imetumika"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Imetumika "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Vidokezo"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Hakuna periodontogram iliyorekodiwa"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Tengeneza periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Imepangwa"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Imethibitishwa"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Imekamilika"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Imeghairiwa"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Thibitisha"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Ghairi"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Kliniki ya Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Kliniki ya CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Kliniki ya Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Panga miadi"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Rudi"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Vuta karibu"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Ondoa"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Eneo langu"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Tafuta..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Hakuna matokeo yaliyopatikana"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Inaonyesha "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ya"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " matokeo"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Mbele"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Ukurasa "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ya "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Kufuatia"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Mfumo wa Usimamizi wa Ofisi ya meno."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Masharti"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Faragha"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Msaada"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Tafuta wagonjwa, miadi..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Arifa"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Uteuzi mpya umepangwa"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Kusafisha meno saa 10:00 asubuhi"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Kikumbusho cha malipo"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González ana malipo yanayosubiri ya $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Umeghairi miadi"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz alighairi miadi yake ya Ijumaa"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Akaunti Yangu"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Wasifu"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Usanidi"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Ondoka"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Caries"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Imefungwa"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Haipo"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "katika matibabu"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Arch ya Juu"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Arch ya chini"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Mali"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Bila kufanya kitu"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Miadi inayofuata:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Tazama Maelezo"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Uteuzi wa Ratiba"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% tangu mwezi uliopita"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Funga"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Maneno ya Leo"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Wagonjwa Waliohudumiwa"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Mapato ya Kila Siku"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Matibabu Amilifu"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Dashibodi"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Karibu kwenye paneli yako ya udhibiti"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Data ya dashibodi haikuweza kupakiwa"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Muhtasari wa kliniki yako ya meno"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Mgonjwa Mpya"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Mgonjwa"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Mapato dhidi ya Gharama"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Ulinganisho wa kila mwezi wa mapato na matumizi"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Nukuu za Hivi Karibuni"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Miadi iliyopangwa hivi karibuni"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Uteuzi wa Wiki"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Usambazaji wa miadi wakati wa wiki"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Muhtasari wa Jumla"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Takwimu za kliniki za jumla"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Jumla ya Wagonjwa"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Madeni Yanayosubiri"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Uteuzi Ujao"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Salio la Kila Mwezi"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Jumla ya Mapato"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Jumla ya Gharama"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Mizani Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Malipo Yanayosubiri"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Fedha"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Dhibiti fedha za kliniki yako"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Muhtasari wa kifedha wa kliniki yako"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Usajili wa Malipo"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Mapato ya Hivi Karibuni"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Harakati za hivi punde za mapato"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Hakuna mapato ya hivi majuzi ya kuonyesha"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Gharama za Hivi Karibuni"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Harakati za hivi karibuni za gharama"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Hakuna gharama za hivi majuzi za kuonyesha"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Tafuta daktari wa meno, mtaalamu..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Tafuta daktari wa meno kwa jina, taaluma au kliniki"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Tazama ofisi kwenye ramani"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Ramani"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Ajenda ni Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Haraka, rahisi - kwako na kwa yeyote unayemtaka."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Madaktari wetu wa meno"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Wataalamu katika kliniki zote"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Hakuna matokeo ya \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Hifadhi"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Tazama zaidi"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Tumia toothx katika ofisi yako"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Rudi juu"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Kuza mazoezi yako na Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Jukwaa linalounganisha madaktari wa meno na wagonjwa. Unda wasifu wako, sajili ofisi zako na uanze kupokea miadi leo."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Unda wasifu wa daktari wa meno"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Bure kuanza · Hakuna kadi ya mkopo"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Tafuta wagonjwa..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Wagonjwa"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Dhibiti wagonjwa wako"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Dhibiti taarifa za wagonjwa wako"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Orodha ya Wagonjwa"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " mgonjwa"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " kupatikana"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Bado hakuna wagonjwa waliosajiliwa"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Hakuna wagonjwa waliopatikana"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Barabara kuu #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Mkuu wa Meno"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Geuza kukufaa programu kulingana na mahitaji yako"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Mkuu"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Arifa."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Usalama"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Yeye"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Mipangilio ya Jumla"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Mipangilio ya kliniki ya jumla"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Jina la Kliniki"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Anwani"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Simu"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Barua pepe"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Hifadhi Mabadiliko"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Maelezo ya Wasifu"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Sasisha maelezo yako ya kibinafsi"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Jina Kamili"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Umaalumu"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Sasisha Wasifu"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Mapendeleo ya Arifa"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Sanidi jinsi unavyotaka kupokea arifa"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Arifa za Miadi"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Pokea vikumbusho vya miadi ijayo"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Wezesha"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Arifa za Malipo"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Pokea arifa kuhusu malipo yanayosubiri"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Arifa za Barua Pepe"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Pokea arifa katika barua pepe yako"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Dhibiti usalama wa akaunti yako"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Nenosiri la Sasa"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Nenosiri Mpya"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Thibitisha Nenosiri Jipya"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Badilisha Nenosiri"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Muonekano"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Geuza kukufaa mwonekano wa programu"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Hali ya Giza"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Badilisha kati ya hali ya mwanga na giza"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Washa"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Ukubwa wa herufi"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Rekebisha ukubwa wa maandishi"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Sanidi"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Inaendelea"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Imejazwa"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Imeghairiwa"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "hereni"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "inasubiri"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Matibabu"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Dhibiti matibabu"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Dhibiti matibabu ya meno"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Matibabu Mpya"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Orodha ya Matibabu"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " matibabu"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " kusajiliwa"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Hakuna matibabu yaliyosajiliwa"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Bila jina"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Mgonjwa: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Haijakabidhiwa"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Tazama maelezo"
+  }
+}

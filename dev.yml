@@ -1,0 +1,358 @@
+# To start the dev environment, run: ./dev.sh
+# Manual run (no mobile services): podman-compose -f dev.yml up -d --build db backend frontend
+#
+# Project integrations and extra services belong in backend/project.py.
+
+volumes:
+  db_data:
+  redis_data:
+  frontend_node_modules:
+  frontend_next:
+
+# Join the shared traefik network so the global Traefik can reach containers
+networks:
+  traefik:
+    external: true
+  default:
+    driver: bridge
+
+services:
+
+  backend:
+    image: ${COMPOSE_PROJECT_NAME}_backend:latest
+    build:
+      context: .
+      dockerfile: backend/config/Dockerfile.development
+    env_file:
+      - .env
+    command:
+      - sh
+      - -c
+      - |
+        if [ "$${PUBLIC_SERVE:-false}" = "true" ]; then
+          exec gunicorn --config config/gunicorn.conf.py config.wsgi:application
+        else
+          exec python manage.py runserver 0.0.0.0:8000
+        fi
+    environment:
+      DJANGO_SECRET_KEY: "${DJANGO_SECRET_KEY:?Set DJANGO_SECRET_KEY in the root .env}"
+      DJANGO_DEBUG: "${DJANGO_DEBUG:-true}"
+      COMPOSE_PROJECT_NAME: "${COMPOSE_PROJECT_NAME}"
+      PROJECT_HOST: "${PROJECT_HOST}"
+      DEV_HOST: "${DEV_HOST}"
+      DB_HOST: "db"
+      DB_PORT: "5432"
+      DB_NAME: "${DB_NAME:-postgres}"
+      DB_USER: "${DB_USER:-postgres}"
+      DB_PASSWORD: "${DB_PASSWORD:-postgres}"
+      REDIS_HOST: "redis"
+      REDIS_PORT: "6379"
+      REDIS_DB: "0"
+      EXPO_PUBLIC_ENV: "development"
+    volumes:
+      - ./backend:/backend:delegated
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health/"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
+      start_period: 10s
+    networks:
+      - default
+      - traefik
+    labels:
+      # Tell global Traefik to route ${DEV_HOST}/api → this container
+      - "traefik.enable=true"
+      - "traefik.docker.network=traefik"
+      # Each local hostname is explicitly scoped to this project.
+      # Tunnel routes are registered by hostname via the Traefik file provider.
+      # Unknown hosts must never fall through to another project.
+      # API routes — development (high priority)
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api.rule=Host(`${DEV_HOST}`) && PathPrefix(`/api`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api.entrypoints=web"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api.middlewares=${COMPOSE_PROJECT_NAME}-strip-api,${COMPOSE_PROJECT_NAME}-compress"
+      - "traefik.http.middlewares.${COMPOSE_PROJECT_NAME}-strip-api.stripprefix.prefixes=/api"
+      - "traefik.http.middlewares.${COMPOSE_PROJECT_NAME}-compress.compress=true"
+      # Admin / static / media routes — development (high priority)
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin.rule=Host(`${DEV_HOST}`) && PathPrefix(`/admin`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin.entrypoints=web"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin.middlewares=${COMPOSE_PROJECT_NAME}-compress"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static.rule=Host(`${DEV_HOST}`) && PathPrefix(`/static`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static.entrypoints=web"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media.rule=Host(`${DEV_HOST}`) && PathPrefix(`/media`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media.entrypoints=web"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media.priority=100"
+      # Backend service port
+      - "traefik.http.services.${COMPOSE_PROJECT_NAME}-backend.loadbalancer.server.port=8000"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.rule=Host(`${DEV_HOST}`) && PathPrefix(`/api`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.entrypoints=websecure"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.middlewares=${COMPOSE_PROJECT_NAME}-strip-api,${COMPOSE_PROJECT_NAME}-compress"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.tls=true"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-api-https.tls.certresolver=${DEV_TLS_RESOLVER:-}"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.rule=Host(`${DEV_HOST}`) && PathPrefix(`/admin`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.entrypoints=websecure"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.middlewares=${COMPOSE_PROJECT_NAME}-compress"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.tls=true"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-admin-https.tls.certresolver=${DEV_TLS_RESOLVER:-}"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static-https.rule=Host(`${DEV_HOST}`) && PathPrefix(`/static`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static-https.entrypoints=websecure"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static-https.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static-https.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static-https.tls=true"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-static-https.tls.certresolver=${DEV_TLS_RESOLVER:-}"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media-https.rule=Host(`${DEV_HOST}`) && PathPrefix(`/media`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media-https.entrypoints=websecure"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media-https.priority=100"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media-https.service=${COMPOSE_PROJECT_NAME}-backend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media-https.tls=true"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-media-https.tls.certresolver=${DEV_TLS_RESOLVER:-}"
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/web/Dockerfile
+    env_file:
+      - .env
+    command:
+      - sh
+      - -c
+      - |
+        if ! sha256sum -c node_modules/.dependency-manifest.sha256 >/dev/null 2>&1; then
+          npm ci --no-fund --loglevel=error || exit 1
+          sha256sum package.json package-lock.json > node_modules/.dependency-manifest.sha256
+        fi
+        if [ "$${PUBLIC_SERVE:-false}" = "true" ]; then
+          export NODE_ENV=production
+          npm run build && exec npm run start -- -H 0.0.0.0
+        else
+          exec npm run dev -- -H 0.0.0.0
+        fi
+    environment:
+      NODE_ENV: "development"
+      NEXT_TELEMETRY_DISABLED: "1"
+      # Polling is REQUIRED on macOS (Podman VM) and Windows (WSL2) — inotify/
+      # FSEvents don't fire across the host→VM→container volume-mount boundary.
+      # WATCHPACK_POLLING must be a NUMBER in ms ("true" silently uses 5007ms).
+      WATCHPACK_POLLING: "${WATCHPACK_POLLING:-1000}"
+      WATCHPACK_POLLING_INTERVAL: "${WATCHPACK_POLLING_INTERVAL:-1000}"
+      CHOKIDAR_USEPOLLING: "${CHOKIDAR_USEPOLLING:-true}"
+      CHOKIDAR_INTERVAL: "${CHOKIDAR_INTERVAL:-1000}"
+      DEV_HOST: "${DEV_HOST}"
+      NEXT_PUBLIC_URL: "https://${DEV_HOST}"
+      NEXT_PUBLIC_API_URL: "/api"
+      NEXT_PUBLIC_CSRF_COOKIE_NAME: "__Host-dev-csrftoken"
+    volumes:
+      - ./frontend/web:/app:z
+      - ./frontend/mobile/shared:/app/shared:z
+      - frontend_node_modules:/app/node_modules
+      - frontend_next:/app/.next
+    # No host port binding — frontend is ONLY accessible via Traefik at
+    # https://${DEV_HOST} (port 443). Direct :3000 access is
+    # intentionally blocked so HMR WebSocket uses the same HTTPS origin.
+    depends_on:
+      backend:
+        condition: service_healthy
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    healthcheck:
+      test: ["CMD", "node", "-e", "const r=require('http').get('http://127.0.0.1:3000/',res=>{res.resume();process.exit(res.statusCode<400?0:1)});r.setTimeout(5000,()=>{r.destroy();process.exit(1)});r.on('error',()=>process.exit(1))"]
+      interval: 15s
+      timeout: 8s
+      retries: 20
+      start_period: 120s
+    networks:
+      - default
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=traefik"
+      # ── Frontend routers ──────────────────────────────────────────────────
+      # No compression middleware on ANY frontend router.
+      # Reason: Traefik applies middleware before inspecting whether a request
+      # is a WebSocket upgrade. The compress middleware rewrites headers in a
+      # way that prevents the Upgrade handshake from completing, killing HMR
+      # for BOTH the initial development load and the tunnel hostname.
+      # Compression on a Next.js dev server is not worth the tradeoff anyway.
+      #
+      # passHostHeader=true ensures Next.js inside the container sees the real
+      # public Host header (e.g. "dev.myapp.com", no port), so the HMR
+      # client script it injects into every page builds the WebSocket URL as:
+      #   wss://dev.myapp.com/_next/webpack-hmr  (port 443 = Traefik) ✓
+      # instead of ws://dev.myapp.com:3000/...  (unreachable from browser)
+      #
+      # Canonical development hostname (high priority)
+      # Redirect the whole local site before it loads: secure session cookies
+      # and API requests must share the same HTTPS origin.
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-local-https-redirect.rule=Host(`${DEV_HOST}`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-local-https-redirect.entrypoints=web"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-local-https-redirect.priority=1000"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-local-https-redirect.service=noop@internal"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-local-https-redirect.middlewares=${COMPOSE_PROJECT_NAME}-local-https-redirect"
+      - "traefik.http.middlewares.${COMPOSE_PROJECT_NAME}-local-https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.middlewares.${COMPOSE_PROJECT_NAME}-local-https-redirect.redirectscheme.permanent=true"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend.rule=Host(`${DEV_HOST}`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend.entrypoints=web"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend.priority=10"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend.service=${COMPOSE_PROJECT_NAME}-frontend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend-https.rule=Host(`${DEV_HOST}`)"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend-https.entrypoints=websecure"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend-https.priority=10"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend-https.service=${COMPOSE_PROJECT_NAME}-frontend"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend-https.tls=true"
+      - "traefik.http.routers.${COMPOSE_PROJECT_NAME}-frontend-https.tls.certresolver=${DEV_TLS_RESOLVER:-}"
+      # ── Frontend service ──────────────────────────────────────────────────
+      - "traefik.http.services.${COMPOSE_PROJECT_NAME}-frontend.loadbalancer.server.port=3000"
+      - "traefik.http.services.${COMPOSE_PROJECT_NAME}-frontend.loadbalancer.passHostHeader=true"
+    restart: unless-stopped
+
+  eas-build:
+    profiles: ["eas"]
+    image: node:24-alpine
+    working_dir: /app
+    env_file:
+      - .env
+    environment:
+      APP: "${APP:-all}"
+      PLATFORM: "${PLATFORM:-ios}"
+      PROFILE: "${PROFILE:-development}"
+    volumes:
+      - ./frontend/mobile:/app
+      - ./frontend/mobile/mobile.sh:/mobile.sh:ro
+    command:
+      - sh
+      - -c
+      - |
+        apk add --no-cache curl git bash &&
+        npm install -g eas-cli --silent &&
+        eas whoami || (echo '❌ EXPO_TOKEN is not set in .env' && exit 1) &&
+        echo '📦 Running EAS build for $$APP on $$PLATFORM...' &&
+        /mobile.sh eas-build
+
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: "${DB_NAME:-postgres}"
+      POSTGRES_USER: "${DB_USER:-postgres}"
+      POSTGRES_PASSWORD: "${DB_PASSWORD:-postgres}"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "${DB_USER:-postgres}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: always
+
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: always
+
+
+# Initialization Section ------------------
+  backend-init:
+    profiles: ["init"]
+    image: python:3.11-slim
+    volumes:
+      - ./backend:/app
+    working_dir: /app
+    command: >
+      sh -c "echo '✅ Backend initialization complete!'"
+
+  frontend-init:
+    profiles: ["init"]
+    image: node:24
+    volumes:
+      - ./frontend/web:/app
+    working_dir: /app
+    command: >
+      sh -c "
+        echo '📦 Starting frontend initialization...' &&
+        npm install -g npm@latest &&
+        echo '🔄 Backing up custom files...' &&
+        mkdir -p /tmp/backup &&
+        if [ -f Dockerfile ]; then cp Dockerfile /tmp/backup/; fi &&
+        if [ -f next.config.ts ]; then cp next.config.ts /tmp/backup/; fi &&
+        if [ -f app/components/api.ts ]; then mkdir -p /tmp/backup/app/components && cp app/components/api.ts /tmp/backup/app/components/; fi &&
+        echo '🧹 Cleaning frontend directory completely...' &&
+        rm -rf /app/* /app/.* 2>/dev/null || true &&
+        echo '🏗  Running create-next-app...' &&
+        npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir=false --import-alias='@/*' --turbopack --no-git &&
+        echo '📦 Installing dependencies...' &&
+        npm install &&
+        echo '🔙 Restoring custom files...' &&
+        if [ -f /tmp/backup/Dockerfile ]; then mv /tmp/backup/Dockerfile ./; fi &&
+        if [ -f /tmp/backup/next.config.ts ]; then mv /tmp/backup/next.config.ts ./; fi &&
+        if [ -f /tmp/backup/app/components/api.ts ]; then mkdir -p app/components && mv /tmp/backup/app/components/api.ts app/components/; fi &&
+        echo '✅ Frontend initialization complete!'
+      "
+
+  app-init:
+    profiles: ["init"]
+    image: python:3.11-slim
+    volumes:
+      - ./backend:/app
+    working_dir: /app
+    command: >
+      sh -c "
+      apt-get update &&
+      apt-get install -y sed &&
+      pip install --upgrade pip --root-user-action=ignore &&
+      pip install django python-decouple djangorestframework django-cors-headers --root-user-action=ignore &&
+      django-admin startapp ${APP_NAME:-app}
+      "
+    environment:
+      - APP_NAME=${APP_NAME:-app}
+
+# Backup tools reuse the project's backend image and storage configuration.
+  backup-snapshot: &backup-runtime
+    profiles: ["backup"]
+    image: ${COMPOSE_PROJECT_NAME}_backend:latest
+    env_file:
+      - .env
+    environment:
+      DB_HOST: db
+      DB_PORT: "5432"
+      FULL_BACKUP: "true"
+    volumes:
+      - ./backend:/backend
+    working_dir: /backend
+    depends_on:
+      db:
+        condition: service_healthy
+    entrypoint: ["bash", "/backend/backup/backup.sh"]
+    command: ["snapshot"]
+
+  backup-restore:
+    <<: *backup-runtime
+    command: ["restore", "${RESTORE_ARCHIVE:-}"]
+
+  backup-list:
+    <<: *backup-runtime
+    command: ["list"]

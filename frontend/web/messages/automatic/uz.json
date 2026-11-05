@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Boshqalar"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Uchrashuvlaringizni boshqaring"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Xato"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Qayta urinish"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Uchrashuv kalendarini boshqaring"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Yangi uchrashuv"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Uchrashuv kalendar"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " orzu"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " rejalashtirilgan"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Rejalashtirilgan uchrashuvlar yo'q"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinik ko'rinish"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Klinik tarix yuklanmoqda..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Kasallik tarixi, klinik yozuvlari va bemorning odontogrammasi"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo ma'lumotlari"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Oxirgi yangilanish: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Tibbiyot tarixi"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Klinik eslatmalar"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogramma"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Fayllar"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontogramma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Surunkali kasalliklar"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Surunkali kasalliklar qayd etilmagan"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Hozirgi dorilar"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Ro'yxatdan o'tgan dorilar yo'q"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Allergiya"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Allergiya ma'lum emas"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Oldingi stomatologik muolajalar"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Oldingi muolajalar qayd etilmagan"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Odatlar va kuzatishlar"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Chekuvchi"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "chekmaydigan"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Spirtli ichimliklarni iste'mol qiling"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Spirtli ichimliklarni iste'mol qilmang"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Kasallik tarixi qayd etilmagan"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Tibbiy tarixni yarating"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " foydalanish"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinika"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Yangi eslatma"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Hech qanday klinik qayd etilmagan"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Klinik kuzatuvlar"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arxiv"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Faylni yuklash"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Hech qanday klinik fayllar biriktirilmagan"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klinik fotosurat"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografiya"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF hujjat"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Boshqa"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Faylni ko'rish"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Fayl demo rejimida mavjud emas"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Yuklagan: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Anormal qiymatlar"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "Har bir tish uchun 6 ta o'lchov (normal diapazon: 1-3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Xizmat qilingan"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Xizmat qilingan "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Eslatmalar"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Periodontogramma qayd etilmagan"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Periodontogramma yaratish"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Rejalashtirilgan"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Tasdiqlangan"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Bajarildi"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Bekor qilingan"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Tasdiqlang"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Bekor qilish"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey klinikasi"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX klinikasi"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Gvadalaxara klinikasi"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Uchrashuvni rejalashtirish"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Qaytish"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Kattalashtirish"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "O'chirish"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Mening joylashuvim"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Izlamoq..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Hech qanday natija topilmadi"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Koʻrsatilmoqda "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ning"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " natijalar"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Oldingi"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Sahifa "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ning "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Kuzatish"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Stomatologiya idorasini boshqarish tizimi."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Shartlar"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Maxfiylik"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Yordam"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Bemorlarni qidirish, uchrashuvlar..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Bildirishnomalar"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Yangi uchrashuv rejalashtirilgan"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Xuan Peres - 10:00 da stomatologik tozalash"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "To'lov eslatmasi"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "Mariya Gonsalesning 500 dollar to‘lashi kutilmoqda"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Uchrashuv bekor qilindi"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Karlos Ruiz juma kungi uchrashuvini bekor qildi"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Mening hisobim"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfiguratsiya"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Tizimdan chiqish"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Kariyes"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Yopilgan"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Yo'q"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "davolashda"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Yuqori ark"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Pastki ark"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Aktiv"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Bo'sh"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Keyingi uchrashuv:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Tafsilotlarga qarang"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Uchrashuvni rejalashtirish"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% oʻtgan oydan beri"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Yopish"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Bugungi Iqtiboslar"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Bemorlarga xizmat ko'rsatish"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Kundalik daromad"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Faol muolajalar"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Boshqaruv paneli"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Boshqaruv panelingizga xush kelibsiz"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Boshqaruv paneli maʼlumotlarini yuklab boʻlmadi"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Tish klinikangiz haqida qisqacha ma'lumot"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Yangi Bemor"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Bemor"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Daromad va xarajatlar"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Oylik daromad va xarajatlarni taqqoslash"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Oxirgi iqtiboslar"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "So'nggi rejalashtirilgan uchrashuvlar"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Haftalik uchrashuvlar"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Hafta davomida uchrashuvlarni taqsimlash"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Umumiy xulosa"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Umumiy klinik statistika"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Jami bemorlar"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Kutilayotgan qarzlar"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Kelgusi uchrashuvlar"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Oylik balans"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Jami daromad"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Jami xarajatlar"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Netoni muvozanatlashtiring"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Kutilayotgan to'lovlar"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Moliya"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Klinikangizning moliyasini boshqaring"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Klinikangizning moliyaviy xulosasi"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "To'lovni ro'yxatdan o'tkazish"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Oxirgi daromad"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "So'nggi daromad harakati"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Ko'rsatish uchun oxirgi daromad yo'q"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Oxirgi xarajatlar"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "So'nggi xarajatlar harakati"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Ko'rsatish uchun oxirgi xarajatlar yo'q"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Tish shifokori, mutaxassislikni qidiring..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Tish shifokorini ismi, mutaxassisligi yoki klinikasi bo'yicha qidiring"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Xaritada ofislarni ko'ring"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Xarita"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Kun tartibi - Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Tez, oson - siz va xohlaganingiz uchun."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Bizning stomatologlarimiz"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Barcha klinikalarda mutaxassislar"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "“ uchun hech qanday natija yo‘q"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Zaxira"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Batafsil"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Ofisingizda toothx dan foydalaning"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Yuqoriga qaytish"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex bilan amaliyotingizni rivojlantiring"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Stomatologlarni bemorlar bilan bog'laydigan platforma. Profilingizni yarating, ofislaringizni ro'yxatdan o'tkazing va bugunoq uchrashuvlarni qabul qilishni boshlang."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Tish shifokori profilini yarating"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Boshlash bepul · Kredit kartasiz"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Bemorlarni qidirish..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Bemorlar"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Bemorlaringizni boshqaring"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Bemorlaringiz haqidagi ma'lumotlarni boshqaring"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Bemorlar ro'yxati"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " sabr"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " topildi"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Hozircha ro'yxatga olingan bemorlar yo'q"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Bemor topilmadi"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Asosiy ko'cha №123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Umumiy stomatologiya"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Ilovani ehtiyojlaringizga qarab sozlang"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "General"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Bildirishnoma."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Xavfsizlik"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "U"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Umumiy sozlamalar"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Umumiy klinika sozlamalari"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinikaning nomi"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Manzil"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Elektron pochta"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "O'zgarishlarni saqlash"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profil haqida ma'lumot"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Shaxsiy ma'lumotlaringizni yangilang"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "To'liq ism"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Mutaxassislik"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Profilni yangilash"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Bildirishnomalar sozlamalari"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Bildirishnomalarni qanday qabul qilishni sozlang"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Uchrashuv haqida bildirishnomalar"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Kelgusi uchrashuvlar haqida eslatmalarni oling"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Yoqish"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "To'lov bildirishnomalari"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Kutilayotgan to'lovlar haqida ogohlantirishlarni oling"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Elektron pochta xabarnomalari"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Elektron pochtangizda bildirishnomalarni oling"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Hisobingiz xavfsizligini boshqaring"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Joriy parol"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Yangi parol"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Yangi parolni tasdiqlang"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Parolni o'zgartirish"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Tashqi ko'rinish"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Ilovaning ko'rinishini moslashtiring"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Qorong'i rejim"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Yorug'lik va qorong'i rejim o'rtasida almashish"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Faollashtirish"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Shrift hajmi"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Matn hajmini sozlang"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Sozlang"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Jarayonda"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Toʻldirilgan"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Bekor qilingan"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Sirg'a"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "kutilmoqda"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Muolajalar"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Davolash usullarini boshqaring"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Tish muolajalarini boshqaring"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Yangi davolash"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Davolash ro'yxati"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " davolash"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " ro'yxatdan o'tgan"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Ro'yxatga olingan davolash usullari yo'q"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Nomsiz"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Bemor: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Tayinlanmagan"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Tafsilotlarni ko'ring"
+  }
+}

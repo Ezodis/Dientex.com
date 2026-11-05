@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "muut"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Hallitse tapaamisiasi"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Virhe"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Yritä uudelleen"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Hallitse tapaamiskalenteria"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Uusi tapaaminen"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Ajanvarauskalenteri"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " unelma"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " ajoitettu"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Ei ole sovittuja tapaamisia"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Kliininen näkymä"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Ladataan kliinistä historiaa..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Potilaan sairaushistoria, kliiniset muistiinpanot ja odontogrammi"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo tiedot"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Viimeisin päivitys: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Lääketieteellinen historia"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Kliiniset huomautukset"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogrammi"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Tiedostot"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Parodontogrammi"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Krooniset sairaudet"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Kroonisia sairauksia ei ole kirjattu"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Nykyiset lääkkeet"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Ei rekisteröityjä lääkkeitä"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Allergiat"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Ei tunnettuja allergioita"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Aiemmat hammashoidot"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Aiempia hoitoja ei ole kirjattu"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Tottumukset ja havainnot"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Tupakoitsija"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "tupakoimaton"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Kuluttaa alkoholia"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Älä käytä alkoholia"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Mitään sairaushistoriaa ei ole tallennettu"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Luo sairaushistoria"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " käyttää"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinikka"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Uusi muistiinpano"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Kliinisiä huomautuksia ei ole tallennettu"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Kliiniset havainnot"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arkisto"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Lataa tiedosto"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Kliinisiä tiedostoja ei ole liitetty"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Kliininen valokuva"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografia"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF-dokumentti"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Muut"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Näytä tiedosto"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Tiedosto ei ole käytettävissä esittelytilassa"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Lähettäjä: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Epänormaalit arvot"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 mittausta hammasta kohden (normaali alue: 1-3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Palveltu"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Palveltu "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Huomautuksia"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Parodontogrammia ei ole tallennettu"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Luo parodontogrammi"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Aikataulutettu"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Vahvistettu"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Valmis"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Peruutettu"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Vahvistaa"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Peruuttaa"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterreyn klinikka"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX klinikka"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajaran klinikka"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Sovi tapaaminen"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Palata"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Lähennä"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Poistaa"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Minun sijaintini"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Etsiä..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Tuloksia ei löytynyt"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Näytetään "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " /"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " tuloksia"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Etuosa"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Sivu "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " / "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Jälkeen"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Hammaslääkärin toimiston hallintajärjestelmä."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Ehdot"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Yksityisyys"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Apua"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Hae potilaita, aikoja..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Ilmoitukset"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Uusi tapaaminen sovittu"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Hampaiden puhdistus klo 10.00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Maksumuistutus"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María Gonzálezilla on odottava 500 dollarin maksu"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Peruutettu tapaaminen"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz perui perjantain tapaamisensa"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Oma tili"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profiili"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Kokoonpano"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Kirjaudu ulos"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Karies"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Suljettu"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Poissa"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "hoidossa"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Yläkaari"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Alempi kaari"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Omaisuus"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Tyhjäkäynti"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Seuraava tapaaminen:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Katso tiedot"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Sovi tapaaminen"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% viime kuusta"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Lähellä"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Tämän päivän lainaukset"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Potilaat palvellaan"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Päivittäiset tulot"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktiiviset hoidot"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Kojelauta"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Tervetuloa ohjauspaneeliisi"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Hallintapaneelin tietoja ei voitu ladata"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Yhteenveto hammasklinikastasi"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Uusi potilas"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Potilas"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Tulot vs kulut"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Kuukausittainen tulojen ja menojen vertailu"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Viimeaikaiset lainaukset"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Viimeisimmät sovitut tapaamiset"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Viikoittaiset tapaamiset"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Aikojen jako viikon aikana"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Yleinen yhteenveto"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Yleiset klinikan tilastot"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Potilaita yhteensä"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Odottavat velat"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Tulevat tapaamiset"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Kuukauden saldo"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Kokonaistulot"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Kokonaiskulut"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balance Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Odottavat maksut"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Rahoitus"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Hallitse klinikasi taloutta"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Taloudellinen yhteenveto klinikaltasi"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Rekisteröi maksu"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Viimeaikaiset tulot"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Viimeisimmät tuloliikkeet"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Ei viimeaikaisia ​​tuloja näytettäväksi"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Viimeaikaiset kulut"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Viimeisimmät kululiikkeet"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Ei viimeaikaisia ​​kuluja näytettäväksi"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Etsi hammaslääkäri, erikoisuus…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Hae hammaslääkäriä nimen, erikoisalan tai klinikan mukaan"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Katso toimistot kartalta"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Kartta"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Esityslistalla on Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Nopeaa, helppoa – sinulle ja kenelle tahansa."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Meidän hammaslääkärit"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Asiantuntijat kaikilla klinikoilla"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Ei tuloksia haulle \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Varata"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Katso lisää"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Käytä toothxia toimistossasi"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Takaisin alkuun"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Kasvata harjoitteluasi Dientexin avulla"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Alusta, joka yhdistää hammaslääkärit potilaisiin. Luo profiilisi, rekisteröi toimistosi ja aloita tapaamisten vastaanottaminen jo tänään."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Luo hammaslääkäriprofiili"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Ilmainen aloittaa · Ei luottokorttia"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Etsi potilaita..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Potilaat"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Hallitse potilaitasi"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Hallinnoi potilaidesi tietoja"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Potilasluettelo"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " kärsivällinen"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " löytyi"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Potilaita ei ole vielä rekisteröity"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Potilaita ei löytynyt"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Pääkatu nro 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Yleinen hammaslääketiede"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Mukauta sovellus tarpeidesi mukaan"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Kenraali"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Ilmoitus."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Turvallisuus"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Hän"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Yleiset asetukset"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Yleiset klinikan asetukset"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinikan nimi"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Osoite"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Puhelin"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Sähköposti"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Tallenna muutokset"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profiilin tiedot"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Päivitä henkilötietosi"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Koko nimi"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Erikoisuus"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Päivitä profiili"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Ilmoitusasetukset"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Määritä, miten haluat vastaanottaa ilmoituksia"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Ajanvarausilmoitukset"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Vastaanota muistutuksia tulevista tapaamisista"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Ota käyttöön"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Maksuilmoitukset"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Vastaanota ilmoituksia odottavista maksuista"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Sähköposti-ilmoitukset"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Vastaanota ilmoituksia sähköpostiisi"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Hallinnoi tilisi suojausta"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Nykyinen salasana"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Uusi salasana"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Vahvista uusi salasana"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Vaihda salasana"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Ulkonäkö"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Mukauta sovelluksen ulkoasua"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Tumma tila"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Vaihda vaalean ja tumman tilan välillä"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktivoida"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Fontin koko"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Säädä tekstin kokoa"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Määritä"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Käynnissä"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Täytetty"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Peruutettu"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Korvarengas"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "vireillä"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Hoidot"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Hallitse hoitoja"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Hallitse hammashoitoja"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Uusi hoito"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Hoitoluettelo"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " hoitoon"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " rekisteröity"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Rekisteröityjä hoitoja ei ole"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Nimetön"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Potilas: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Ei määritetty"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Katso tiedot"
+  }
+}

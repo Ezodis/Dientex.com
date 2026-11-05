@@ -9,6 +9,7 @@ import { Skeleton } from "@/app/components/ui/skeleton"
 import { DataTable } from "@/app/components/data-table"
 import { UserPlus, Search } from "lucide-react"
 import apiClient from "@/app/lib/api"
+import { useInterfaceTranslator } from '../../localization/client'
 
 interface Patient {
   id: string | number
@@ -18,6 +19,7 @@ interface Patient {
 }
 
 export default function PatientsPage() {
+  const translate = useInterfaceTranslator()
   const [patients, setPatients] = useState<Patient[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -118,7 +120,7 @@ export default function PatientsPage() {
               <div className="relative">
                 <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
                 <Input
-                  placeholder="Buscar pacientes..."
+                  placeholder={translate("Buscar pacientes...")}
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   className="pl-8"

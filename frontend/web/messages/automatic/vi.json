@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Người khác"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Quản lý các cuộc hẹn của bạn"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Lỗi"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Thử lại"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Quản lý lịch hẹn"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Cuộc hẹn mới"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Lịch hẹn"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " mơ"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "S"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " theo lịch trình"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Không có cuộc hẹn nào được lên lịch"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Quan điểm lâm sàng"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Đang tải lịch sử lâm sàng..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Bệnh sử, ghi chú lâm sàng và đồ thị của bệnh nhân"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Dữ liệu demo"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Cập nhật lần cuối: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Lịch sử y tế"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Ghi chú lâm sàng"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Tập tin"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "nha chu"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Bệnh mãn tính"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Không ghi nhận bệnh mãn tính"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Thuốc hiện tại"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Không có thuốc đăng ký"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "dị ứng"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Không có dị ứng được biết đến"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Điều trị nha khoa trước đây"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Không có phương pháp điều trị trước đó được ghi lại"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Thói quen và quan sát"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "người hút thuốc"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "không hút thuốc"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Uống rượu"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Không uống rượu"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Không có lịch sử y tế được ghi lại"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Tạo lịch sử y tế"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " sử dụng"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " phòng khám"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Ghi chú mới"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Không có ghi chú lâm sàng nào được ghi lại"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Quan sát lâm sàng"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " lưu trữ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Tải tập tin lên"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Không có tập tin lâm sàng đính kèm"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Ảnh lâm sàng"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Chụp X quang"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "tài liệu PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Khác"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Xem tập tin"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Tệp không có sẵn ở chế độ demo"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Tải lên bởi: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Giá trị bất thường"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 phép đo trên mỗi răng (phạm vi bình thường: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Đã phục vụ"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Đã phục vụ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Ghi chú"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Không có hình ảnh nha chu được ghi lại"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Tạo nha chu"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Đã lên lịch"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Đã xác nhận"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Hoàn thành"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Đã hủy"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Xác nhận"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Hủy bỏ"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Phòng khám Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Phòng khám CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Phòng khám Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Lên lịch hẹn"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Trở lại"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Phóng to"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Di dời"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Vị trí của tôi"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Hãy tìm..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Không tìm thấy kết quả nào"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Đang hiển thị "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " của"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " kết quả"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "trước"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Trang "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " của "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Tiếp theo"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Hệ thống quản lý văn phòng nha khoa."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Điều khoản"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Sự riêng tư"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Sự giúp đỡ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Tìm kiếm bệnh nhân, cuộc hẹn..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Thông báo"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Đã lên lịch hẹn mới"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Vệ sinh răng miệng lúc 10:00 sáng"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Nhắc nhở thanh toán"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González có khoản thanh toán 500 USD đang chờ xử lý"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Đã hủy cuộc hẹn"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz đã hủy cuộc hẹn vào thứ Sáu"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Tài khoản của tôi"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Hồ sơ"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Cấu hình"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Đăng xuất"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "sâu răng"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "đóng cửa"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Vắng mặt"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "trong điều trị"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Vòm trên"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Vòm dưới"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Tài sản"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Nhàn rỗi"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Cuộc hẹn tiếp theo:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Xem chi tiết"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Lên lịch hẹn"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% kể từ tháng trước"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Đóng"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Báo giá hôm nay"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Bệnh nhân được phục vụ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Thu nhập hàng ngày"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Phương pháp điều trị tích cực"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Trang tổng quan"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Chào mừng đến với bảng điều khiển của bạn"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Không thể tải dữ liệu bảng điều khiển"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Tóm tắt phòng khám nha khoa của bạn"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Bệnh nhân mới"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Kiên nhẫn"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Thu nhập và chi phí"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "So sánh thu nhập và chi phí hàng tháng"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Báo giá gần đây"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Những cuộc hẹn đã lên lịch mới nhất"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Cuộc hẹn hàng tuần"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Phân bổ các cuộc hẹn trong tuần"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Tóm tắt chung"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Thống kê phòng khám đa khoa"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Tổng số bệnh nhân"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Nợ chờ xử lý"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Cuộc hẹn sắp tới"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Số dư hàng tháng"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Tổng doanh thu"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Tổng chi phí"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Số dư Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Thanh toán đang chờ xử lý"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Tài chính"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Quản lý tài chính của phòng khám của bạn"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Tóm tắt tài chính của phòng khám của bạn"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Đăng ký thanh toán"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Thu nhập gần đây"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Diễn biến doanh thu mới nhất"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Không có thu nhập gần đây để hiển thị"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Chi phí gần đây"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Biến động chi phí mới nhất"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Không có chi phí gần đây để hiển thị"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Tìm kiếm nha sĩ, chuyên khoa…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Tìm kiếm nha sĩ theo tên, chuyên khoa hoặc phòng khám"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Xem văn phòng trên bản đồ"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Bản đồ"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Chương trình nghị sự là Nha khoa Cita"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Nhanh chóng, dễ dàng — cho bạn và bất cứ ai bạn muốn."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "nha sĩ của chúng tôi"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Chuyên gia ở tất cả các phòng khám"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Không có kết quả cho “"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Dự trữ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Xem thêm"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Sử dụng Toothx trong văn phòng của bạn"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Quay lại đầu trang"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Phát triển hoạt động thực hành của bạn với Dietex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Nền tảng kết nối nha sĩ với bệnh nhân. Tạo hồ sơ của bạn, đăng ký văn phòng và bắt đầu nhận cuộc hẹn ngay hôm nay."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Tạo hồ sơ nha sĩ"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Bắt đầu miễn phí · Không cần thẻ tín dụng"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Tìm kiếm bệnh nhân..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Phiên bản"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "bệnh nhân"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Quản lý bệnh nhân của bạn"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Quản lý thông tin bệnh nhân của bạn"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Danh sách bệnh nhân"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " kiên nhẫn"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " thành lập"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Chưa có bệnh nhân nào đăng ký"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Không tìm thấy bệnh nhân"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Đường Chính #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Nha khoa tổng quát"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Tùy chỉnh ứng dụng theo nhu cầu của bạn"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Tổng quan"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Thông báo."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Bảo vệ"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Anh ta"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Cài đặt chung"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Cơ sở khám bệnh tổng quát"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Tên phòng khám"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Địa chỉ"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Điện thoại"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-mail"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Lưu thay đổi"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Thông tin hồ sơ"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Cập nhật thông tin cá nhân của bạn"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Tên đầy đủ"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Đặc sản"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Cập nhật hồ sơ"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Tùy chọn thông báo"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Định cấu hình cách bạn muốn nhận thông báo"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Thông báo cuộc hẹn"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Nhận lời nhắc về các cuộc hẹn sắp tới"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Cho phép"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Thông báo thanh toán"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Nhận thông báo về các khoản thanh toán đang chờ xử lý"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Thông báo qua email"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Nhận thông báo trong email của bạn"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Quản lý bảo mật tài khoản của bạn"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Mật khẩu hiện tại"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Mật khẩu mới"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Xác nhận mật khẩu mới"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Thay đổi mật khẩu"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Vẻ bề ngoài"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Tùy chỉnh giao diện của ứng dụng"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Chế độ tối"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Chuyển đổi giữa chế độ sáng và tối"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Kích hoạt"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Cỡ chữ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Điều chỉnh kích thước văn bản"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Cấu hình"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Đang tiến hành"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Điền"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Đã hủy"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Bông tai"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "chưa giải quyết"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Phương pháp điều trị"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Quản lý phương pháp điều trị"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Quản lý điều trị nha khoa"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Điều trị mới"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Danh sách điều trị"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " sự đối đãi"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " đăng ký"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Không có phương pháp điều trị nào được đăng ký"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Vô danh"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Kiên nhẫn: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Chưa được chỉ định"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Xem chi tiết"
+  }
+}

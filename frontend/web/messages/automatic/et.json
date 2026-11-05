@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "teised"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Hallake oma kohtumisi"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Viga"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Proovi uuesti"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Halda kohtumiste kalendrit"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Uus kohtumine"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Kohtumiste kalender"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " unistus"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " planeeritud"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Planeeritud kohtumisi pole"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Kliiniline vaade"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Kliinilise ajaloo laadimine..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Patsiendi haiguslugu, kliinilised märkmed ja odontogramm"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo andmed"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Viimane värskendus: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Meditsiini ajalugu"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Kliinilised märkused"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogramm"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Failid"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontogramm"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Kroonilised haigused"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Kroonilisi haigusi pole registreeritud"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Praegused ravimid"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Registreeritud ravimeid pole"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Allergia"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Teadaolevaid allergiaid pole"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Varasemad hambaravid"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Varasemaid ravimeetodeid pole registreeritud"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Harjumused ja tähelepanekud"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Suitsetaja"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "mittesuitsetaja"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Tarbi alkoholi"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Ei tarbi alkoholi"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Haiguslugu pole registreeritud"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Loo haiguslugu"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " kasutada"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " kliinik"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Uus märkus"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Kliinilisi märkmeid ei ole registreeritud"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Kliinilised vaatlused"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arhiiv"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Laadi fail üles"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Kliinilisi toimikuid ei ole lisatud"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Kliiniline foto"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiograafia"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF dokument"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "muud"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Vaata faili"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Fail pole demorežiimis saadaval"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Laadis üles: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Ebanormaalsed väärtused"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 mõõtmist hamba kohta (tavaline vahemik: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Serveeritud"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Serveeritud "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Märkmed"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Periodontogrammi pole registreeritud"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Loo periodontogramm"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Planeeritud"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Kinnitatud"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Lõpetatud"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Tühistatud"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Kinnita"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Tühista"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey kliinik"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX kliinik"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara kliinik"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Leppige kokku kohtumine"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Tagasi"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Suumi sisse"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Eemalda"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Minu asukoht"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Otsige..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Tulemusi ei leitud"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Kuvatakse "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " kohta"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " tulemusi"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Eesmine"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Lehekülg "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " kohta "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Jälgides"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Hambaravikabineti haldussüsteem."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Tingimused"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privaatsus"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Abi"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Patsientide otsimine, vastuvõtud..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Märguanded"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Uus kohtumine on planeeritud"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez – hammaste puhastamine kell 10.00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Makse meeldetuletus"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María Gonzálezil on ootel 500 dollari suurune makse"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Tühistatud kohtumine"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz tühistas oma reedese kohtumise"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Minu konto"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profiil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Seadistamine"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Logi välja"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Kaaries"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Sulguriga"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Puudub"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ravis"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Ülemine kaar"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Alumine kaar"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Vara"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Tühikäik"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Järgmine kohtumine:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Vaadake üksikasju"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Leppige kokku kohtumine"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% eelmisest kuust"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Sule"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Tänased tsitaadid"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Patsiendid teenindatud"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Igapäevane sissetulek"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktiivsed ravimeetodid"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Armatuurlaud"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Tere tulemast teie juhtpaneelile"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Armatuurlaua andmeid ei saanud laadida"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Teie hambakliiniku kokkuvõte"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Uus patsient"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Patsient"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Sissetulekud vs kulud"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Igakuine tulude ja kulude võrdlus"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Viimased tsitaadid"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Viimased kokkulepitud kohtumised"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Iganädalased kohtumised"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Kohtumiste jaotus nädala sees"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Üldine kokkuvõte"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Üldine kliiniku statistika"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Patsiente kokku"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Ootel võlad"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Eelseisvad kohtumised"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Kuu saldo"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Kogutulu"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Kulud kokku"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Tasakaalu Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Ootel maksed"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Rahandus"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Hallake oma kliiniku rahalisi vahendeid"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Teie kliiniku finantskokkuvõte"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Registreeri makse"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Hiljutine sissetulek"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Viimased tulude liikumised"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Hiljutised sissetulekud puuduvad"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Viimased kulud"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Viimased kulude liikumised"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Hiljutisi kulusid pole näidata"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Otsi hambaarsti, eriala…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Otsige hambaarsti nime, eriala või kliiniku järgi"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Vaata kontorid kaardil"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Kaart"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Päevakorras on Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Kiire, lihtne – teile ja kellele iganes soovite."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Meie hambaarstid"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Spetsialistid kõigis kliinikutes"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Päringule \"\" pole tulemusi"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Reserv"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Vaata rohkem"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Kasutage oma kontoris hambaid"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Tagasi üles"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Laiendage oma praktikat Dientexi abil"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Platvorm, mis ühendab hambaarste patsientidega. Looge oma profiil, registreerige oma kontorid ja alustage kohtumiste vastuvõtmist juba täna."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Looge hambaarsti profiil"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Alustamiseks tasuta · Krediitkaarti pole"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Otsige patsiente..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Patsiendid"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Hallake oma patsiente"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Hallake oma patsientide teavet"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Patsientide nimekiri"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " patsient"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " leitud"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Patsiente pole veel registreeritud"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Patsiente ei leitud"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Peatänav nr 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Üldine hambaravi"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Kohandage rakendust vastavalt oma vajadustele"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Kindral"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Teavitus."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Turvalisus"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Tema"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Üldsätted"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Kliiniku üldised seaded"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Kliiniku nimi"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Aadress"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Meil"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Salvesta muudatused"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profiili teave"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Värskendage oma isikuandmeid"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Täisnimi"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Eriala"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Värskenda profiili"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Teavituste eelistused"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Seadistage, kuidas soovite märguandeid saada"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Kohtumise teated"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Saate meeldetuletusi eelseisvate kohtumiste kohta"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Luba"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Makseteatised"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Saate teateid ootel olevate maksete kohta"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "E-posti teated"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Saate teateid oma meili teel"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Hallake oma konto turvalisust"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Praegune parool"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Uus parool"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Kinnitage uus parool"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Muuda parooli"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Välimus"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Kohandage rakenduse välimust"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Tume režiim"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Lülitage heleda ja tumeda režiimi vahel"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktiveerige"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Fondi suurus"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Reguleerige teksti suurust"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Seadistage"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Pooleli"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Täidetud"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Tühistatud"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Kõrvarõngas"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "ootel"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Ravid"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Hallake ravimeetodeid"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Hambaravi haldamine"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Uus ravi"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Ravi nimekiri"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ravi"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " registreeritud"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Registreeritud ravimeetodeid ei ole"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Nimeta"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Patsient: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Määramata"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Vaadake üksikasju"
+  }
+}

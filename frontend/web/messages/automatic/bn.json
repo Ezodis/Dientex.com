@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "অন্যরা"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "আপনার অ্যাপয়েন্টমেন্ট পরিচালনা করুন"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "ত্রুটি"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "আবার চেষ্টা করুন"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "অ্যাপয়েন্টমেন্ট ক্যালেন্ডার পরিচালনা করুন"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "নতুন নিয়োগ"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "অ্যাপয়েন্টমেন্ট ক্যালেন্ডার"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " স্বপ্ন"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " নির্ধারিত"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "কোনো নির্ধারিত অ্যাপয়েন্টমেন্ট নেই"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "ক্লিনিকাল ভিউ"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "ক্লিনিকাল ইতিহাস লোড হচ্ছে..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "চিকিৎসা ইতিহাস, ক্লিনিকাল নোট এবং রোগীর অডনটোগ্রাম"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ডেমো ডেটা"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "শেষ আপডেট: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "চিকিৎসা ইতিহাস"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "ক্লিনিকাল নোট"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ওডন্টোগ্রাম"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ফাইল"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "পিরিয়ডন্টোগ্রামা"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "দীর্ঘস্থায়ী রোগ"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "কোনো দীর্ঘস্থায়ী রোগ রেকর্ড করা হয়নি"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "বর্তমান ওষুধ"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "কোনো রেজিস্টার্ড ওষুধ নেই"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "এলার্জি"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "কোন পরিচিত এলার্জি"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "পূর্ববর্তী দাঁতের চিকিত্সা"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "কোন পূর্ববর্তী চিকিত্সা রেকর্ড করা"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "অভ্যাস এবং পর্যবেক্ষণ"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "ধূমপায়ী"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "অ ধূমপায়ী"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "অ্যালকোহল সেবন করুন"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "অ্যালকোহল সেবন করবেন না"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "কোন মেডিকেল ইতিহাস রেকর্ড করা"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "মেডিকেল ইতিহাস তৈরি করুন"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ব্যবহার"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " ক্লিনিক"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "নতুন নোট"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "কোন ক্লিনিকাল নোট রেকর্ড করা আছে"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "ক্লিনিকাল পর্যবেক্ষণ"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " সংরক্ষণাগার"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ফাইল আপলোড করুন"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "কোন ক্লিনিকাল ফাইল সংযুক্ত আছে"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "ক্লিনিকাল ছবি"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "রেডিওগ্রাফি"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "পিডিএফ ডকুমেন্ট"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "অন্যান্য"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ফাইল দেখুন"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ফাইল ডেমো মোডে উপলব্ধ নয়"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "আপলোড করেছে: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "অস্বাভাবিক মান"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "দাঁত প্রতি 6টি পরিমাপ (সাধারণ পরিসীমা: 1-3 মিমি)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "পরিবেশিত"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "এম 1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "পরিবেশিত "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "নোট"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "কোন পিরিয়ডন্টোগ্রাম রেকর্ড করা নেই"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "পিরিয়ডন্টোগ্রাম তৈরি করুন"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "নির্ধারিত"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "নিশ্চিত করা হয়েছে"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "সম্পন্ন"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "বাতিল"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "নিশ্চিত করুন"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "বাতিল করুন"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "মন্টেরে ক্লিনিক"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "সিডিএমএক্স ক্লিনিক"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "গুয়াদালাজারা ক্লিনিক"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "অ্যাপয়েন্টমেন্টের সময়সূচী"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "প্রত্যাবর্তন"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "জুম ইন করুন"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "সরান"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "আমার অবস্থান"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "সন্ধান করুন..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "কোন ফলাফল পাওয়া যায়নি"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "দেখাচ্ছে "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " এর"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ফলাফল"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "পূর্ববর্তী"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "পাতা "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " এর "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "অনুসরণ করছে"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. ডেন্টাল অফিস ম্যানেজমেন্ট সিস্টেম।"
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "শর্তাবলী"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "গোপনীয়তা"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "সাহায্য"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "রোগীদের জন্য অনুসন্ধান, অ্যাপয়েন্টমেন্ট..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ডি"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "বিজ্ঞপ্তি"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "নতুন অ্যাপয়েন্টমেন্ট নির্ধারিত হয়েছে"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "জুয়ান পেরেজ - সকাল 10:00 এ দাঁতের পরিষ্কার করা"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "পেমেন্ট অনুস্মারক"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "মারিয়া গঞ্জালেজের $500 পেমেন্ট বাকি আছে"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "অ্যাপয়েন্টমেন্ট বাতিল করা হয়েছে"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "কার্লোস রুইজ তার শুক্রবারের অ্যাপয়েন্টমেন্ট বাতিল করেছেন"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "আমার অ্যাকাউন্ট"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "প্রোফাইল"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "কনফিগারেশন"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "সাইন আউট"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "সানো"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "ক্যারিস"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "বন্ধ"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "অনুপস্থিত"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "চিকিৎসায়"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "উপরের খিলান"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "নিম্ন খিলান"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "সম্পদ"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "নিষ্ক্রিয়"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "পরবর্তী অ্যাপয়েন্টমেন্ট:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "বিস্তারিত দেখুন"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "নিয়োগের সময়সূচী"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "গত মাস থেকে %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "বন্ধ"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "আজকের উক্তি"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "রোগীদের পরিবেশন করা হয়েছে"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "দৈনিক আয়"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "সক্রিয় চিকিত্সা"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ড্যাশবোর্ড"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "আপনার কন্ট্রোল প্যানেলে স্বাগতম"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ড্যাশবোর্ড ডেটা লোড করা যায়নি"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "আপনার ডেন্টাল ক্লিনিকের সারসংক্ষেপ"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "নতুন রোগী"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "রোগী"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "সিটা"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "আয় বনাম ব্যয়"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "আয় এবং ব্যয়ের মাসিক তুলনা"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "সাম্প্রতিক উদ্ধৃতি"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "সর্বশেষ নির্ধারিত অ্যাপয়েন্টমেন্ট"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "সাপ্তাহিক অ্যাপয়েন্টমেন্ট"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "সপ্তাহে অ্যাপয়েন্টমেন্ট বিতরণ"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "সাধারণ সারাংশ"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "সাধারণ ক্লিনিক পরিসংখ্যান"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "মোট রোগী"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "মুলতুবি ঋণ"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "আসন্ন অ্যাপয়েন্টমেন্ট"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "মাসিক ব্যালেন্স"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "মোট রাজস্ব"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "মোট খরচ"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ব্যালেন্স নেটো"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "মুলতুবি পেমেন্ট"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "অর্থ"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "আপনার ক্লিনিকের অর্থ পরিচালনা করুন"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "আপনার ক্লিনিকের আর্থিক সারাংশ"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "পেমেন্ট নিবন্ধন করুন"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "সাম্প্রতিক আয়"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "সর্বশেষ রাজস্ব আন্দোলন"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "কোনো সাম্প্রতিক আয় দেখানোর জন্য"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "সাম্প্রতিক খরচ"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "সর্বশেষ খরচ আন্দোলন"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "দেখানোর জন্য কোনো সাম্প্রতিক খরচ নেই"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "একজন ডেন্টিস্টের জন্য অনুসন্ধান করুন, বিশেষ..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "নাম, বিশেষত্ব বা ক্লিনিক দ্বারা দাঁতের ডাক্তার খুঁজুন"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "মানচিত্রে অফিস দেখুন"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "মানচিত্র"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "এজেন্ডা হল সিটা ডেন্টাল"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "দ্রুত, সহজ — আপনার জন্য এবং আপনি যে কেউ চান।"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "আমাদের দাঁতের ডাক্তার"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "সমস্ত ক্লিনিকের বিশেষজ্ঞ"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "\"এর জন্য কোন ফলাফল নেই"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "রিজার্ভ"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "আরও দেখুন"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "আপনার অফিসে টুথএক্স ব্যবহার করুন"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "উপরে ফিরে যান"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex এর সাথে আপনার অনুশীলন বাড়ান"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "প্ল্যাটফর্ম যা ডেন্টিস্টদের সাথে রোগীদের সংযোগ করে। আপনার প্রোফাইল তৈরি করুন, আপনার অফিস নিবন্ধন করুন এবং আজই অ্যাপয়েন্টমেন্ট গ্রহণ শুরু করুন।"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "ডেন্টিস্ট প্রোফাইল তৈরি করুন"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "শুরু করার জন্য বিনামূল্যে · কোন ক্রেডিট কার্ড নেই"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "রোগীদের খোঁজ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "রোগীদের"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "আপনার রোগীদের পরিচালনা করুন"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "আপনার রোগীদের তথ্য পরিচালনা করুন"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "রোগীর তালিকা"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " রোগী"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " পাওয়া গেছে"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "এখনো কোনো রোগী নিবন্ধিত হয়নি"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "কোনো রোগী পাওয়া যায়নি"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "প্রধান রাস্তা #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "সাধারণ দন্তচিকিৎসা"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "আপনার প্রয়োজন অনুযায়ী অ্যাপটি কাস্টমাইজ করুন"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "সাধারণ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "বিজ্ঞপ্তি।"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "নিরাপত্তা"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "সে"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "সাধারণ সেটিংস"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "সাধারণ ক্লিনিক সেটিংস"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ক্লিনিকের নাম"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "ঠিকানা"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "টেলিফোন"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ইমেইল"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "পরিবর্তনগুলি সংরক্ষণ করুন"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "প্রোফাইল তথ্য"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "আপনার ব্যক্তিগত তথ্য আপডেট করুন"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "পুরো নাম"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "বিশেষত্ব"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "প্রোফাইল আপডেট করুন"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "বিজ্ঞপ্তি পছন্দ"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "আপনি কীভাবে বিজ্ঞপ্তি পেতে চান তা কনফিগার করুন"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "নিয়োগ বিজ্ঞপ্তি"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "আসন্ন অ্যাপয়েন্টমেন্টের অনুস্মারক পান"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "সক্ষম করুন"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "পেমেন্ট বিজ্ঞপ্তি"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "মুলতুবি পেমেন্ট সম্পর্কে সতর্কতা পান"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ইমেল বিজ্ঞপ্তি"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "আপনার ইমেল বিজ্ঞপ্তি পান"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "আপনার অ্যাকাউন্ট নিরাপত্তা পরিচালনা করুন"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "বর্তমান পাসওয়ার্ড"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "নতুন পাসওয়ার্ড"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "নতুন পাসওয়ার্ড নিশ্চিত করুন"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "পাসওয়ার্ড পরিবর্তন করুন"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "চেহারা"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "অ্যাপের চেহারা কাস্টমাইজ করুন"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "ডার্ক মোড"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "হালকা এবং অন্ধকার মোডের মধ্যে স্যুইচ করুন"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "সক্রিয় করুন"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ফন্ট সাইজ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "পাঠ্যের আকার সামঞ্জস্য করুন"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "কনফিগার করুন"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "চলছে"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "ভরা"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "বাতিল"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "কানের দুল"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "মুলতুবি"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "চিকিৎসা"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "চিকিত্সা পরিচালনা করুন"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "দাঁতের চিকিত্সা পরিচালনা করুন"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "নতুন চিকিৎসা"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "চিকিৎসার তালিকা"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " চিকিত্সা"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " নিবন্ধিত"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "কোন নিবন্ধিত চিকিত্সা নেই"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "নাম"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "রোগী: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "আনঅ্যাসাইন করা হয়েছে"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "বিস্তারিত দেখুন"
+  }
+}

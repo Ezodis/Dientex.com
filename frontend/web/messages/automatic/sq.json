@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Të tjerët"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Menaxhoni takimet tuaja"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Gabim"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Provo sërish"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Menaxho kalendarin e takimeve"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Emërimi i ri"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Kalendari i Takimeve"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ëndërroj"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " planifikuar"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Nuk ka takime të planifikuara"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Pamje Klinike"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Po ngarkohet historia klinike..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Historia mjekësore, shënimet klinike dhe odontogrami i pacientit"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Të dhënat demonstruese"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Përditësimi i fundit: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Historia Mjekësore"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Shënime Klinike"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogrami"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Skedarët"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Sëmundjet kronike"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Nuk janë regjistruar sëmundje kronike"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Medikamentet aktuale"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Nuk ka medikamente të regjistruara"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alergjitë"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Nuk ka alergji të njohura"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Trajtimet e mëparshme dentare"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Nuk janë regjistruar trajtime të mëparshme"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Zakonet dhe Vëzhgimet"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "duhanpirës"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "jo duhanpirës"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Konsumoni alkool"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Mos konsumoni alkool"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Nuk është regjistruar asnjë histori mjekësore"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Krijoni histori mjekësore"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " përdorni"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinikë"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Shënim i ri"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Nuk ka shënime klinike të regjistruara"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Vëzhgimet klinike"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arkivi"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Ngarko skedarin"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Nuk ka skedarë klinikë të bashkangjitur"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Foto klinike"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografia"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "dokument PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Të tjera"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Shiko skedarin"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Skedari nuk ofrohet në modalitetin demonstrues"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Ngarkuar nga: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Vlerat jonormale"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 matje për dhëmb (vargu normal: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Shërbyer"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Shërbyer "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Shënime"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Nuk është regjistruar asnjë periodontogram"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Krijo periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "I planifikuar"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "E konfirmuar"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "E përfunduar"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Anuluar"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Konfirmo"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Anulo"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Klinika Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Klinika CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Klinika Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Caktoni takimin"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Kthimi"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Zmadhoni"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Hiq"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Vendndodhja ime"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Kërkoni për..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Nuk u gjet asnjë rezultat"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Duke treguar "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " e"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " rezultatet"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Përparme"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Faqe "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " e "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Në vijim"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Sistemi i menaxhimit të zyrës dentare."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Kushtet"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privatësia"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Ndihma"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Kërkoni për pacientë, takime..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Njoftimet"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Një takim i ri është planifikuar"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Pastrimi i dhëmbëve në orën 10:00"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Kujtesa e pagesës"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González ka një pagesë në pritje prej 500 dollarësh"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Takimi i anuluar"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz anuloi takimin e tij të premten"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Llogaria ime"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profili"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfigurimi"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Dilni"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Kariesi"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "E mbyllur"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Në mungesë"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "në trajtim"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Harku i sipërm"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Harku i Poshtem"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Aseti"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "I papunë"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Takimi i radhës:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Shih Detajet"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Caktoni takimin"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% që nga muaji i kaluar"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Mbylle"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Kuotat e sotme"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Pacientët e shërbyer"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Të ardhurat ditore"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Trajtime aktive"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Paneli"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Mirë se vini në panelin tuaj të kontrollit"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Të dhënat e panelit të kontrollit nuk mund të ngarkoheshin"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Përmbledhje e klinikës suaj dentare"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Pacient i ri"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Pacienti"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Të ardhurat kundrejt shpenzimeve"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Krahasimi mujor i të ardhurave dhe shpenzimeve"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Kuotat e fundit"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Takimet më të fundit të planifikuara"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Takimet javore"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Shpërndarja e takimeve gjatë javës"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Përmbledhje e Përgjithshme"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Statistikat e përgjithshme të klinikës"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Totali i pacientëve"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Borxhet në pritje"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Emërimet e ardhshme"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Bilanci mujor"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Të ardhurat totale"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Shpenzimet totale"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Bilanci Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Pagesat në pritje"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Financa"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Menaxhoni financat e klinikës suaj"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Përmbledhja financiare e klinikës suaj"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Regjistro pagesën"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Të ardhurat e fundit"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Lëvizjet e fundit të të ardhurave"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Nuk ka të ardhura të fundit për t'u shfaqur"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Shpenzimet e fundit"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Lëvizjet e fundit të shpenzimeve"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Nuk ka shpenzime të fundit për të treguar"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Kërkoni një dentist, specialitet…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Kërkoni dentistin me emër, specialitet ose klinikë"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Shihni zyrat në hartë"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Harta"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Rendi i ditës është Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Shpejt, lehtë - për ju dhe këdo që dëshironi."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Stomatologët tanë"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Specialistë në të gjitha klinikat"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Nuk ka rezultate për \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Rezervë"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Shih më shumë"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Përdorni toothx në zyrën tuaj"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Kthehu në krye"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Rritni praktikën tuaj me Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Platforma që lidh dentistët me pacientët. Krijoni profilin tuaj, regjistroni zyrat tuaja dhe filloni të merrni takime që sot."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Krijo profilin e dentistit"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Falas për të filluar · Nuk ka kartë krediti"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Kërkoni pacientë..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Pacientët"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Menaxhoni pacientët tuaj"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Menaxhoni informacionin e pacientëve tuaj"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Lista e pacientëve"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " pacientit"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " gjetur"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Nuk ka ende asnjë pacient të regjistruar"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Nuk u gjet asnjë pacient"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Rruga kryesore #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Stomatologji e Përgjithshme"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Personalizojeni aplikacionin sipas nevojave tuaja"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Gjeneral"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Njoftimi."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Siguria"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Ai"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Cilësimet e përgjithshme"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Cilësimet e përgjithshme të klinikës"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Emri i Klinikës"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adresa"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefoni"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Email"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Ruaj Ndryshimet"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Informacioni i profilit"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Përditësoni informacionin tuaj personal"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Emri i plotë"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Specialiteti"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Përditëso profilin"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Preferencat e njoftimeve"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfiguro se si dëshiron të marrësh njoftime"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Njoftimet e takimit"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Merr kujtesë për takimet e ardhshme"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Aktivizo"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Njoftimet e pagesës"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Merr sinjalizime për pagesat në pritje"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Njoftimet me email"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Merrni njoftime në emailin tuaj"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Menaxhoni sigurinë e llogarisë suaj"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Fjalëkalimi aktual"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Fjalëkalim i ri"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Konfirmo fjalëkalimin e ri"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Ndrysho fjalëkalimin"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Pamja e jashtme"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Personalizojeni pamjen e aplikacionit"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Modaliteti i errët"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Kaloni midis modalitetit të dritës dhe të errët"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktivizoni"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Madhësia e shkronjave"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Rregulloni madhësinë e tekstit"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfiguro"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Në vazhdim"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "I mbushur"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Anuluar"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Vathë"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "në pritje"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Trajtimet"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Menaxhoni trajtimet"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Menaxhoni trajtimet dentare"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Trajtim i ri"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Lista e Trajtimit"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " trajtimi"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " regjistruar"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Nuk ka trajtime të regjistruara"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Pa emër"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Pacienti: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "E pacaktuar"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Shih detajet"
+  }
+}

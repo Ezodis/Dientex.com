@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "ಇತರರು"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "ನಿಮ್ಮ ನೇಮಕಾತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "ದೋಷ"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ಮರುಪ್ರಯತ್ನಿಸಿ"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಕ್ಯಾಲೆಂಡರ್ ಅನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "ಹೊಸ ನೇಮಕಾತಿ"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "ನೇಮಕಾತಿ ಕ್ಯಾಲೆಂಡರ್"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ಕನಸು"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ರು"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " ನಿಗದಿಪಡಿಸಲಾಗಿದೆ"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "ಯಾವುದೇ ನಿಗದಿತ ನೇಮಕಾತಿಗಳಿಲ್ಲ"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "ಕ್ಲಿನಿಕಲ್ ನೋಟ"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "ಕ್ಲಿನಿಕಲ್ ಇತಿಹಾಸವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ, ಕ್ಲಿನಿಕಲ್ ಟಿಪ್ಪಣಿಗಳು ಮತ್ತು ರೋಗಿಯ ಓಡಾಂಟೋಗ್ರಾಮ್"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ಡೆಮೊ ಡೇಟಾ"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "ಕೊನೆಯ ನವೀಕರಣ: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "ಕ್ಲಿನಿಕಲ್ ಟಿಪ್ಪಣಿಗಳು"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "ಓಡಾಂಟೋಗ್ರಾಮ್"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ಫೈಲ್‌ಗಳು"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "ಪೆರಿಯೊಡಾಂಟೊಗ್ರಾಮಾ"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "ದೀರ್ಘಕಾಲದ ರೋಗಗಳು"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "ಯಾವುದೇ ದೀರ್ಘಕಾಲದ ಕಾಯಿಲೆಗಳು ದಾಖಲಾಗಿಲ್ಲ"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "ಪ್ರಸ್ತುತ ಔಷಧಗಳು"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "ನೋಂದಾಯಿತ ಔಷಧಿಗಳಿಲ್ಲ"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "ಅಲರ್ಜಿಗಳು"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "ತಿಳಿದಿರುವ ಅಲರ್ಜಿಗಳು ಇಲ್ಲ"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "ಹಿಂದಿನ ದಂತ ಚಿಕಿತ್ಸೆಗಳು"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "ಯಾವುದೇ ಹಿಂದಿನ ಚಿಕಿತ್ಸೆಗಳನ್ನು ದಾಖಲಿಸಲಾಗಿಲ್ಲ"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "ಅಭ್ಯಾಸಗಳು ಮತ್ತು ಅವಲೋಕನಗಳು"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "ಧೂಮಪಾನಿ"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ಧೂಮಪಾನ ಮಾಡದ"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "ಮದ್ಯ ಸೇವಿಸಿ"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "ಮದ್ಯ ಸೇವಿಸುವುದಿಲ್ಲ"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "ಯಾವುದೇ ವೈದ್ಯಕೀಯ ಇತಿಹಾಸವನ್ನು ದಾಖಲಿಸಲಾಗಿಲ್ಲ"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "ವೈದ್ಯಕೀಯ ಇತಿಹಾಸವನ್ನು ರಚಿಸಿ"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ಬಳಸಿ"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " ಕ್ಲಿನಿಕ್"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "ಹೊಸ ನೋಟು"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "ಯಾವುದೇ ಕ್ಲಿನಿಕಲ್ ಟಿಪ್ಪಣಿಗಳನ್ನು ದಾಖಲಿಸಲಾಗಿಲ್ಲ"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "ಕ್ಲಿನಿಕಲ್ ಅವಲೋಕನಗಳು"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " ಆರ್ಕೈವ್"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "ಫೈಲ್ ಅನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "ಯಾವುದೇ ಕ್ಲಿನಿಕಲ್ ಫೈಲ್‌ಗಳನ್ನು ಲಗತ್ತಿಸಲಾಗಿಲ್ಲ"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "ಕ್ಲಿನಿಕಲ್ ಫೋಟೋ"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "ರೇಡಿಯಾಗ್ರಫಿ"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF ಡಾಕ್ಯುಮೆಂಟ್"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "ಇತರೆ"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ಫೈಲ್ ವೀಕ್ಷಿಸಿ"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ಡೆಮೊ ಮೋಡ್‌ನಲ್ಲಿ ಫೈಲ್ ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "ಇವರಿಂದ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "ಅಸಹಜ ಮೌಲ್ಯಗಳು"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "ಪ್ರತಿ ಹಲ್ಲಿಗೆ 6 ಅಳತೆಗಳು (ಸಾಮಾನ್ಯ ಶ್ರೇಣಿ: 1-3 ಮಿಮೀ)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "ಸೇವೆ ಸಲ್ಲಿಸಿದೆ"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "ಸೇವೆ ಸಲ್ಲಿಸಿದೆ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "ಟಿಪ್ಪಣಿಗಳು"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "ಯಾವುದೇ ಪಿರಿಯಾಂಟೋಗ್ರಾಮ್ ದಾಖಲಾಗಿಲ್ಲ"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "ಪರಿದಂತದ ರೇಖಾಚಿತ್ರವನ್ನು ರಚಿಸಿ"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "ನಿಗದಿಪಡಿಸಲಾಗಿದೆ"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "ದೃಢಪಡಿಸಿದೆ"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "ದೃಢೀಕರಿಸಿ"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "ರದ್ದುಮಾಡು"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "ಮಾಂಟೆರ್ರಿ ಕ್ಲಿನಿಕ್"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX ಕ್ಲಿನಿಕ್"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "ಗ್ವಾಡಲಜರ ಕ್ಲಿನಿಕ್"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "ನೇಮಕಾತಿಯನ್ನು ನಿಗದಿಪಡಿಸಿ"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "ಹಿಂತಿರುಗಿ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ಜೂಮ್ ಇನ್ ಮಾಡಿ"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ತೆಗೆದುಹಾಕಿ"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ನನ್ನ ಸ್ಥಳ"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "ಹುಡುಕು..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "ತೋರಿಸಲಾಗುತ್ತಿದೆ "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ನ"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ಫಲಿತಾಂಶಗಳು"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "ಮುಂಭಾಗ"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "ಪುಟ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ನ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "ಅನುಸರಿಸುತ್ತಿದೆ"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. ಡೆಂಟಲ್ ಆಫೀಸ್ ಮ್ಯಾನೇಜ್ಮೆಂಟ್ ಸಿಸ್ಟಮ್."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "ನಿಯಮಗಳು"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "ಗೌಪ್ಯತೆ"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "ನೆರವು"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "ರೋಗಿಗಳಿಗಾಗಿ ಹುಡುಕಿ, ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ಗಳು..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ಡಿ"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "ಅಧಿಸೂಚನೆಗಳು"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "ಹೊಸ ನೇಮಕಾತಿಯನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿದೆ"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "ಜುವಾನ್ ಪೆರೆಜ್ - 10:00 AM ನಲ್ಲಿ ದಂತ ಶುಚಿಗೊಳಿಸುವಿಕೆ"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "ಪಾವತಿ ಜ್ಞಾಪನೆ"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "ಮಾರಿಯಾ ಗೊನ್ಜಾಲೆಜ್ $500 ಬಾಕಿ ಪಾವತಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆ"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "ನೇಮಕಾತಿ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "ಕಾರ್ಲೋಸ್ ರೂಯಿಜ್ ಅವರ ಶುಕ್ರವಾರದ ನೇಮಕಾತಿಯನ್ನು ರದ್ದುಗೊಳಿಸಿದರು"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "ನನ್ನ ಖಾತೆ"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ಪ್ರೊಫೈಲ್"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "ಸಂರಚನೆ"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "ಸೈನ್ ಔಟ್"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "ಸಾನೋ"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "ಕ್ಷಯ"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ಮುಚ್ಚಲಾಗಿದೆ"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "ಗೈರು"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ಚಿಕಿತ್ಸೆಯಲ್ಲಿ"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ಮೇಲಿನ ಕಮಾನು"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ಕೆಳಗಿನ ಕಮಾನು"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "ಆಸ್ತಿ"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "ಐಡಲ್"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "ಮುಂದಿನ ನೇಮಕಾತಿ:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "ವಿವರಗಳನ್ನು ನೋಡಿ"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "ನೇಮಕಾತಿ ವೇಳಾಪಟ್ಟಿ"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "ಕಳೆದ ತಿಂಗಳಿನಿಂದ ಶೇ"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "ಮುಚ್ಚಿ"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "ಇಂದಿನ ಉಲ್ಲೇಖಗಳು"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "ರೋಗಿಗಳ ಸೇವೆ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "ದೈನಂದಿನ ಆದಾಯ"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "ಸಕ್ರಿಯ ಚಿಕಿತ್ಸೆಗಳು"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "ನಿಮ್ಮ ನಿಯಂತ್ರಣ ಫಲಕಕ್ಕೆ ಸುಸ್ವಾಗತ"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "ನಿಮ್ಮ ದಂತ ಚಿಕಿತ್ಸಾಲಯದ ಸಾರಾಂಶ"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "ಹೊಸ ರೋಗಿ"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "ರೋಗಿ"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "ಸಿಟಾ"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "ಆದಾಯ ಮತ್ತು ವೆಚ್ಚಗಳು"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "ಆದಾಯ ಮತ್ತು ವೆಚ್ಚಗಳ ಮಾಸಿಕ ಹೋಲಿಕೆ"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "ಇತ್ತೀಚಿನ ಉಲ್ಲೇಖಗಳು"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "ಇತ್ತೀಚಿನ ನಿಗದಿತ ನೇಮಕಾತಿಗಳು"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "ಸಾಪ್ತಾಹಿಕ ನೇಮಕಾತಿಗಳು"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "ವಾರದಲ್ಲಿ ನೇಮಕಾತಿಗಳ ವಿತರಣೆ"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "ಸಾಮಾನ್ಯ ಸಾರಾಂಶ"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "ಸಾಮಾನ್ಯ ಕ್ಲಿನಿಕ್ ಅಂಕಿಅಂಶಗಳು"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "ಒಟ್ಟು ರೋಗಿಗಳು"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "ಬಾಕಿ ಇರುವ ಸಾಲಗಳು"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "ಮುಂಬರುವ ನೇಮಕಾತಿಗಳು"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "ಮಾಸಿಕ ಬ್ಯಾಲೆನ್ಸ್"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "ಒಟ್ಟು ಆದಾಯ"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "ಒಟ್ಟು ವೆಚ್ಚಗಳು"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ಬ್ಯಾಲೆನ್ಸ್ ನೆಟೊ"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "ಬಾಕಿ ಪಾವತಿಗಳು"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "ಹಣಕಾಸು"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "ನಿಮ್ಮ ಕ್ಲಿನಿಕ್‌ನ ಹಣಕಾಸು ನಿರ್ವಹಿಸಿ"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "ನಿಮ್ಮ ಕ್ಲಿನಿಕ್‌ನ ಆರ್ಥಿಕ ಸಾರಾಂಶ"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "ಪಾವತಿಯನ್ನು ನೋಂದಾಯಿಸಿ"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "ಇತ್ತೀಚಿನ ಆದಾಯ"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "ಇತ್ತೀಚಿನ ಆದಾಯ ಚಲನೆಗಳು"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "ತೋರಿಸಲು ಇತ್ತೀಚಿನ ಆದಾಯವಿಲ್ಲ"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ಇತ್ತೀಚಿನ ವೆಚ್ಚಗಳು"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "ಇತ್ತೀಚಿನ ಖರ್ಚು ಚಲನೆಗಳು"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "ತೋರಿಸಲು ಇತ್ತೀಚಿನ ವೆಚ್ಚಗಳಿಲ್ಲ"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ದಂತವೈದ್ಯರನ್ನು ಹುಡುಕಿ, ವಿಶೇಷತೆ..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "ಹೆಸರು, ವಿಶೇಷತೆ ಅಥವಾ ಕ್ಲಿನಿಕ್ ಮೂಲಕ ದಂತವೈದ್ಯರನ್ನು ಹುಡುಕಿ"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "ನಕ್ಷೆಯಲ್ಲಿ ಕಚೇರಿಗಳನ್ನು ನೋಡಿ"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "ನಕ್ಷೆ"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "ಕಾರ್ಯಸೂಚಿಯು ಸಿಟಾ ಡೆಂಟಲ್ ಆಗಿದೆ"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "ತ್ವರಿತ, ಸುಲಭ - ನಿಮಗಾಗಿ ಮತ್ತು ನಿಮಗೆ ಬೇಕಾದವರಿಗೆ."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ನಮ್ಮ ದಂತವೈದ್ಯರು"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "ಎಲ್ಲಾ ಚಿಕಿತ್ಸಾಲಯಗಳಲ್ಲಿ ತಜ್ಞರು"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "\"ಇದಕ್ಕಾಗಿ ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "ಮೀಸಲು"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "ಇನ್ನಷ್ಟು ನೋಡಿ"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "ನಿಮ್ಮ ಕಛೇರಿಯಲ್ಲಿ toothx ಬಳಸಿ"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗಿ"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex ನೊಂದಿಗೆ ನಿಮ್ಮ ಅಭ್ಯಾಸವನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "ರೋಗಿಗಳೊಂದಿಗೆ ದಂತವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸುವ ವೇದಿಕೆ. ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ರಚಿಸಿ, ನಿಮ್ಮ ಕಚೇರಿಗಳನ್ನು ನೋಂದಾಯಿಸಿ ಮತ್ತು ಇಂದೇ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ಪ್ರಾರಂಭಿಸಿ."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "ದಂತವೈದ್ಯರ ಪ್ರೊಫೈಲ್ ರಚಿಸಿ"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "ಪ್ರಾರಂಭಿಸಲು ಉಚಿತ · ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಇಲ್ಲ"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "ರೋಗಿಗಳನ್ನು ಹುಡುಕಿ..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "ರೋಗಿಗಳು"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "ನಿಮ್ಮ ರೋಗಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "ನಿಮ್ಮ ರೋಗಿಗಳ ಮಾಹಿತಿಯನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "ರೋಗಿಗಳ ಪಟ್ಟಿ"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " ರೋಗಿಯ"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " ಕಂಡುಬಂದಿದೆ"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ಇನ್ನೂ ಯಾವುದೇ ರೋಗಿಗಳು ದಾಖಲಾಗಿಲ್ಲ"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "ಯಾವುದೇ ರೋಗಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ಮುಖ್ಯ ರಸ್ತೆ #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ಸಾಮಾನ್ಯ ದಂತವೈದ್ಯಶಾಸ್ತ್ರ"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "ನಿಮ್ಮ ಅಗತ್ಯಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "ಸಾಮಾನ್ಯ"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "ಅಧಿಸೂಚನೆ."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "ಭದ್ರತೆ"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "ಅವನು"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "ಸಾಮಾನ್ಯ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "ಸಾಮಾನ್ಯ ಕ್ಲಿನಿಕ್ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ಕ್ಲಿನಿಕ್ ಹೆಸರು"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "ವಿಳಾಸ"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "ದೂರವಾಣಿ"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "ಇಮೇಲ್"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ಪ್ರೊಫೈಲ್ ಮಾಹಿತಿ"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನವೀಕರಿಸಿ"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "ಪೂರ್ಣ ಹೆಸರು"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "ವಿಶೇಷತೆ"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "ಪ್ರೊಫೈಲ್ ಅನ್ನು ನವೀಕರಿಸಿ"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "ಅಧಿಸೂಚನೆಗಳ ಆದ್ಯತೆಗಳು"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "ನೀವು ಅಧಿಸೂಚನೆಗಳನ್ನು ಹೇಗೆ ಸ್ವೀಕರಿಸಲು ಬಯಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "ನೇಮಕಾತಿ ಅಧಿಸೂಚನೆಗಳು"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "ಮುಂಬರುವ ನೇಮಕಾತಿಗಳ ಜ್ಞಾಪನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "ಪಾವತಿ ಅಧಿಸೂಚನೆಗಳು"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "ಬಾಕಿ ಪಾವತಿಗಳ ಕುರಿತು ಎಚ್ಚರಿಕೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "ಇಮೇಲ್ ಅಧಿಸೂಚನೆಗಳು"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "ನಿಮ್ಮ ಇಮೇಲ್‌ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "ನಿಮ್ಮ ಖಾತೆಯ ಭದ್ರತೆಯನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "ಪ್ರಸ್ತುತ ಪಾಸ್ವರ್ಡ್"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "ಹೊಸ ಪಾಸ್ವರ್ಡ್"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "ಹೊಸ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ದೃಢೀಕರಿಸಿ"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಿ"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "ಗೋಚರತೆ"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "ಅಪ್ಲಿಕೇಶನ್‌ನ ನೋಟವನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "ಡಾರ್ಕ್ ಮೋಡ್"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "ಲೈಟ್ ಮತ್ತು ಡಾರ್ಕ್ ಮೋಡ್ ನಡುವೆ ಬದಲಿಸಿ"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ಫಾಂಟ್ ಗಾತ್ರ"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "ಪಠ್ಯದ ಗಾತ್ರವನ್ನು ಹೊಂದಿಸಿ"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "ಪ್ರಗತಿಯಲ್ಲಿದೆ"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "ತುಂಬಿದೆ"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "ಕಿವಿಯೋಲೆ"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "ಬಾಕಿಯಿದೆ"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "ಚಿಕಿತ್ಸೆಗಳು"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "ಚಿಕಿತ್ಸೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "ಹಲ್ಲಿನ ಚಿಕಿತ್ಸೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "ಹೊಸ ಚಿಕಿತ್ಸೆ"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "ಚಿಕಿತ್ಸೆಯ ಪಟ್ಟಿ"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " ಚಿಕಿತ್ಸೆ"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " ನೋಂದಾಯಿಸಲಾಗಿದೆ"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "ಯಾವುದೇ ನೋಂದಾಯಿತ ಚಿಕಿತ್ಸೆಗಳಿಲ್ಲ"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "ಹೆಸರಿಲ್ಲದ"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "ರೋಗಿ: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "ನಿಯೋಜಿಸಲಾಗಿಲ್ಲ"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "ವಿವರಗಳನ್ನು ನೋಡಿ"
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Басқалар"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Кездесулеріңізді басқарыңыз"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Қате"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Қайталап көріңіз"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Кездесу күнтізбесін басқару"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Жаңа кездесу"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Кездесу күнтізбесі"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " арман"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "с"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " жоспарланған"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Жоспарланған кездесулер жоқ"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Клиникалық көрініс"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Клиникалық тарих жүктелуде..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Науқастың ауру тарихы, клиникалық жазбалары және одонтограммасы"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Демо деректері"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Соңғы жаңарту: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Медициналық тарих"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Клиникалық жазбалар"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Одонтограмма"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Файлдар"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Периодонтограмма"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Созылмалы аурулар"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Созылмалы аурулар тіркелмеген"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Ағымдағы дәрілер"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Тіркелген дәрілер жоқ"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Аллергия"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Белгілі аллергия жоқ"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Алдыңғы тіс емдері"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Бұрынғы емдер жазылмаған"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Әдеттер мен бақылаулар"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Темекі шегетін"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "темекі шекпейтін"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Алкогольді тұтыну"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Алкогольді тұтынуға болмайды"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Ауру тарихы жазылмаған"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Медициналық тарихты жасаңыз"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " пайдалану"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " емхана"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Жаңа жазба"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Ешқандай клиникалық жазбалар жазылмаған"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Клиникалық бақылаулар"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " мұрағат"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Файлды жүктеп салу"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Тіркелген клиникалық файлдар жоқ"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Клиникалық фото"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Рентгенография"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF құжаты"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Басқа"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Файлды көру"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Файл демо режимінде қолжетімді емес"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Жүктеп салған: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Қалыпты емес мәндер"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "Бір тіске 6 өлшем (қалыпты диапазон: 1–3 мм)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Қызмет көрсетілді"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "М2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "М3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Қызмет көрсетілді "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Ескертпелер"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Пародонтограмма тіркелмеген"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Пародонтограмма құру"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Жоспарланған"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Расталды"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Аяқталды"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Бас тартылды"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Растау"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Болдырмау"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Монтеррей клиникасы"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX клиникасы"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Гвадалахара клиникасы"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Кездесуді жоспарлау"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Қайту"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Үлкейту"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Жою"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Менің орным"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Іздеу..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Нәтиже табылмады"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Көрсетілуде "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " бойынша"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " нәтижелер"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Алдыңғы"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Бет "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " бойынша "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Бақылау"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Стоматологиялық кабинетті басқару жүйесі."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Шарттар"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Құпиялық"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Көмек"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Пациенттерді іздеу, кездесулер..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Хабарландырулар"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Жаңа кездесу жоспарланған"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Хуан Перес - 10:00 тіс тазалау"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Төлем туралы еске салғыш"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "Мария Гонсалестің төлемі 500 долларды құрайды"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Кездесу тоқтатылды"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Карлос Руис жұма күнгі кездесуінен бас тартты"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Менің аккаунтым"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Профиль"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Конфигурация"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Шығу"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Сано"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Кариес"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Жабық"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Жоқ"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "емдеуде"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Жоғарғы арка"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Төменгі арка"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Актив"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Бос"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Келесі кездесу:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Мәліметтер қараңыз"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Кездесу кестесі"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "өткен айдан бері %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Жабу"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Бүгінгі дәйексөздер"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Пациенттерге қызмет көрсетіледі"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Күнделікті табыс"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Белсенді емдеу"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Бақылау тақтасы"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Басқару тақтасына қош келдіңіз"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Бақылау тақтасының деректерін жүктеу мүмкін болмады"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Сіздің стоматологиялық клиникаңыздың қысқаша мазмұны"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Жаңа пациент"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Науқас"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Кіріс пен шығыс"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Ай сайынғы кірістер мен шығыстарды салыстыру"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Соңғы дәйексөздер"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Соңғы жоспарланған кездесулер"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Апталық кездесулер"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Апта ішінде кездесулерді бөлу"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Жалпы қорытынды"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Жалпы клиникалық статистика"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Пациенттердің жалпы саны"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Күтудегі қарыздар"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Алдағы кездесулер"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Айлық баланс"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Жалпы табыс"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Жалпы шығындар"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Нето балансы"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Күтудегі төлемдер"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Қаржы"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Емханаңыздың қаржысын басқарыңыз"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Сіздің клиникаңыздың қаржылық қорытындысы"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Төлемді тіркеу"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Соңғы кіріс"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Соңғы кіріс қозғалысы"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Көрсетілетін соңғы табыс жоқ"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Соңғы шығындар"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Соңғы шығындар қозғалысы"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Көрсетілетін соңғы шығындар жоқ"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Тіс дәрігерін, мамандықты іздеңіз..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Тіс дәрігерін аты, мамандығы немесе клиникасы бойынша іздеңіз"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Кеңселерді картадан қараңыз"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Карта"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Күн тәртібі - Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Жылдам, оңай — сізге және қалағаныңызға."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Біздің тіс дәрігерлері"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Барлық емханалардағы мамандар"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "« үшін нәтижелер жоқ"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Резерв"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Толығырақ"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Кеңседе toothx пайдаланыңыз"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Жоғарыға оралу"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex көмегімен тәжірибеңізді арттырыңыз"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Тіс дәрігерлерін пациенттермен байланыстыратын платформа. Профиліңізді жасаңыз, кеңселеріңізді тіркеңіз және кездесулерді бүгін қабылдауды бастаңыз."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Тіс дәрігерінің профилін жасаңыз"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Бастау тегін · Несие картасы жоқ"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Пациенттерді іздеу..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Вер"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Пациенттер"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Пациенттеріңізді басқарыңыз"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Пациенттеріңіздің ақпаратын басқарыңыз"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Пациенттер тізімі"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " пациент"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " табылды"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Әзірге тіркелген науқастар жоқ"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Ешқандай науқас табылмады"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Негізгі көше №123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Жалпы стоматология"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Қолданбаны қажеттіліктеріңізге сәйкес реттеңіз"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Жалпы"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Хабарландыру."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Қауіпсіздік"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Ол"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Жалпы параметрлер"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Жалпы емхана параметрлері"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Клиника атауы"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Мекенжай"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Телефон"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Электрондық пошта"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Өзгерістерді сақтау"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Профиль туралы ақпарат"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Жеке ақпаратыңызды жаңартыңыз"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Толық аты-жөні"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Мамандығы"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Профильді жаңарту"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Хабарландырулар теңшелімдері"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Хабарландыруларды алу жолын конфигурациялаңыз"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Кездесу туралы хабарландырулар"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Алдағы кездесулер туралы еске салғыштарды алыңыз"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Қосу"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Төлем туралы хабарламалар"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Күтудегі төлемдер туралы ескертулер алыңыз"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Электрондық пошта хабарландырулары"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Электрондық поштаңызға хабарландырулар алыңыз"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Тіркелгіңіздің қауіпсіздігін басқарыңыз"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "ағымдағы құпия сөз"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Жаңа құпия сөз"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Жаңа құпия сөзді растау"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Құпия сөзді өзгерту"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Сыртқы түрі"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Қолданбаның сыртқы түрін реттеңіз"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Қараңғы режим"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Жарық және қараңғы режим арасында ауысу"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Іске қосу"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Қаріп өлшемі"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Мәтін өлшемін реттеңіз"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Конфигурациялау"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Орындалуда"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Толтырылған"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Бас тартылды"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Сырға"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "күтуде"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Емдеу шаралары"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Емдеу шараларын басқарыңыз"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Тіс емдеуді басқарыңыз"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Жаңа емдеу"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Емдеу тізімі"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " емдеу"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " тіркелген"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Тіркелген емдеу түрлері жоқ"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Аты жоқ"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Науқас: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Тағайындалмаған"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Мәліметтерді қараңыз"
+  }
+}

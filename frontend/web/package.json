@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
+    "dev": "next dev --webpack",
+    "build": "node localization/prepare.cjs --translations && next build --webpack",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit --incremental false"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
@@ -31,10 +32,10 @@
     "framer-motion": "^11.15.0",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.468.0",
-    "next": "^15.5.12",
-    "react": "^19.0.0",
+    "next": "16.4.3",
+    "react": "19.3.1",
     "react-day-picker": "^9.13.2",
-    "react-dom": "^19.0.0",
+    "react-dom": "19.3.1",
     "react-hook-form": "^7.54.2",
     "react-leaflet": "^5.0.0",
     "recharts": "^2.15.0",
@@ -42,14 +43,27 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@types/node": "^22",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.20",
-    "eslint": "^9",
-    "eslint-config-next": "^15",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.3",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.17",
-    "typescript": "^5"
+    "tailwindcss": "^4",
+    "typescript": "5.9.3",
+    "@tailwindcss/postcss": "^4"
+  },
+  "engines": {
+    "node": ">=24 <25",
+    "npm": ">=11 <12"
+  },
+  "localization": {
+    "preserve": [
+      "Dientex",
+      "contacto@dientex.com",
+      "juan@dientex.com",
+      "Dr. Juan Pérez"
+    ]
   }
 }

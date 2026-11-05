@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Kiti"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Tvarkykite savo susitikimus"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Klaida"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Bandykite dar kartą"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Tvarkyti susitikimų kalendorių"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Naujas paskyrimas"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Susitikimų kalendorius"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " svajonė"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " suplanuota"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Suplanuotų susitikimų nėra"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinikinis vaizdas"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Įkeliama klinikinė istorija..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Ligonio ligos istorija, klinikiniai užrašai ir odontograma"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demonstraciniai duomenys"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Paskutinis atnaujinimas: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Medicinos istorija"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Klinikinės pastabos"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontograma"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Failai"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Lėtinės ligos"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Lėtinių ligų neužfiksuota"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Dabartiniai vaistai"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Nėra registruotų vaistų"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alergijos"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Nėra žinomų alergijų"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Ankstesnis dantų gydymas"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Ankstesnių gydymo būdų neužregistruota"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Įpročiai ir pastebėjimai"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Rūkalius"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "nerūkantis"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Vartoti alkoholį"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Nevartoti alkoholio"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Ligos istorija neužrašyta"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Sukurkite ligos istoriją"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " naudoti"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinika"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Naujas užrašas"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Klinikinių požymių neužfiksuota"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Klinikiniai stebėjimai"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " archyvas"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Įkelti failą"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Klinikinių failų nėra pridėta"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klinikinė nuotrauka"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiografija"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF dokumentas"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Kita"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Žiūrėti failą"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Failas nepasiekiamas demonstraciniu režimu"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Įkėlė: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Nenormalios vertės"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 matavimai vienam dantukui (normalus diapazonas: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Aptarnavo"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Aptarnavo "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Pastabos"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Periodontograma neužrašyta"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Sukurkite periodontogramą"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Suplanuota"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Patvirtinta"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Baigta"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Atšaukta"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Patvirtinti"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Atšaukti"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterėjaus klinika"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX klinika"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Gvadalacharos klinika"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Suplanuokite susitikimą"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Grįžti"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Priartinti"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Pašalinti"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Mano vieta"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Ieškokite..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Rezultatų nerasta"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Rodoma "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " iš"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " rezultatus"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Priekinė"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Puslapis "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " iš "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Sekant"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© „Dientex“, 2024 m. Odontologijos biuro valdymo sistema."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Sąlygos"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Privatumas"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Pagalba"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Ieškoti pacientų, susitikimų..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Pranešimai"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Suplanuotas naujas susitikimas"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez – dantų valymas 10:00 val"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Mokėjimo priminimas"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González laukia 500 USD mokėjimas"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Atšauktas susitikimas"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlosas Ruizas atšaukė savo penktadienio susitikimą"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Mano paskyra"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profilis"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfigūracija"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Atsijungti"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© „Dientex“, 2024 m"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Kariesas"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Uždaryta"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Nėra"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "gydantis"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Viršutinė arka"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Apatinė arka"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Turtas"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Tuščia eiga"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Kitas susitikimas:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Žr. Išsamią informaciją"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Suplanuokite susitikimą"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% nuo praėjusio mėnesio"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Uždaryti"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Šios dienos citatos"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Aptarnaujami pacientai"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Dienos pajamos"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktyvūs gydymo būdai"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Prietaisų skydelis"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Sveiki atvykę į valdymo skydelį"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Nepavyko įkelti informacijos suvestinės duomenų"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Jūsų odontologijos klinikos santrauka"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Naujas pacientas"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Pacientas"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Pajamos vs išlaidos"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Mėnesinis pajamų ir išlaidų palyginimas"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Naujausios citatos"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Naujausi suplanuoti susitikimai"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Savaitės susitikimai"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Susitikimų paskirstymas per savaitę"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Bendra santrauka"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Bendra klinikos statistika"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Iš viso pacientų"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Laukiančios skolos"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Būsimi susitikimai"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Mėnesio balansas"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Bendros pajamos"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Bendros išlaidos"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balansas Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Laukiantys mokėjimai"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finansai"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Tvarkykite savo klinikos finansus"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Jūsų klinikos finansinė santrauka"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Registruokis mokėjimas"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Naujausios pajamos"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Naujausi pajamų pokyčiai"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Neturiu parodyti pastarųjų pajamų"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Naujausios išlaidos"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Naujausi išlaidų judėjimai"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Nėra paskutinių išlaidų, kurias būtų galima parodyti"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Ieškokite odontologo, specialybės…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Ieškokite odontologo pagal vardą, specialybę ar kliniką"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Peržiūrėkite biurus žemėlapyje"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Žemėlapis"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Dienotvarkė – Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Greita, paprasta – jums ir kam tik norite."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Mūsų odontologai"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Specialistai visose klinikose"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Nėra rezultatų pagal „"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Rezervas"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Žiūrėti daugiau"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Naudokite toothx savo biure"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Atgal į viršų"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Išplėskite savo praktiką su Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Platforma, jungianti odontologus su pacientais. Susikurkite savo profilį, užregistruokite biurus ir pradėkite gauti susitikimus jau šiandien."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Sukurkite odontologo profilį"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Nemokamai pradėti · Nėra kredito kortelės"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Ieškokite pacientų..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Pacientai"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Tvarkykite savo pacientus"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Tvarkykite savo pacientų informaciją"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Pacientų sąrašas"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " kantrus"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " rasta"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Kol kas registruotų pacientų nėra"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Pacientų nerasta"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Pagrindinė gatvė Nr. 123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Bendroji odontologija"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Tinkinkite programėlę pagal savo poreikius"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Generolas"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Pranešimas."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Saugumas"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Jis"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Bendrieji nustatymai"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Bendrieji klinikos nustatymai"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinikos pavadinimas"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adresas"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefonas"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "El. paštas"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Išsaugoti pakeitimus"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profilio informacija"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Atnaujinkite savo asmeninę informaciją"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Pilnas vardas"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Specialybė"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Atnaujinti profilį"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Pranešimų nuostatos"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfigūruokite, kaip norite gauti pranešimus"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Paskyrimo pranešimai"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Gaukite priminimus apie būsimus susitikimus"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Įgalinti"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Mokėjimo pranešimai"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Gaukite įspėjimus apie laukiančius mokėjimus"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "El. pašto pranešimai"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Gaukite pranešimus į savo el"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Tvarkykite paskyros saugumą"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Dabartinis slaptažodis"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Naujas slaptažodis"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Patvirtinkite naują slaptažodį"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Keisti slaptažodį"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Išvaizda"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Tinkinkite programos išvaizdą"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Tamsusis režimas"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Perjungti šviesų ir tamsų režimą"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Suaktyvinti"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Šrifto dydis"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Sureguliuokite teksto dydį"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfigūruoti"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Vykdoma"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Užpildytas"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Atšaukta"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Auskaras"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "laukiama"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Gydymai"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Valdykite gydymą"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Valdykite dantų gydymą"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Naujas Gydymas"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Gydymo sąrašas"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " gydymas"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " registruotas"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Nėra registruotų gydymo būdų"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Bevardis"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Pacientas: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Nepriskirta"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Žr. išsamią informaciją"
+  }
+}

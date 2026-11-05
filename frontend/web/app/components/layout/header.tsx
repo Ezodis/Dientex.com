@@ -30,6 +30,7 @@ import {
   DollarSign,
   Settings,
 } from "lucide-react"
+import { useInterfaceTranslator } from '../../../localization/client'
 
 const navigation = [
   { name: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
@@ -41,6 +42,7 @@ const navigation = [
 ]
 
 export function Header() {
+  const translate = useInterfaceTranslator()
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const pathname = usePathname()
 
@@ -71,7 +73,7 @@ export function Header() {
             <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
             <Input
               type="search"
-              placeholder="Buscar pacientes, citas..."
+              placeholder={translate("Buscar pacientes, citas...")}
               className="pl-8 w-full"
             />
           </div>

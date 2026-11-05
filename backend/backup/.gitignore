@@ -1,0 +1,9 @@
+# Runtime archives are private. Publication uses the encrypted backup branch.
+/snapshot_*
+/backup_*.sql*
+/backup_*.tar*
+/.backup-*
+/*.log
+/.db_restored
+/restore_temp_*
+# Existing project-owned startup seeds remain supported and are not synced.

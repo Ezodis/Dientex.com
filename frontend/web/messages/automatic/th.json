@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "คนอื่น"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "จัดการการนัดหมายของคุณ"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "ข้อผิดพลาด"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "ลองอีกครั้ง"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "จัดการปฏิทินการนัดหมาย"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "นัดใหม่"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "ปฏิทินการนัดหมาย"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " ฝัน"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "ส"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " กำหนดไว้"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "ไม่มีการนัดหมายที่กำหนดไว้"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "มุมมองทางคลินิก"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "กำลังโหลดประวัติทางคลินิก..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "ประวัติทางการแพทย์ บันทึกทางคลินิก และการตรวจฟันของผู้ป่วย"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "ข้อมูลสาธิต"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "อัปเดตล่าสุด: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "ประวัติทางการแพทย์"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "หมายเหตุทางคลินิก"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "โอดอนโตแกรม"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "ไฟล์"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "ปริทันโตแกรม"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "โรคเรื้อรัง"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "ไม่มีบันทึกโรคเรื้อรัง"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "ยาแผนปัจจุบัน"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "ไม่มียาที่ลงทะเบียน"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "โรคภูมิแพ้"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "ไม่ทราบอาการแพ้"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "การรักษาทางทันตกรรมก่อนหน้า"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "ไม่มีการบันทึกการรักษาก่อนหน้านี้"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "นิสัยและการสังเกต"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "คนสูบบุหรี่"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ไม่สูบบุหรี่"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "ดื่มแอลกอฮอล์"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "ห้ามดื่มแอลกอฮอล์"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "ไม่มีการบันทึกประวัติทางการแพทย์"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "สร้างประวัติทางการแพทย์"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " ใช้"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " คลินิก"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "บันทึกใหม่"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "ไม่มีบันทึกทางคลินิกไว้"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "การสังเกตทางคลินิก"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " คลังเก็บเอกสารสำคัญ"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "อัพโหลดไฟล์"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "ไม่มีการแนบไฟล์ทางคลินิก"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "ภาพทางคลินิก"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "การถ่ายภาพรังสี"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "เอกสาร PDF"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "อื่น"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "ดูไฟล์"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "ไฟล์ไม่พร้อมใช้งานในโหมดสาธิต"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "อัปโหลดโดย: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "ค่าที่ผิดปกติ"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "การวัด 6 ครั้งต่อฟัน (ช่วงปกติ: 1–3 มม.)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "เสิร์ฟ"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "ม1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "ม3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "ม4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "ม5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "ม6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "เสิร์ฟ "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "หมายเหตุ"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "ไม่มีการบันทึกปริทันโตแกรม"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "สร้างปริทันโตแกรม"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "กำหนดเวลาแล้ว"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "ยืนยันแล้ว"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "สมบูรณ์"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "ยกเลิก"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "ยืนยัน"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "ยกเลิก"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "มอนเตร์เรย์คลินิก"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "ซีเอ็มเอ็กซ์ คลินิก"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "คลินิกกวาดาลาฮารา"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "กำหนดการนัดหมาย"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "กลับ"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "ซูมเข้า"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "ลบ"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "ตำแหน่งของฉัน"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "มองหา..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "ไม่พบผลลัพธ์"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "กำลังแสดง "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ของ"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " ผลลัพธ์"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "ด้านหน้า"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "หน้าหนังสือ "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ของ "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "กำลังติดตาม"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 ไดเอนเท็กซ์. ระบบการจัดการสำนักงานทันตกรรม"
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "เงื่อนไข"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "ความเป็นส่วนตัว"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "ความช่วยเหลือ"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "ค้นหาผู้ป่วย, นัดหมาย..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "ดี"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "การแจ้งเตือน"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "กำหนดการนัดหมายใหม่แล้ว"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - ทำความสะอาดฟัน เวลา 10.00 น"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "การแจ้งเตือนการชำระเงิน"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González มีการชำระเงินที่รอดำเนินการจำนวน 500 ดอลลาร์"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "ยกเลิกการนัดหมาย"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz ยกเลิกการนัดหมายในวันศุกร์"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "บัญชีของฉัน"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "ประวัติโดยย่อ"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "การกำหนดค่า"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "ออกจากระบบ"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 ไดเอนเท็กซ์"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "ซาโนะ"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "โรคฟันผุ"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "ชัตเตอร์"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "ไม่มา"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "ในการรักษา"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "ซุ้มประตูตอนบน"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "ซุ้มประตูตอนล่าง"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "สินทรัพย์"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "ไม่ได้ใช้งาน"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "นัดถัดไป:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "ดูรายละเอียด"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "กำหนดการนัดหมาย"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% ตั้งแต่เดือนที่แล้ว"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "ปิด"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "คำคมประจำวันนี้"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "คนไข้มารับบริการ"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "รายได้รายวัน"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "การรักษาแบบแอคทีฟ"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "แดชบอร์ด"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "ยินดีต้อนรับสู่แผงควบคุมของคุณ"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "ไม่สามารถโหลดข้อมูลแดชบอร์ดได้"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "สรุปคลินิกทันตกรรมของคุณ"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "คนไข้ใหม่"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "อดทน"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "ซิต้า"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "รายได้เทียบกับค่าใช้จ่าย"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "การเปรียบเทียบรายได้และค่าใช้จ่ายรายเดือน"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "คำคมล่าสุด"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "การนัดหมายล่าสุดที่กำหนดไว้"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "การนัดหมายรายสัปดาห์"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "การกระจายการนัดหมายระหว่างสัปดาห์"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "สรุปทั่วไป"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "สถิติคลินิกทั่วไป"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "ผู้ป่วยทั้งหมด"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "หนี้ที่รอดำเนินการ"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "การนัดหมายที่จะเกิดขึ้น"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "ยอดคงเหลือรายเดือน"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "รายได้รวม"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "ค่าใช้จ่ายทั้งหมด"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "ยอดคงเหลือเนโต"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "การชำระเงินที่รอดำเนินการ"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "การเงิน"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "จัดการการเงินของคลินิกของคุณ"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "สรุปทางการเงินของคลินิกของคุณ"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "ลงทะเบียนชำระเงิน"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "รายได้ล่าสุด"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "ความเคลื่อนไหวของรายได้ล่าสุด"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "ไม่มีรายได้ล่าสุดที่จะแสดง"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "ค่าใช้จ่ายล่าสุด"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "ความเคลื่อนไหวของค่าใช้จ่ายล่าสุด"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "ไม่มีค่าใช้จ่ายล่าสุดที่จะแสดง"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "ค้นหาทันตแพทย์เฉพาะทาง..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "ค้นหาทันตแพทย์ตามชื่อ สาขาวิชาเฉพาะ หรือคลินิก"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "ดูสำนักงานบนแผนที่"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "แผนที่"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "วาระการประชุมคือ Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "รวดเร็ว ง่ายดาย สำหรับคุณและใครก็ตามที่คุณต้องการ"
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "ทันตแพทย์ของเรา"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "แพทย์เฉพาะทางทุกคลินิก"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "ไม่มีผลลัพธ์สำหรับ “"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "จอง"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "ดูเพิ่มเติม"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "ใช้ Toothx ในสำนักงานของคุณ"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "กลับไปด้านบน"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "ฝึกฝนการปฏิบัติของคุณด้วย Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "แพลตฟอร์มที่เชื่อมโยงทันตแพทย์กับคนไข้ สร้างโปรไฟล์ของคุณ ลงทะเบียนสำนักงานของคุณ และเริ่มรับการนัดหมายวันนี้"
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "สร้างโปรไฟล์ทันตแพทย์"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "เริ่มต้นฟรี · ไม่มีบัตรเครดิต"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "ค้นหาผู้ป่วย..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "เวอร์ชัน"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "ผู้ป่วย"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "จัดการผู้ป่วยของคุณ"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "จัดการข้อมูลผู้ป่วยของคุณ"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "รายชื่อผู้ป่วย"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " อดทน"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " พบ"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "ยังไม่มีผู้ป่วยลงทะเบียนเลย"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "ไม่พบผู้ป่วย"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "ถนนสายหลัก #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "ทันตกรรมทั่วไป"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "ปรับแต่งแอปตามความต้องการของคุณ"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "ทั่วไป"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "การแจ้งเตือน"
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "ความปลอดภัย"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "เขา"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "การตั้งค่าทั่วไป"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "การตั้งค่าคลินิกทั่วไป"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "ชื่อคลินิก"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "ที่อยู่"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "โทรศัพท์"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "อีเมล"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "บันทึกการเปลี่ยนแปลง"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "ข้อมูลโปรไฟล์"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "อัปเดตข้อมูลส่วนบุคคลของคุณ"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "ชื่อเต็ม"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "พิเศษ"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "อัพเดตโปรไฟล์"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "การตั้งค่าการแจ้งเตือน"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "กำหนดค่าวิธีที่คุณต้องการรับการแจ้งเตือน"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "การแจ้งเตือนการนัดหมาย"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "รับการแจ้งเตือนเกี่ยวกับการนัดหมายที่จะเกิดขึ้น"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "เปิดใช้งาน"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "การแจ้งเตือนการชำระเงิน"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "รับการแจ้งเตือนเกี่ยวกับการชำระเงินที่รอดำเนินการ"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "การแจ้งเตือนทางอีเมล"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "รับการแจ้งเตือนทางอีเมลของคุณ"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "จัดการความปลอดภัยของบัญชีของคุณ"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "รหัสผ่านปัจจุบัน"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "รหัสผ่านใหม่"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "ยืนยันรหัสผ่านใหม่"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "เปลี่ยนรหัสผ่าน"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "รูปร่าง"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "ปรับแต่งรูปลักษณ์ของแอพ"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "โหมดมืด"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "สลับระหว่างโหมดสว่างและมืด"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "เปิดใช้งาน"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "ขนาดตัวอักษร"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "ปรับขนาดข้อความ"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "กำหนดค่า"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "อยู่ระหว่างดำเนินการ"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "อิ่มแล้ว"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "ยกเลิก"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "ต่างหู"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "รอดำเนินการ"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "การรักษา"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "จัดการการรักษา"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "จัดการการรักษาทางทันตกรรม"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "การรักษาแบบใหม่"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "รายการการรักษา"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " การรักษา"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " ลงทะเบียนแล้ว"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "ไม่มีการรักษาที่ลงทะเบียน"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "ไม่มีชื่อ"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "อดทน: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "ยังไม่ได้มอบหมาย"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "ดูรายละเอียด"
+  }
+}

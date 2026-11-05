@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Diğerleri"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Randevularınızı yönetin"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Hata"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Yeniden dene"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Randevu takvimini yönet"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Yeni Randevu"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Randevu Takvimi"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " rüya"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "S"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " planlanmış"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Planlanmış randevu yok"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinik Görünüm"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Klinik geçmişi yükleniyor..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Hastanın tıbbi geçmişi, klinik notları ve odontogramı"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo verileri"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Son güncelleme: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Tıp Geçmişi"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Klinik Notlar"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Dosyalar"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontoloji"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Kronik Hastalıklar"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Kronik hastalık kaydedilmedi"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Güncel İlaçlar"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Kayıtlı ilaç yok"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alerjiler"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Bilinen alerji yok"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Önceki Diş Tedavileri"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Daha önce herhangi bir tedavi kaydedilmedi"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Alışkanlıklar ve Gözlemler"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Sigara içen"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "sigara içmeyen"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Alkol tüketin"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Alkol tüketmeyin"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Tıbbi geçmiş kaydedilmedi"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Tıbbi geçmişi oluştur"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " kullanmak"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinik"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Yeni not"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Kayıtlı klinik not yok"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Klinik gözlemler"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " arşiv"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Dosya yükle"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Ekli klinik dosya yok"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klinik Fotoğraf"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radyografi"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF belgesi"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Diğer"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Dosyayı görüntüle"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Dosya demo modunda mevcut değil"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Yükleyen: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Anormal değerler"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "Diş başına 6 ölçüm (normal aralık: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Sunuldu"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Sunuldu "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Notlar"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Periodontogram kayıtlı değil"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Periodontogram oluştur"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "planlanmış"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Onaylandı"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Tamamlanmış"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "İptal edildi"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Onaylamak"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "İptal etmek"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey Kliniği"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX Kliniği"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara Kliniği"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Randevu planla"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Geri dönmek"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Yakınlaştır"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Kaldırmak"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Konumum"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Aramak..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Sonuç bulunamadı"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Gösterilen "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ile ilgili"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " sonuçlar"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Ön"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Sayfa "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ile ilgili "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Takip etme"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Diş Ofisi Yönetim Sistemi."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Şartlar"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Mahremiyet"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Yardım"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Hastaları, randevuları arayın..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Bildirimler"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Yeni randevu planlandı"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Saat 10:00'da diş temizliği"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Ödeme hatırlatıcısı"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María González'in bekleyen 500 dolarlık ödemesi var"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Randevu iptal edildi"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruiz Cuma randevusunu iptal etti"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Hesabım"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profil"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Yapılandırma"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Oturumu Kapat"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Çürük"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Kepenkli"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Mevcut olmayan"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "tedavide"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Üst Kemer"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Alt Kemer"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Varlık"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Boşta"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Sonraki randevu:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Ayrıntıları Gör"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Randevu Planla"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "Geçen aydan bu yana %"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Kapalı"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Bugünün Alıntıları"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Hizmet Verilen Hastalar"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Günlük Gelir"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Aktif Tedaviler"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Kontrol Paneli"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Kontrol panelinize hoş geldiniz"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Kontrol paneli verileri yüklenemedi"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Diş kliniğinizin özeti"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Yeni Hasta"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Hasta"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Çita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Gelir ve Giderler"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Aylık gelir ve gider karşılaştırması"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Son Alıntılar"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "En son planlanmış randevular"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Haftalık Randevular"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Randevuların hafta içi dağılımı"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Genel Özet"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Genel klinik istatistikleri"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Toplam Hasta"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Bekleyen Borçlar"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Yaklaşan Randevular"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Aylık Bakiye"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Toplam Gelir"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Toplam Giderler"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Neto'yu dengele"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Bekleyen Ödemeler"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finans"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Kliniğinizin mali durumunu yönetin"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Kliniğinizin finansal özeti"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Ödemeyi Kaydet"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Son Gelir"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Son gelir hareketleri"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Gösterilecek yeni gelir yok"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Son Giderler"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Son gider hareketleri"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Gösterilecek yakın tarihli harcama yok"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Diş hekimi, uzmanlık alanı arayın…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Diş hekimini ada, uzmanlığa veya kliniğe göre arayın"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Ofisleri haritada görün"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Harita"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Gündem Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Hızlı, kolay — kendiniz ve istediğiniz kişi için."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Diş hekimlerimiz"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Tüm kliniklerdeki uzmanlar"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "\" için sonuç bulunamadı"
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Rezerv"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Daha fazlasını gör"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Toox'u ofisinizde kullanın"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Başa dön"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Dientex ile pratiğinizi büyütün"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Diş hekimlerini hastalarla buluşturan platform. Profilinizi oluşturun, ofislerinizi kaydedin ve bugün randevu almaya başlayın."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Diş hekimi profili oluştur"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Başlamak ücretsiz · Kredi kartı yok"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Hastaları arayın..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Hastalar"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Hastalarınızı yönetin"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Hastalarınızın bilgilerini yönetin"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Hasta Listesi"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " hasta"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " kurmak"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Henüz kayıtlı hasta yok"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Hiçbir hasta bulunamadı"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Ana Cadde #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Genel Diş Hekimliği"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Uygulamayı ihtiyaçlarınıza göre özelleştirin"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Genel"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Bildiri."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Güvenlik"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "O"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Genel Ayarlar"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Genel klinik ayarları"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinik Adı"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Adres"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefon"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "E-posta"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Değişiklikleri Kaydet"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profil Bilgileri"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Kişisel bilgilerinizi güncelleyin"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Ad Soyad"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Uzmanlık"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Profili Güncelle"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Bildirim Tercihleri"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Bildirimleri nasıl almak istediğinizi yapılandırın"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Randevu Bildirimleri"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Yaklaşan randevuların hatırlatıcılarını alın"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Olanak vermek"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Ödeme Bildirimleri"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Bekleyen ödemelerle ilgili uyarılar alın"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "E-posta Bildirimleri"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "E-postanızda bildirimler alın"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Hesap güvenliğinizi yönetin"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Mevcut Şifre"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Yeni Şifre"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Yeni Şifreyi Onayla"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Şifre değiştir"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Dış görünüş"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Uygulamanın görünümünü özelleştirin"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Karanlık Mod"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Açık ve karanlık mod arasında geçiş yapın"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Etkinleştir"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Yazı Tipi Boyutu"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Metin boyutunu ayarlayın"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Yapılandır"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Devam etmekte"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Dolu"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "İptal edildi"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Küpe"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "askıda olması"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Tedaviler"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Tedavileri yönetin"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Diş tedavilerini yönetin"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Yeni Tedavi"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Tedavi Listesi"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " tedavi"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " kayıtlı"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Kayıtlı tedavi yok"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "İsimsiz"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Hasta: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Atanmamış"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Ayrıntıları göster"
+  }
+}

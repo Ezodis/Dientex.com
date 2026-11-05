@@ -20,6 +20,7 @@ import {
 } from "lucide-react"
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, LineChart, Line } from "recharts"
 import apiClient from "@/app/lib/api"
+import { useInterfaceTranslator } from '../../localization/client'
 
 interface DashboardData {
   today: {
@@ -84,6 +85,7 @@ const weeklyAppointments = [
 ]
 
 export default function DashboardPage() {
+  const translate = useInterfaceTranslator()
   const [data, setData] = useState<DashboardData | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -183,25 +185,25 @@ export default function DashboardPage() {
         {/* Stats Cards */}
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatsCard
-            title="Citas de Hoy"
+            title={translate("Citas de Hoy")}
             value={data.today.appointments}
             icon={Calendar}
             trend={{ value: 12, isPositive: true }}
           />
           <StatsCard
-            title="Pacientes Atendidos"
+            title={translate("Pacientes Atendidos")}
             value={data.today.patients_attended}
             icon={Users}
             trend={{ value: 8, isPositive: true }}
           />
           <StatsCard
-            title="Ingresos del Día"
+            title={translate("Ingresos del Día")}
             value={formatCurrency(data.today.income)}
             icon={DollarSign}
             trend={{ value: 15, isPositive: true }}
           />
           <StatsCard
-            title="Tratamientos Activos"
+            title={translate("Tratamientos Activos")}
             value={data.active_treatments}
             icon={Activity}
           />

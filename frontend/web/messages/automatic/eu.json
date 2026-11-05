@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Beste batzuk"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Kudeatu zure hitzorduak"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Errorea"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Saiatu berriro"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Kudeatu hitzorduen egutegia"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Hitzordu Berria"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Hitzorduen Egutegia"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " amets"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " programatuta"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Ez dago hitzordurik"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Ikuspegi klinikoa"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Historia klinikoa kargatzen..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Historia medikoa, ohar klinikoak eta pazientearen odontograma"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo datuak"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Azken eguneratzea: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Historia Medikoa"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Ohar klinikoak"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontograma"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Fitxategiak"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Gaixotasun kronikoak"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Ez da gaixotasun kronikorik erregistratu"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Egungo sendagaiak"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Ez dago erregistratutako botikarik"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Alergiak"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Ez dago alergia ezagunik"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Aurreko Hortz Tratamenduak"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Ez da aurreko tratamendurik erregistratu"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Ohiturak eta Behaketak"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Erretzailea"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "ez erretzailea"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Alkohola kontsumitu"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Ez ezazu alkoholik kontsumitu"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Ez dago historia medikorik erregistratu"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Historia medikoa sortu"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " erabili"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinika"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Ohar berria"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Ez dago ohar klinikorik erregistratuta"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Behaketa klinikoak"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " artxiboa"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Kargatu fitxategia"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Ez dago fitxategi kliniko erantsirik"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Argazki klinikoa"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Erradiografia"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF dokumentua"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Bestela"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Ikusi fitxategia"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Fitxategia ez dago erabilgarri demo moduan"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Honek kargatua: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Balio anormalak"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 neurketa hortz bakoitzeko (tarte normala: 1-3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Zerbitzatu"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Zerbitzatu "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Oharrak"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Ez dago periodontogramarik erregistratuta"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Sortu periodontograma"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Programatua"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Baieztatuta"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Osatua"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Bertan behera utzita"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Berretsi"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Utzi"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Monterrey klinika"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "CDMX Klinika"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Guadalajara Klinika"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Hitzordua antolatu"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Itzuli"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Handitu"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Kendu"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Nire kokapena"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Bilatu..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Ez da emaitzarik aurkitu"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Erakusten "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " de"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " emaitzak"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Aurrekoa"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Orria "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " de "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Jarraian"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Hortz Bulegoak Kudeatzeko Sistema."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Baldintzak"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Pribatutasuna"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Laguntzak"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Gaixoak bilatu, hitzorduak..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Jakinarazpenak"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Hitzordu berria antolatu da"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Hortz garbiketa goizeko 10:00etan"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Ordainketa abisua"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "María Gonzálezek 500 dolarreko ordainketa du zain"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Hitzordua bertan behera utzita"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Carlos Ruizek ostiraleko hitzordua bertan behera utzi zuen"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Nire kontua"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profila"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Konfigurazioa"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Amaitu saioa"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Txantxarra"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Pertsianak"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Ausente"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "tratamenduan"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Goiko arkua"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Beheko arkua"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Aktiboa"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Geldirik"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Hurrengo hitzordua:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Ikus Xehetasunak"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Hitzordua antolatu"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% joan den hilabetetik"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Itxi"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Gaurko aurrekontuak"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Hartutako pazienteak"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Eguneko Errenta"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Tratamendu Aktiboak"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Aginte-panela"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Ongi etorri zure kontrol panelera"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Ezin izan dira kargatu paneleko datuak"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Zure hortz klinikaren laburpena"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Paziente Berria"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "Gaixoa"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Zita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Sarrerak vs Gastuak"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Diru-sarreren eta gastuen hileroko alderaketa"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Azken Aipamenak"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Programatutako azken hitzorduak"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Asteko hitzorduak"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Hitzorduen banaketa astean zehar"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Laburpen Orokorra"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Klinikako estatistika orokorra"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Paziente guztira"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Zain dauden zorrak"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Datozen Hitzorduak"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Hileko Balantzea"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Diru-sarrerak guztira"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Gastuak guztira"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balantzea Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Ordainketa Zain"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Finantza"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Kudeatu zure klinikaren finantzak"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Zure klinikaren laburpen ekonomikoa"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Erregistratu Ordainketa"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Azken Errenta"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Azken diru-sarreren mugimenduak"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Ez dago azken diru-sarrerarik erakusteko"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Azken gastuak"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Azken gastuen mugimenduak"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Ez dago azken gasturik erakusteko"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Bilatu dentista, espezialitatea..."
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Bilatu dentista izen, espezialitate edo klinikaren arabera"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Ikusi bulegoak mapan"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Mapa"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Agenda Cita Dental da"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Azkarra, erraza — zuretzat eta nahi duzunarentzat."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Gure dentistak"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Klinika guztietan espezialistak"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Ez dago emaitzarik \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Erreserba"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Ikusi gehiago"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Erabili toothx zure bulegoan"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Itzuli gora"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Hazi zure praktika Dientex-ekin"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Odontologoak pazienteekin lotzen dituen plataforma. Sortu zure profila, erregistratu zure bulegoak eta hasi hitzorduak jasotzen gaur."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Sortu dentistaren profila"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Hasteko doan · Kreditu-txartelik gabe"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Bilatu pazienteak..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Bert"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Gaixoak"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Kudeatu zure pazienteak"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Kudeatu zure pazienteen informazioa"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Gaixoen Zerrenda"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " pazientea"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " aurkitu"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Oraindik ez dago gaixorik erregistratuta"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Ez da gaixorik aurkitu"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Kale Nagusia #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Odontologia Orokorra"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "Pertsonalizatu aplikazioa zure beharren arabera"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Orokorra"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Jakinarazpena."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Segurtasuna"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Berak"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Ezarpen orokorrak"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Klinikaren ezarpen orokorrak"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Klinikaren izena"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Helbidea"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telefonoa"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Posta elektronikoa"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "Gorde aldaketak"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Profilaren informazioa"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "Eguneratu zure informazio pertsonala"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Izen osoa"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Espezialitatea"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "Eguneratu profila"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Jakinarazpenen Hobespenak"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "Konfiguratu jakinarazpenak nola jaso nahi dituzun"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Hitzorduen jakinarazpenak"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Jaso datozen hitzorduen abisuak"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Gaitu"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Ordainketa jakinarazpenak"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Jaso zain dauden ordainketei buruzko alertak"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Posta elektroniko bidezko jakinarazpenak"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Jaso jakinarazpenak zure posta elektronikoan"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Kudeatu zure kontuaren segurtasuna"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Uneko pasahitza"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Pasahitz berria"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Berretsi Pasahitz Berria"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Aldatu pasahitza"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Itxura"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "Pertsonalizatu aplikazioaren itxura"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Modu iluna"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Aldatu modu argiaren eta ilunaren artean"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "Aktibatu"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Letra-tamaina"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Doitu testuaren tamaina"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "Konfiguratu"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Abian"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Bete"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Bertan behera utzita"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Belarritakoa"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "zain"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Tratamenduak"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Tratamenduak kudeatu"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Hortz tratamenduak kudeatu"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Tratamendu Berria"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Tratamendu-zerrenda"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " tratamendua"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " erregistratuta"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Ez dago tratamendurik erregistratuta"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Izenik gabe"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "Pazientea: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Esleitu gabe"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Ikusi xehetasunak"
+  }
+}

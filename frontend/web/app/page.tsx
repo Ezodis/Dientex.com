@@ -7,6 +7,7 @@ import { Card, CardContent } from '@/app/components/ui/card';
 import { Input } from '@/app/components/ui/input';
 import Link from 'next/link';
 import ClinicMapClient from '@/app/components/clinic-map-client';
+import { useInterfaceTranslator } from '../localization/client'
 
 /* ─────────────────────────── static data ─────────────────────────── */
 
@@ -62,6 +63,7 @@ const FEATURES = [
 const INITIAL_DENTIST_COUNT = 3;
 
 export default function Home() {
+  const translate = useInterfaceTranslator()
   const [search, setSearch] = useState('');
   const [showAll, setShowAll] = useState(false);
   const [slide, setSlide] = useState(0); // 0 = dentist list, 1 = map
@@ -155,8 +157,8 @@ export default function Home() {
                 <div className="relative max-w-xs mx-auto mb-6">
                   <Search aria-hidden="true" className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground pointer-events-none" />
                   <Input
-                    placeholder="Buscar dentista, especialidad…"
-                    aria-label="Buscar dentista por nombre, especialidad o clínica"
+                    placeholder={translate("Buscar dentista, especialidad…")}
+                    aria-label={translate("Buscar dentista por nombre, especialidad o clínica")}
                     value={search}
                     onChange={(e) => { setSearch(e.target.value); setShowAll(false); }}
                     className="pl-9"

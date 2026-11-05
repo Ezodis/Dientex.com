@@ -1,0 +1,966 @@
+{
+  "m79b2ae3b": {
+    "source": "Citas",
+    "translation": "Iba"
+  },
+  "m4551ffc3": {
+    "source": "Gestiona tus citas",
+    "translation": "Pamahalaan ang iyong mga appointment"
+  },
+  "mf38d9cf1": {
+    "source": "Error",
+    "translation": "Error"
+  },
+  "mb690cfe5": {
+    "source": "Reintentar",
+    "translation": "Subukan muli"
+  },
+  "mcaa1e579": {
+    "source": "Gestiona el calendario de citas",
+    "translation": "Pamahalaan ang kalendaryo ng appointment"
+  },
+  "m9241be09": {
+    "source": "Nueva Cita",
+    "translation": "Bagong Appointment"
+  },
+  "m1090eeee": {
+    "source": "Calendario de Citas",
+    "translation": "Kalendaryo ng appointment"
+  },
+  "m994b2a78": {
+    "source": " cita",
+    "translation": " pangarap"
+  },
+  "mf60c4582": {
+    "source": "s",
+    "translation": "s"
+  },
+  "m1bc08e7": {
+    "source": " programada",
+    "translation": " nakaiskedyul"
+  },
+  "mfa6604fd": {
+    "source": "No hay citas programadas",
+    "translation": "Walang mga naka-iskedyul na appointment"
+  },
+  "mccca30f1": {
+    "source": "Vista Clínica",
+    "translation": "Klinikal na Pananaw"
+  },
+  "mf17d50ca": {
+    "source": "Cargando historial clínico...",
+    "translation": "Nilo-load ang klinikal na kasaysayan..."
+  },
+  "m39147212": {
+    "source": "Historial médico, notas clínicas y odontograma del paciente",
+    "translation": "Kasaysayan ng medikal, mga tala sa klinikal at odontogram ng pasyente"
+  },
+  "m22b3f641": {
+    "source": "Datos de demostración",
+    "translation": "Demo data"
+  },
+  "m771d94c1": {
+    "source": "Última actualización: ",
+    "translation": "Huling update: "
+  },
+  "ma0c54319": {
+    "source": "Historial Médico",
+    "translation": "Kasaysayang Medikal"
+  },
+  "m2a6af41a": {
+    "source": "Notas Clínicas",
+    "translation": "Mga Tala sa Klinikal"
+  },
+  "mcad7b2c4": {
+    "source": "Odontograma",
+    "translation": "Odontogram"
+  },
+  "mc46b7e2c": {
+    "source": "Archivos",
+    "translation": "Mga file"
+  },
+  "m9d26ac4a": {
+    "source": "Periodontograma",
+    "translation": "Periodontograma"
+  },
+  "m5dc787fa": {
+    "source": "Enfermedades Crónicas",
+    "translation": "Mga Malalang Sakit"
+  },
+  "m50f966e1": {
+    "source": "Sin enfermedades crónicas registradas",
+    "translation": "Walang naitalang talamak na sakit"
+  },
+  "me8033128": {
+    "source": "Medicamentos Actuales",
+    "translation": "Mga Kasalukuyang Gamot"
+  },
+  "m85672e03": {
+    "source": "Sin medicamentos registrados",
+    "translation": "Walang nakarehistrong gamot"
+  },
+  "m46323227": {
+    "source": "Alergias",
+    "translation": "Mga allergy"
+  },
+  "m2fe81e6": {
+    "source": "Sin alergias conocidas",
+    "translation": "Walang kilalang allergy"
+  },
+  "m3312239c": {
+    "source": "Tratamientos Dentales Previos",
+    "translation": "Mga Nakaraang Paggamot sa Ngipin"
+  },
+  "m28cabb15": {
+    "source": "Sin tratamientos previos registrados",
+    "translation": "Walang mga nakaraang paggamot na naitala"
+  },
+  "mba67d741": {
+    "source": "Hábitos y Observaciones",
+    "translation": "Mga gawi at obserbasyon"
+  },
+  "md95dc7f3": {
+    "source": "Fumador",
+    "translation": "Naninigarilyo"
+  },
+  "m9f6da18a": {
+    "source": "No fumador",
+    "translation": "hindi naninigarilyo"
+  },
+  "m392216a3": {
+    "source": "Consume alcohol",
+    "translation": "Uminom ng alak"
+  },
+  "m93a7ea0e": {
+    "source": "No consume alcohol",
+    "translation": "Bawal uminom ng alak"
+  },
+  "m1ae1788a": {
+    "source": "No hay historial médico registrado",
+    "translation": "Walang naitalang medikal na kasaysayan"
+  },
+  "m87b396e8": {
+    "source": "Crear historial médico",
+    "translation": "Lumikha ng medikal na kasaysayan"
+  },
+  "m360b9be3": {
+    "source": " nota",
+    "translation": " gamitin"
+  },
+  "mdb8c6632": {
+    "source": " clínica",
+    "translation": " klinika"
+  },
+  "m12d50266": {
+    "source": "Nueva nota",
+    "translation": "Bagong tala"
+  },
+  "m8ce61582": {
+    "source": "No hay notas clínicas registradas",
+    "translation": "Walang mga talang klinikal na naitala"
+  },
+  "medcf7552": {
+    "source": "Observaciones clínicas",
+    "translation": "Mga klinikal na obserbasyon"
+  },
+  "mc125218d": {
+    "source": " archivo",
+    "translation": " archive"
+  },
+  "m1d2d7872": {
+    "source": "Subir archivo",
+    "translation": "Mag-upload ng file"
+  },
+  "m79f9be1f": {
+    "source": "No hay archivos clínicos adjuntos",
+    "translation": "Walang mga klinikal na file na nakalakip"
+  },
+  "m94e04670": {
+    "source": "Foto Clínica",
+    "translation": "Klinikal na Larawan"
+  },
+  "m7f6aefe4": {
+    "source": "Radiografía",
+    "translation": "Radiography"
+  },
+  "m37dd173": {
+    "source": "Documento PDF",
+    "translation": "PDF na dokumento"
+  },
+  "m7e18c4d1": {
+    "source": "Otro",
+    "translation": "Iba pa"
+  },
+  "m9e207142": {
+    "source": "Ver archivo",
+    "translation": "Tingnan ang file"
+  },
+  "mfa45b711": {
+    "source": "Archivo no disponible en modo demostración",
+    "translation": "Hindi available ang file sa demo mode"
+  },
+  "m3f8a964e": {
+    "source": "Subido por: ",
+    "translation": "Na-upload ni: "
+  },
+  "m7e9d25d": {
+    "source": "Valores anormales",
+    "translation": "Mga abnormal na halaga"
+  },
+  "mc3e44b8f": {
+    "source": "6 mediciones por diente (rango normal: 1–3 mm)",
+    "translation": "6 na sukat bawat ngipin (normal na saklaw: 1–3 mm)"
+  },
+  "maebaafa": {
+    "source": "Diente",
+    "translation": "Inihain"
+  },
+  "m13df878b": {
+    "source": "M1",
+    "translation": "M1"
+  },
+  "m14df891e": {
+    "source": "M2",
+    "translation": "M2"
+  },
+  "m15df8ab1": {
+    "source": "M3",
+    "translation": "M3"
+  },
+  "m16df8c44": {
+    "source": "M4",
+    "translation": "M4"
+  },
+  "m17df8dd7": {
+    "source": "M5",
+    "translation": "M5"
+  },
+  "m18df8f6a": {
+    "source": "M6",
+    "translation": "M6"
+  },
+  "mafdf52e": {
+    "source": "Diente ",
+    "translation": "Inihain "
+  },
+  "mf7e6fb46": {
+    "source": "Notas",
+    "translation": "Mga Tala"
+  },
+  "mafef49b1": {
+    "source": "No hay periodontograma registrado",
+    "translation": "Walang periodontogram na naitala"
+  },
+  "m2fd8b565": {
+    "source": "Crear periodontograma",
+    "translation": "Lumikha ng periodontogram"
+  },
+  "m3f71e15d": {
+    "source": "Programada",
+    "translation": "Naka-iskedyul"
+  },
+  "meb165b91": {
+    "source": "Confirmada",
+    "translation": "Nakumpirma"
+  },
+  "m81d7af75": {
+    "source": "Completada",
+    "translation": "Nakumpleto"
+  },
+  "m71e044d": {
+    "source": "Cancelada",
+    "translation": "Kinansela"
+  },
+  "m22380468": {
+    "source": "Confirmar",
+    "translation": "Kumpirmahin"
+  },
+  "mea3d2b54": {
+    "source": "Cancelar",
+    "translation": "Kanselahin"
+  },
+  "m643a066b": {
+    "source": "Clínica Monterrey",
+    "translation": "Klinika ng Monterrey"
+  },
+  "m428bb012": {
+    "source": "Clínica CDMX",
+    "translation": "Klinika ng CDMX"
+  },
+  "m2ba5400f": {
+    "source": "Clínica Guadalajara",
+    "translation": "Klinika ng Guadalajara"
+  },
+  "mce2ad978": {
+    "source": "Agendar cita",
+    "translation": "Mag-iskedyul ng appointment"
+  },
+  "m1df7d173": {
+    "source": "Volver",
+    "translation": "Bumalik"
+  },
+  "m9047cf50": {
+    "source": "Acercar",
+    "translation": "Mag-zoom in"
+  },
+  "m7e5fb1e8": {
+    "source": "Alejar",
+    "translation": "Alisin"
+  },
+  "mb567c348": {
+    "source": "Mi ubicación",
+    "translation": "Aking lokasyon"
+  },
+  "m55275f11": {
+    "source": "Buscar...",
+    "translation": "Hanapin mo..."
+  },
+  "m12a2627b": {
+    "source": "No se encontraron resultados",
+    "translation": "Walang nakitang resulta"
+  },
+  "m264fe6c6": {
+    "source": "Mostrando ",
+    "translation": "Nagpapakita "
+  },
+  "mb1902bec": {
+    "source": " de",
+    "translation": " ng"
+  },
+  "me8998385": {
+    "source": " resultados",
+    "translation": " resulta"
+  },
+  "m7f5df705": {
+    "source": "Anterior",
+    "translation": "Nauuna"
+  },
+  "m83d97205": {
+    "source": "Página ",
+    "translation": "Pahina "
+  },
+  "m51f4f224": {
+    "source": " de ",
+    "translation": " ng "
+  },
+  "m28b1c3f4": {
+    "source": "Siguiente",
+    "translation": "Sumusunod"
+  },
+  "m331bc3c5": {
+    "source": "© 2024 Dientex. Sistema de Gestión de Consultorio Dental.",
+    "translation": "© 2024 Dientex. Dental Office Management System."
+  },
+  "mdd2a1272": {
+    "source": "Términos",
+    "translation": "Mga tuntunin"
+  },
+  "mb7baa774": {
+    "source": "Privacidad",
+    "translation": "Pagkapribado"
+  },
+  "m530cc80d": {
+    "source": "Ayuda",
+    "translation": "Tulong"
+  },
+  "m4edbe8cb": {
+    "source": "Buscar pacientes, citas...",
+    "translation": "Maghanap ng mga pasyente, appointment..."
+  },
+  "mc10bf213": {
+    "source": "D",
+    "translation": "D"
+  },
+  "meac39b81": {
+    "source": "Notificaciones",
+    "translation": "Mga abiso"
+  },
+  "m1233b513": {
+    "source": "Nueva cita programada",
+    "translation": "Nakaiskedyul ang bagong appointment"
+  },
+  "m45109ae1": {
+    "source": "Juan Pérez - Limpieza dental a las 10:00 AM",
+    "translation": "Juan Pérez - Paglilinis ng ngipin sa 10:00 AM"
+  },
+  "ma74aa890": {
+    "source": "Recordatorio de pago",
+    "translation": "Paalala sa pagbabayad"
+  },
+  "mc1f7d356": {
+    "source": "María González tiene un pago pendiente de $500",
+    "translation": "Si María González ay may nakabinbing bayad na $500"
+  },
+  "mec69bb10": {
+    "source": "Cita cancelada",
+    "translation": "Kinansela ang appointment"
+  },
+  "mb66c9b08": {
+    "source": "Carlos Ruiz canceló su cita del viernes",
+    "translation": "Kinansela ni Carlos Ruiz ang kanyang appointment sa Biyernes"
+  },
+  "ma74a5cb5": {
+    "source": "Mi Cuenta",
+    "translation": "Aking Account"
+  },
+  "mf48bbe83": {
+    "source": "Perfil",
+    "translation": "Profile"
+  },
+  "me09447ee": {
+    "source": "Configuración",
+    "translation": "Configuration"
+  },
+  "m5133aef7": {
+    "source": "Cerrar Sesión",
+    "translation": "Mag-sign Out"
+  },
+  "m2ecfdc89": {
+    "source": "© 2024 Dientex",
+    "translation": "© 2024 Dientex"
+  },
+  "m4740dbae": {
+    "source": "Sano",
+    "translation": "Sano"
+  },
+  "m3aedfa7c": {
+    "source": "Caries",
+    "translation": "Mga karies"
+  },
+  "mddfa4717": {
+    "source": "Obturado",
+    "translation": "Nakasara"
+  },
+  "mcb238758": {
+    "source": "Ausente",
+    "translation": "Wala"
+  },
+  "mcb8532d8": {
+    "source": "En tratamiento",
+    "translation": "sa paggamot"
+  },
+  "mabef1a70": {
+    "source": "Arcada Superior",
+    "translation": "Upper Arch"
+  },
+  "m505779cd": {
+    "source": "Arcada Inferior",
+    "translation": "Lower Arch"
+  },
+  "m2989230d": {
+    "source": "Activo",
+    "translation": "Asset"
+  },
+  "m8a1ac106": {
+    "source": "Inactivo",
+    "translation": "Idle"
+  },
+  "m1585c856": {
+    "source": "Próxima cita:",
+    "translation": "Susunod na appointment:"
+  },
+  "m180db732": {
+    "source": "Ver Detalles",
+    "translation": "Tingnan ang Mga Detalye"
+  },
+  "m674b4258": {
+    "source": "Agendar Cita",
+    "translation": "Mag-iskedyul ng Appointment"
+  },
+  "mf46d5963": {
+    "source": "% desde el mes pasado",
+    "translation": "% mula noong nakaraang buwan"
+  },
+  "mcd86acc3": {
+    "source": "Close",
+    "translation": "Isara"
+  },
+  "ma83ad6d6": {
+    "source": "Citas de Hoy",
+    "translation": "Mga Quote Ngayon"
+  },
+  "m49afa33e": {
+    "source": "Pacientes Atendidos",
+    "translation": "Napagsilbihan ang mga Pasyente"
+  },
+  "m1211b62e": {
+    "source": "Ingresos del Día",
+    "translation": "Araw-araw na Kita"
+  },
+  "mcdc6467f": {
+    "source": "Tratamientos Activos",
+    "translation": "Mga Aktibong Paggamot"
+  },
+  "m11f6d87b": {
+    "source": "Dashboard",
+    "translation": "Dashboard"
+  },
+  "mc10ee01c": {
+    "source": "Bienvenido a tu panel de control",
+    "translation": "Maligayang pagdating sa iyong control panel"
+  },
+  "m64181114": {
+    "source": "No se pudieron cargar los datos del dashboard",
+    "translation": "Hindi ma-load ang data ng dashboard"
+  },
+  "mbecced9f": {
+    "source": "Resumen de tu clínica dental",
+    "translation": "Buod ng iyong dental clinic"
+  },
+  "m1fde2f9f": {
+    "source": "Nuevo Paciente",
+    "translation": "Bagong Pasyente"
+  },
+  "mc4e9c602": {
+    "source": "Paciente",
+    "translation": "pasyente"
+  },
+  "m886b29ca": {
+    "source": "Cita",
+    "translation": "Cita"
+  },
+  "m59c9f40d": {
+    "source": "Ingresos vs Gastos",
+    "translation": "Kita vs Mga Gastos"
+  },
+  "mcd066ba7": {
+    "source": "Comparación mensual de ingresos y gastos",
+    "translation": "Buwanang paghahambing ng kita at gastos"
+  },
+  "m643a62f5": {
+    "source": "Citas Recientes",
+    "translation": "Mga Kamakailang Quote"
+  },
+  "m677bae0e": {
+    "source": "Últimas citas programadas",
+    "translation": "Pinakabagong nakaiskedyul na mga appointment"
+  },
+  "mca08bc9e": {
+    "source": "Citas Semanales",
+    "translation": "Lingguhang Appointment"
+  },
+  "m967f86ea": {
+    "source": "Distribución de citas durante la semana",
+    "translation": "Pamamahagi ng mga appointment sa isang linggo"
+  },
+  "m9b623fcc": {
+    "source": "Resumen General",
+    "translation": "Pangkalahatang Buod"
+  },
+  "md5fd6433": {
+    "source": "Estadísticas generales de la clínica",
+    "translation": "Pangkalahatang istatistika ng klinika"
+  },
+  "mfc4057e0": {
+    "source": "Total de Pacientes",
+    "translation": "Kabuuang mga Pasyente"
+  },
+  "m411eb55d": {
+    "source": "Adeudos Pendientes",
+    "translation": "Nakabinbing Utang"
+  },
+  "m685faf0e": {
+    "source": "Próximas Citas",
+    "translation": "Mga Paparating na Appointment"
+  },
+  "md78fd886": {
+    "source": "Balance Mensual",
+    "translation": "Buwanang Balanse"
+  },
+  "m50536367": {
+    "source": "Ingresos Totales",
+    "translation": "Kabuuang Kita"
+  },
+  "m4e6caa1e": {
+    "source": "Gastos Totales",
+    "translation": "Kabuuang Gastos"
+  },
+  "m6b959e71": {
+    "source": "Balance Neto",
+    "translation": "Balanse Neto"
+  },
+  "ma1c4d7ea": {
+    "source": "Pagos Pendientes",
+    "translation": "Nakabinbing Mga Pagbabayad"
+  },
+  "mb0f0f7cd": {
+    "source": "Finanzas",
+    "translation": "Pananalapi"
+  },
+  "m23aa229c": {
+    "source": "Gestiona las finanzas de tu clínica",
+    "translation": "Pamahalaan ang pananalapi ng iyong klinika"
+  },
+  "mf17e208b": {
+    "source": "Resumen financiero de tu clínica",
+    "translation": "Buod ng pananalapi ng iyong klinika"
+  },
+  "m52f833ed": {
+    "source": "Registrar Pago",
+    "translation": "Magrehistro ng Pagbabayad"
+  },
+  "mc28f90cf": {
+    "source": "Ingresos Recientes",
+    "translation": "Kamakailang Kita"
+  },
+  "m4ba9c122": {
+    "source": "Últimos movimientos de ingresos",
+    "translation": "Pinakabagong paggalaw ng kita"
+  },
+  "ma52d8d70": {
+    "source": "No hay ingresos recientes para mostrar",
+    "translation": "Walang maipakitang kamakailang kita"
+  },
+  "m487d064e": {
+    "source": "Gastos Recientes",
+    "translation": "Mga Kamakailang Gastos"
+  },
+  "m2427dd07": {
+    "source": "Últimos movimientos de gastos",
+    "translation": "Pinakabagong paggalaw ng gastos"
+  },
+  "m7a849c97": {
+    "source": "No hay gastos recientes para mostrar",
+    "translation": "Walang maipapakita kamakailang mga gastos"
+  },
+  "m9f3bd577": {
+    "source": "Buscar dentista, especialidad…",
+    "translation": "Maghanap ng dentista, specialty…"
+  },
+  "m997f8c05": {
+    "source": "Buscar dentista por nombre, especialidad o clínica",
+    "translation": "Maghanap ng dentista ayon sa pangalan, espesyalidad o klinika"
+  },
+  "m2c7c8a49": {
+    "source": "Ver consultorios en el mapa",
+    "translation": "Tingnan ang mga opisina sa mapa"
+  },
+  "m445f1b90": {
+    "source": "Mapa",
+    "translation": "Mapa"
+  },
+  "m572259f9": {
+    "source": "Agenda tu Cita Dental",
+    "translation": "Ang agenda ay Cita Dental"
+  },
+  "m5aa1ecf3": {
+    "source": "Rápido, fácil — para ti y para quien quieras.",
+    "translation": "Mabilis, madali — para sa iyo at sa sinumang gusto mo."
+  },
+  "m69af595f": {
+    "source": "Nuestros dentistas",
+    "translation": "Ang aming mga dentista"
+  },
+  "mde68b4d9": {
+    "source": "Especialistas en todas las clínicas",
+    "translation": "Mga espesyalista sa lahat ng klinika"
+  },
+  "m9ca302d": {
+    "source": "Sin resultados para “",
+    "translation": "Walang mga resulta para sa \""
+  },
+  "md091b39f": {
+    "source": "Reservar",
+    "translation": "Reserve"
+  },
+  "mdc43c299": {
+    "source": "Ver más",
+    "translation": "Tingnan ang higit pa"
+  },
+  "mf1a07e9b": {
+    "source": "Utiliza dientex en tu consultorio",
+    "translation": "Gumamit ng toothx sa iyong opisina"
+  },
+  "mf82116ca": {
+    "source": "Volver arriba",
+    "translation": "Bumalik sa itaas"
+  },
+  "mcec0f66d": {
+    "source": "Haz crecer tu consultorio con Dientex",
+    "translation": "Palakihin ang iyong pagsasanay sa Dientex"
+  },
+  "m5e1ae11a": {
+    "source": "La plataforma que conecta dentistas con pacientes. Crea tu perfil, registra tus consultorios y empieza a recibir citas hoy.",
+    "translation": "Ang platform na nag-uugnay sa mga dentista sa mga pasyente. Lumikha ng iyong profile, irehistro ang iyong mga opisina at simulan ang pagtanggap ng mga appointment ngayon."
+  },
+  "m4c8f4ad9": {
+    "source": "Crear perfil de dentista",
+    "translation": "Lumikha ng profile ng dentista"
+  },
+  "m1ec2fb72": {
+    "source": "Gratis para empezar · Sin tarjeta de crédito",
+    "translation": "Libre upang magsimula · Walang credit card"
+  },
+  "m8149e831": {
+    "source": "Buscar pacientes...",
+    "translation": "Maghanap ng mga pasyente..."
+  },
+  "me4bb0022": {
+    "source": "Ver",
+    "translation": "Ver"
+  },
+  "m6d0363e3": {
+    "source": "Pacientes",
+    "translation": "Mga pasyente"
+  },
+  "m40c1a5bb": {
+    "source": "Gestiona tus pacientes",
+    "translation": "Pamahalaan ang iyong mga pasyente"
+  },
+  "mca46124e": {
+    "source": "Gestiona la información de tus pacientes",
+    "translation": "Pamahalaan ang impormasyon ng iyong mga pasyente"
+  },
+  "m57bd2f37": {
+    "source": "Lista de Pacientes",
+    "translation": "Listahan ng Pasyente"
+  },
+  "m5b1de4d4": {
+    "source": " paciente",
+    "translation": " pasyente"
+  },
+  "mfd43d8f4": {
+    "source": " encontrado",
+    "translation": " natagpuan"
+  },
+  "mc1d208bc": {
+    "source": "No hay pacientes registrados aún",
+    "translation": "Wala pang nakarehistrong pasyente"
+  },
+  "mc5ea3f83": {
+    "source": "No se encontraron pacientes",
+    "translation": "Walang nakitang pasyente"
+  },
+  "m683bf54d": {
+    "source": "Calle Principal #123",
+    "translation": "Pangunahing Kalye #123"
+  },
+  "m1bf76c56": {
+    "source": "Odontología General",
+    "translation": "Pangkalahatang Dentistry"
+  },
+  "md6698270": {
+    "source": "Personaliza la aplicación según tus necesidades",
+    "translation": "I-customize ang app ayon sa iyong mga pangangailangan"
+  },
+  "m5561fd0b": {
+    "source": "General",
+    "translation": "Heneral"
+  },
+  "m41c05359": {
+    "source": "Notif.",
+    "translation": "Abiso."
+  },
+  "m81a0cbf1": {
+    "source": "Seguridad",
+    "translation": "Seguridad"
+  },
+  "m2f47f124": {
+    "source": "Tema",
+    "translation": "Siya"
+  },
+  "mb4e26d82": {
+    "source": "Configuración General",
+    "translation": "Mga Pangkalahatang Setting"
+  },
+  "ma2d9528b": {
+    "source": "Ajustes generales de la clínica",
+    "translation": "Pangkalahatang mga setting ng klinika"
+  },
+  "m651cf211": {
+    "source": "Nombre de la Clínica",
+    "translation": "Pangalan ng Clinic"
+  },
+  "md94e0135": {
+    "source": "Dirección",
+    "translation": "Address"
+  },
+  "m2a032485": {
+    "source": "Teléfono",
+    "translation": "Telepono"
+  },
+  "m52ae4b08": {
+    "source": "Correo Electrónico",
+    "translation": "Email"
+  },
+  "mf732c41": {
+    "source": "Guardar Cambios",
+    "translation": "I-save ang Mga Pagbabago"
+  },
+  "m4dc6973": {
+    "source": "Información del Perfil",
+    "translation": "Impormasyon sa Profile"
+  },
+  "m4cd465b1": {
+    "source": "Actualiza tu información personal",
+    "translation": "I-update ang iyong personal na impormasyon"
+  },
+  "m22abee25": {
+    "source": "Nombre Completo",
+    "translation": "Buong Pangalan"
+  },
+  "mf4df4ce3": {
+    "source": "Especialidad",
+    "translation": "Espesyalidad"
+  },
+  "mdcebc6bf": {
+    "source": "Actualizar Perfil",
+    "translation": "I-update ang Profile"
+  },
+  "m3811ea8d": {
+    "source": "Preferencias de Notificaciones",
+    "translation": "Mga Kagustuhan sa Notification"
+  },
+  "m9b1e2630": {
+    "source": "Configura cómo deseas recibir notificaciones",
+    "translation": "I-configure kung paano mo gustong makatanggap ng mga notification"
+  },
+  "m369685bc": {
+    "source": "Notificaciones de Citas",
+    "translation": "Mga Abiso sa Paghirang"
+  },
+  "m6e609185": {
+    "source": "Recibe recordatorios de citas próximas",
+    "translation": "Tumanggap ng mga paalala ng mga paparating na appointment"
+  },
+  "md2f48ca3": {
+    "source": "Habilitar",
+    "translation": "Paganahin"
+  },
+  "mda81800e": {
+    "source": "Notificaciones de Pagos",
+    "translation": "Mga Notification sa Pagbabayad"
+  },
+  "m55c49cd1": {
+    "source": "Recibe alertas sobre pagos pendientes",
+    "translation": "Makatanggap ng mga alerto tungkol sa mga nakabinbing pagbabayad"
+  },
+  "m45f5b6b8": {
+    "source": "Notificaciones por Email",
+    "translation": "Mga Notification sa Email"
+  },
+  "m9d757a6a": {
+    "source": "Recibe notificaciones en tu correo electrónico",
+    "translation": "Makatanggap ng mga notification sa iyong email"
+  },
+  "m335e62a2": {
+    "source": "Gestiona la seguridad de tu cuenta",
+    "translation": "Pamahalaan ang seguridad ng iyong account"
+  },
+  "mbdd74984": {
+    "source": "Contraseña Actual",
+    "translation": "Kasalukuyang Password"
+  },
+  "m6a5a779": {
+    "source": "Nueva Contraseña",
+    "translation": "Bagong Password"
+  },
+  "m7aecde78": {
+    "source": "Confirmar Nueva Contraseña",
+    "translation": "Kumpirmahin ang Bagong Password"
+  },
+  "mea09193d": {
+    "source": "Cambiar Contraseña",
+    "translation": "Baguhin ang Password"
+  },
+  "m1ddf301c": {
+    "source": "Apariencia",
+    "translation": "Hitsura"
+  },
+  "mc22c7052": {
+    "source": "Personaliza la apariencia de la aplicación",
+    "translation": "I-customize ang hitsura ng app"
+  },
+  "m5a505e39": {
+    "source": "Modo Oscuro",
+    "translation": "Dark Mode"
+  },
+  "m83b2bf20": {
+    "source": "Cambia entre modo claro y oscuro",
+    "translation": "Lumipat sa pagitan ng light at dark mode"
+  },
+  "mc9c028e3": {
+    "source": "Activar",
+    "translation": "I-activate"
+  },
+  "m1b9e5194": {
+    "source": "Tamaño de Fuente",
+    "translation": "Laki ng Font"
+  },
+  "m56200c2a": {
+    "source": "Ajusta el tamaño del texto",
+    "translation": "Ayusin ang laki ng teksto"
+  },
+  "m94dfb09f": {
+    "source": "Configurar",
+    "translation": "I-configure"
+  },
+  "mfdf3e8d5": {
+    "source": "En progreso",
+    "translation": "Isinasagawa"
+  },
+  "m83d7b29b": {
+    "source": "Completado",
+    "translation": "Napuno"
+  },
+  "mf91dee43": {
+    "source": "Cancelado",
+    "translation": "Kinansela"
+  },
+  "m39ffff4b": {
+    "source": "Pendiente",
+    "translation": "Hikaw"
+  },
+  "m99bf7f3c": {
+    "source": "pending",
+    "translation": "nakabinbin"
+  },
+  "m9666f2ba": {
+    "source": "Tratamientos",
+    "translation": "Mga paggamot"
+  },
+  "mc6f49830": {
+    "source": "Gestiona los tratamientos",
+    "translation": "Pamahalaan ang mga paggamot"
+  },
+  "mabb2f020": {
+    "source": "Gestiona los tratamientos dentales",
+    "translation": "Pamahalaan ang mga paggamot sa ngipin"
+  },
+  "mbcbeb8ba": {
+    "source": "Nuevo Tratamiento",
+    "translation": "Bagong Paggamot"
+  },
+  "m14cd497e": {
+    "source": "Lista de Tratamientos",
+    "translation": "Listahan ng Paggamot"
+  },
+  "m1d8de4a7": {
+    "source": " tratamiento",
+    "translation": " paggamot"
+  },
+  "ma9add949": {
+    "source": " registrado",
+    "translation": " nakarehistro"
+  },
+  "m2e25aacc": {
+    "source": "No hay tratamientos registrados",
+    "translation": "Walang mga rehistradong paggamot"
+  },
+  "m3ee683e2": {
+    "source": "Sin nombre",
+    "translation": "Walang pangalan"
+  },
+  "me8c8ca98": {
+    "source": "Paciente: ",
+    "translation": "pasyente: "
+  },
+  "m69f37c88": {
+    "source": "Sin asignar",
+    "translation": "Hindi nakatalaga"
+  },
+  "mfb0cc352": {
+    "source": "Ver detalles",
+    "translation": "Tingnan ang mga detalye"
+  }
+}
