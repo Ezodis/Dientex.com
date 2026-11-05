@@ -1,0 +1,8 @@
+-r base.txt
+
+# Production server
+gunicorn==23.0.0
+
+# Project-specific integrations
+google-cloud-storage==3.2.0
+django-storages[google]==1.14.6

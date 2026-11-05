@@ -1,0 +1,4 @@
+# System packages installed via apt-get during Docker build.
+# One package per line. Comments and blank lines are ignored.
+# These are build-time dependencies (compilers, headers, etc.)
+# For runtime system packages, use runtime-packages.txt instead.

@@ -1,0 +1,12 @@
+-r base.txt
+
+# PUBLIC_SERVE uses this server in the development image for public access.
+gunicorn==23.0.0
+
+# Development-only packages
+django-extensions==3.2.3
+pytest==8.4.2
+pytest-django==4.14.0
+pytest-cov==4.1.0
+
+# Project-specific integrations
