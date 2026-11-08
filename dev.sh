@@ -234,6 +234,9 @@ if [[ "$(uname -s)" == "Darwin" ]]; then
 fi
 COMPOSE_FILE="$ROOT_DIR/dev.yml"
 MOBILE_DIR="$ROOT_DIR/frontend/mobile"
+# dev.yml bind-mounts frontend/mobile/shared; projects without mobile apps
+# still need the directory or the web container cannot start.
+mkdir -p "$MOBILE_DIR/shared"
 
 # Always declare MOBILE_APPS so it exists as an array
 MOBILE_APPS=()
