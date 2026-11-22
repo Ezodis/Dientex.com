@@ -6461,26 +6461,15 @@ _do_rebuild() {
     fi
   fi
 
-  # ── Ensure Podman machine has enough disk space (macOS only) ─────────────
-  if command -v podman &>/dev/null && [[ "$OS" == "mac" ]]; then
+  # Report capacity without deleting a VM that may hold other projects' data.
+  if command -v podman &>/dev/null && [[ "$OS" == "mac" && "$_DOWN_ALL" != "true" ]]; then
     local machine_disk
     machine_disk=$(podman machine inspect --format '{{.Resources.DiskSize}}' 2>/dev/null || echo "0")
     [[ "$machine_disk" =~ ^[0-9]+$ ]] || machine_disk=0
     if (( machine_disk < 150 )); then
       echo ""
-      echo "⚠️  Podman machine disk is only ${machine_disk}GiB — recreating with 200GiB..."
-      podman machine stop 2>/dev/null || true
-      podman machine rm --force 2>/dev/null || true
-      echo "🖥️  Creating new Podman machine with 200GiB disk..."
-      podman machine init --cpus 4 --memory 8192 --disk-size 60 2>&1 || true
-      podman machine start 2>&1 || true
-      local _mw=0
-      while [[ $_mw -lt 60 ]]; do
-        podman ps >/dev/null 2>&1 && break
-        sleep 2; _mw=$((_mw + 2))
-      done
-      _wire_podman_socket
-      echo "✅ Podman machine ready (200GiB)"
+      echo "ℹ️  Podman machine disk is ${machine_disk}GiB. Its existing containers, volumes and databases are preserved."
+      echo "   If more capacity is needed, review the machine provider's supported resize or migration procedure."
       echo ""
     fi
   fi

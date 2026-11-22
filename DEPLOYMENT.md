@@ -30,7 +30,7 @@ Your Next.js frontend is deployed on Vercel at `https://dientex.com`
 1. **Configure Root Directory:**
    - Go to Project Settings
    - Find "Root Directory" section
-   - Set to: `frontend`
+   - Set to: `frontend/web`
    - Save changes
 
 2. **Add Environment Variable:**
@@ -50,8 +50,8 @@ Your Next.js frontend is deployed on Vercel at `https://dientex.com`
 ### Vercel Configuration:
 The `vercel.json` file is configured to:
 - Use Next.js framework
-- Build from the `frontend` directory
-- Rewrite `/api/*` requests to your backend
+- Build from the `frontend/web` directory
+- Use the backend URL configured in `NEXT_PUBLIC_API_URL`
 
 ## Testing the Deployment
 
